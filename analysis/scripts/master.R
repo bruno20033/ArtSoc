@@ -66,6 +66,9 @@ source(file = file.path(DIR_SCRIPTS,'v.common_utils.R'))
 # Plotting draws from MVN loop
 source(file = file.path(DIR_SCRIPTS,'v1.mvn_plot.R'))
 
+# Saturn plot: Global constraint visualization via MAC
+source(file = file.path(DIR_SCRIPTS,'v1_b.saturn_plot.R'))
+
 # Plot constraint statistics
 source(file = file.path(DIR_SCRIPTS,'v2_a.constraint_stats.R'))
 source(file = file.path(DIR_SCRIPTS,'v2_b.constraint_stats_delta.R'))
