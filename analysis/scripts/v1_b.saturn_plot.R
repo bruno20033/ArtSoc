@@ -414,6 +414,196 @@ create_saturn_plot <- function(
 }
 
 
+# ---- Facet Grid Overview (Q95 → Q5) ----
+
+create_saturn_facet_grid <- function(
+    base_out_dir      = BASE_OUT_DIR,
+    base_viz_dir      = BASE_VIZ_DIR,
+    year              = YEAR,
+    prob              = 0.5,
+    quantile_seq      = seq(0.95, 0.05, by = -0.05),  # Q95 → Q5
+
+    highlight_gss     = TRUE,
+    llm_color         = "steelblue",  # All LLMs same color
+    llm_alpha         = 0.3,
+    llm_width         = 0.4,
+    gss_width         = 1.2,
+
+    facet_ncol        = 5,  # Columns in facet grid
+
+    save_pdf          = TRUE,
+    output_file       = NULL
+) {
+
+  message("\n=== Saturn Facet Grid (Q95 → Q5) ===")
+  message("Quantile range: ", min(quantile_seq), " to ", max(quantile_seq))
+  message("Number of facets: ", length(quantile_seq))
+
+  # Get all raters
+  raters <- available_raters(base_out_dir = base_out_dir, year = year)
+  message("Found ", length(raters), " raters")
+
+  if (length(raters) == 0) {
+    stop("No raters found in ", base_out_dir)
+  }
+
+  # Load correlation matrices and compute quantiles
+  all_quantile_data <- list()
+
+  for (rater in raters) {
+    message("Processing: ", rater)
+
+    corr_list <- tryCatch(
+      load_corr_for_rater(rater = rater, base_out_dir = base_out_dir, year = year, strict = FALSE),
+      error = function(e) NULL
+    )
+
+    if (!is.null(corr_list) && length(corr_list) > 0) {
+      quant_stats <- compute_correlation_quantiles(corr_list, probs = quantile_seq)
+      quant_stats$rater <- rater
+      all_quantile_data[[rater]] <- quant_stats
+    }
+  }
+
+  if (length(all_quantile_data) == 0) {
+    stop("No correlation data loaded successfully")
+  }
+
+  quantile_dt <- rbindlist(all_quantile_data)
+  quantile_dt[, is_gss := tolower(rater) == "gss"]
+
+  # Generate ellipse data for all (rater, quantile) pairs
+  message("\nGenerating ellipse paths...")
+
+  ellipse_list <- list()
+
+  for (i in 1:nrow(quantile_dt)) {
+    rater_i <- quantile_dt$rater[i]
+    quant_i <- quantile_dt$quantile[i]
+    rho_i   <- quantile_dt$median_rho[i]
+    is_gss_i <- quantile_dt$is_gss[i]
+
+    xy <- ellipse_from_rho(rho = rho_i, prob = prob, n = 361L)
+
+    ellipse_list[[paste(rater_i, quant_i, sep = "_")]] <- data.frame(
+      x          = xy[, "x"],
+      y          = xy[, "y"],
+      rater      = rater_i,
+      quantile   = quant_i,
+      rho        = rho_i,
+      is_gss     = is_gss_i,
+      stringsAsFactors = FALSE
+    )
+  }
+
+  ellipse_dt <- rbindlist(ellipse_list)
+  ellipse_dt[, group_id := paste(rater, quantile, sep = "_")]
+
+  # Order quantiles for facets (Q95 → Q5)
+  quantile_levels <- paste0("Q", quantile_seq * 100)
+  ellipse_dt[, quantile := factor(quantile, levels = quantile_levels)]
+
+  # Separate GSS and LLMs
+  gss_dt <- ellipse_dt[is_gss == TRUE]
+  llm_dt <- ellipse_dt[is_gss == FALSE]
+
+  # Reference circle
+  ref <- reference_circle(prob = prob, n = 361L)
+
+  # Plot limits
+  r0 <- sqrt(qchisq(prob, df = 2))
+  lim <- 1.25 * r0
+
+  # Create minimal faceted plot
+  message("\nCreating facet grid...")
+
+  p <- ggplot() +
+    geom_hline(yintercept = 0, color = "gray95", linewidth = 0.2) +
+    geom_vline(xintercept = 0, color = "gray95", linewidth = 0.2) +
+    geom_path(
+      data = ref, aes(x, y),
+      color = "gray90", linewidth = 0.3, linetype = "dashed"
+    ) +
+
+    # All LLMs in same color
+    geom_path(
+      data = llm_dt,
+      aes(x, y, group = group_id),
+      color = llm_color,
+      alpha = llm_alpha,
+      linewidth = llm_width,
+      lineend = "round"
+    ) +
+
+    # GSS in black
+    {if (nrow(gss_dt) > 0) geom_path(
+      data = gss_dt,
+      aes(x, y, group = group_id),
+      color = "black",
+      alpha = 1.0,
+      linewidth = gss_width,
+      lineend = "round"
+    )} +
+
+    facet_wrap(~ quantile, ncol = facet_ncol, labeller = labeller(quantile = function(x) {
+      gsub("Q", "", x)  # Just show number without Q
+    })) +
+
+    coord_equal(xlim = c(-lim, lim), ylim = c(-lim, lim), expand = FALSE) +
+
+    # Minimal theme - no legend, no grid, no axis labels
+    theme_void(base_size = 10) +
+    theme(
+      # Facet strips minimal
+      strip.background = element_rect(fill = "gray98", color = "gray80", linewidth = 0.3),
+      strip.text = element_text(size = 9, face = "bold", margin = margin(2, 2, 2, 2)),
+
+      # No legend
+      legend.position = "none",
+
+      # Minimal margins
+      plot.margin = margin(5, 5, 5, 5),
+      panel.spacing = unit(0.3, "lines"),
+
+      # Subtle panel border
+      panel.border = element_rect(color = "gray85", fill = NA, linewidth = 0.3)
+    )
+
+  # Save plot
+  if (save_pdf) {
+    if (is.null(output_file)) {
+      mvn_dir <- file.path(base_viz_dir, sprintf("mvn_%d", year))
+      dir.create(mvn_dir, recursive = TRUE, showWarnings = FALSE)
+      output_file <- file.path(mvn_dir, "saturn_facet_grid.pdf")
+    }
+
+    # Calculate dimensions based on facet grid
+    n_facets <- length(quantile_seq)
+    n_rows <- ceiling(n_facets / facet_ncol)
+
+    # Width: ~3 inches per column
+    width <- facet_ncol * 3
+    # Height: ~3 inches per row
+    height <- n_rows * 3
+
+    message("\nSaving facet grid to: ", output_file)
+    message("Dimensions: ", width, " x ", height, " inches (", n_rows, " rows, ", facet_ncol, " cols)")
+
+    ggsave(
+      filename = output_file,
+      plot = p,
+      width = width,
+      height = height,
+      device = "pdf"
+    )
+  }
+
+  message("\n=== Facet Grid Complete ===\n")
+
+  invisible(p)
+}
+
+
 ################################################################################
 # MAIN EXECUTION
 ################################################################################
@@ -439,7 +629,20 @@ if (exists("BASE_OUT_DIR") && exists("BASE_VIZ_DIR") && exists("YEAR")) {
     highlight_gss  = TRUE,
     save_pdf       = TRUE
   )
-  
+
+  # Optional: Facet grid overview (Q95 → Q5) - experimental, minimal design
+  # Uncomment to generate large facet grid showing full quantile range:
+  # saturn_facet_grid <- create_saturn_facet_grid(
+  #   base_out_dir   = BASE_OUT_DIR,
+  #   base_viz_dir   = BASE_VIZ_DIR,
+  #   year           = YEAR,
+  #   quantile_seq   = seq(0.95, 0.05, by = -0.05),  # 19 quantiles
+  #   facet_ncol     = 5,  # 5 columns, 4 rows
+  #   llm_color      = "steelblue",
+  #   llm_alpha      = 0.3,
+  #   save_pdf       = TRUE
+  # )
+
 } else {
   message("BASE_OUT_DIR, BASE_VIZ_DIR, and YEAR must be defined to run.")
 }
