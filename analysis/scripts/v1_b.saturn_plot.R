@@ -429,13 +429,11 @@ create_saturn_facet_grid <- function(
     llm_width         = 0.4,
     gss_width         = 1.2,
 
-    facet_ncol        = 5,  # Columns in facet grid
-
     save_pdf          = TRUE,
     output_file       = NULL
 ) {
 
-  message("\n=== Saturn Facet Grid (Q95 → Q5) ===")
+  message("\n=== Saturn Facet Grid (Q95 → Q5) - Ultra Minimal ===")
   message("Quantile range: ", min(quantile_seq), " to ", max(quantile_seq))
   message("Number of facets: ", length(quantile_seq))
 
@@ -507,24 +505,14 @@ create_saturn_facet_grid <- function(
   gss_dt <- ellipse_dt[is_gss == TRUE]
   llm_dt <- ellipse_dt[is_gss == FALSE]
 
-  # Reference circle
-  ref <- reference_circle(prob = prob, n = 361L)
-
   # Plot limits
   r0 <- sqrt(qchisq(prob, df = 2))
   lim <- 1.25 * r0
 
-  # Create minimal faceted plot
-  message("\nCreating facet grid...")
+  # Create ultra-minimal faceted plot
+  message("\nCreating ultra-minimal facet strip...")
 
   p <- ggplot() +
-    geom_hline(yintercept = 0, color = "gray95", linewidth = 0.2) +
-    geom_vline(xintercept = 0, color = "gray95", linewidth = 0.2) +
-    geom_path(
-      data = ref, aes(x, y),
-      color = "gray90", linewidth = 0.3, linetype = "dashed"
-    ) +
-
     # All LLMs in same color
     geom_path(
       data = llm_dt,
@@ -545,28 +533,24 @@ create_saturn_facet_grid <- function(
       lineend = "round"
     )} +
 
-    facet_wrap(~ quantile, ncol = facet_ncol, labeller = labeller(quantile = function(x) {
-      gsub("Q", "", x)  # Just show number without Q
-    })) +
+    # All facets in one row, no labels
+    facet_wrap(~ quantile, nrow = 1) +
 
     coord_equal(xlim = c(-lim, lim), ylim = c(-lim, lim), expand = FALSE) +
 
-    # Minimal theme - no legend, no grid, no axis labels
-    theme_void(base_size = 10) +
+    # Ultra-minimal theme - nothing but the contours
+    theme_void() +
     theme(
-      # Facet strips minimal
-      strip.background = element_rect(fill = "gray98", color = "gray80", linewidth = 0.3),
-      strip.text = element_text(size = 9, face = "bold", margin = margin(2, 2, 2, 2)),
+      # No facet labels
+      strip.text = element_blank(),
+      strip.background = element_blank(),
 
       # No legend
       legend.position = "none",
 
       # Minimal margins
-      plot.margin = margin(5, 5, 5, 5),
-      panel.spacing = unit(0.3, "lines"),
-
-      # Subtle panel border
-      panel.border = element_rect(color = "gray85", fill = NA, linewidth = 0.3)
+      plot.margin = margin(2, 2, 2, 2),
+      panel.spacing = unit(0.1, "lines")
     )
 
   # Save plot
@@ -577,17 +561,16 @@ create_saturn_facet_grid <- function(
       output_file <- file.path(mvn_dir, "saturn_facet_grid.pdf")
     }
 
-    # Calculate dimensions based on facet grid
+    # Calculate dimensions for horizontal strip (all in one row)
     n_facets <- length(quantile_seq)
-    n_rows <- ceiling(n_facets / facet_ncol)
 
-    # Width: ~3 inches per column
-    width <- facet_ncol * 3
-    # Height: ~3 inches per row
-    height <- n_rows * 3
+    # Width: ~2 inches per facet for horizontal strip
+    width <- n_facets * 2
+    # Height: fixed at 3 inches for single row
+    height <- 3
 
     message("\nSaving facet grid to: ", output_file)
-    message("Dimensions: ", width, " x ", height, " inches (", n_rows, " rows, ", facet_ncol, " cols)")
+    message("Dimensions: ", width, " x ", height, " inches (", n_facets, " facets in one row)")
 
     ggsave(
       filename = output_file,
@@ -630,14 +613,13 @@ if (exists("BASE_OUT_DIR") && exists("BASE_VIZ_DIR") && exists("YEAR")) {
     save_pdf       = TRUE
   )
 
-  # Optional: Facet grid overview (Q95 → Q5) - experimental, minimal design
-  # Uncomment to generate large facet grid showing full quantile range:
+  # Optional: Facet grid overview (Q95 → Q5) - ultra-minimal horizontal strip
+  # Uncomment to generate wide horizontal strip showing constraint evolution:
   saturn_facet_grid <- create_saturn_facet_grid(
     base_out_dir   = BASE_OUT_DIR,
     base_viz_dir   = BASE_VIZ_DIR,
     year           = YEAR,
-    quantile_seq   = seq(0.95, 0.05, by = -0.05),  # 19 quantiles
-    facet_ncol     = 5,  # 5 columns, 4 rows
+    quantile_seq   = seq(0.95, 0.05, by = -0.05),  # 19 quantiles, all in one row
     llm_color      = "steelblue",
     llm_alpha      = 0.3,
     save_pdf       = TRUE
