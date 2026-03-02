@@ -2,6 +2,17 @@
 
 **Christopher Barrie & Roberto Cerina**
 
+```bibtex
+@misc{barrie_cerina_2026,
+  title={Synthetic personas distort the structure of human belief systems},
+  url={osf.io/preprints/socarxiv/n7fq8_v1},
+  publisher={SocArXiv},
+  author={Barrie, Christopher and Cerina, Roberto},
+  year={2026},
+  month={Feb}
+}
+```
+
 Replication repository for:
 
 > Barrie, C. & Cerina, R. (2026). Synthetic personas distort the structure of human belief systems. *SocArXiv*. https://doi.org/10.31235/osf.io/n7fq8_v1
@@ -247,18 +258,7 @@ Plus **GSS-2024** human baseline for comparison.
 
 ## Citation
 
-If you use this code or data, please cite:
-
-```bibtex
-@misc{barrie_cerina_2026,
-  title={Synthetic personas distort the structure of human belief systems},
-  url={osf.io/preprints/socarxiv/n7fq8_v1},
-  publisher={SocArXiv},
-  author={Barrie, Christopher and Cerina, Roberto},
-  year={2026},
-  month={Feb}
-}
-```
+If you use this code or data, please cite (BibTeX at top of README):
 
 Related work:
 - della Posta, D. (2020). "Pluralistic Collapse: The 'Oil Spill' Model of Mass Opinion Polarization." *American Sociological Review*, 85(3), 507-536.
