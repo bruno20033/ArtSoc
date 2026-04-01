@@ -44,67 +44,7 @@ OPENROUTER_API_URL = "https://openrouter.ai/api/v1/chat/completions"
 # === COMPREHENSIVE GSS QUESTIONS ===
 # Part 1: Original 30 culture-war items
 GSS_QUESTIONS_CULTUREWAR = {
-    # Abortion (4)
-    "abhlth": {
-        "text": "Please tell me whether or not you think it should be possible for a pregnant woman to obtain a legal abortion if the woman's own health is seriously endangered by the pregnancy?",
-        "options": {1: "Yes", 2: "No"}
-    },
-    "abrape": {
-        "text": "Please tell me whether or not you think it should be possible for a pregnant woman to obtain a legal abortion if she becomes pregnant as a result of rape?",
-        "options": {1: "Yes", 2: "No"}
-    },
-    "abpoor": {
-        "text": "Please tell me whether or not you think it should be possible for a pregnant woman to obtain a legal abortion if the family has a very low income and cannot afford any more children?",
-        "options": {1: "Yes", 2: "No"}
-    },
-    "abdefect": {
-        "text": "Please tell me whether or not you think it should be possible for a pregnant woman to obtain a legal abortion if there is a strong chance of serious defect in the baby?",
-        "options": {1: "Yes", 2: "No"}
-    },
-    # Guns/Crime (2)
-    "gunlaw": {
-        "text": "Would you favor or oppose a law which would require a person to obtain a police permit before he or she could buy a gun?",
-        "options": {1: "Favor", 2: "Oppose"}
-    },
-    "cappun": {
-        "text": "Do you favor or oppose the death penalty for persons convicted of murder?",
-        "options": {1: "Favor", 2: "Oppose"}
-    },
-    # Sexual morality (4)
-    "homosex": {
-        "text": "What is your opinion about sexual relations between two adults of the same sex--do you think it is always wrong, almost always wrong, wrong only sometimes, or not wrong at all?",
-        "options": {1: "Always wrong", 2: "Almost always wrong", 3: "Wrong only sometimes", 4: "Not wrong at all"}
-    },
-    "premarsx": {
-        "text": "If a man and woman have sexual relations before marriage, do you think it is always wrong, almost always wrong, wrong only sometimes, or not wrong at all?",
-        "options": {1: "Always wrong", 2: "Almost always wrong", 3: "Wrong only sometimes", 4: "Not wrong at all"}
-    },
-    "xmarsex": {
-        "text": "What is your opinion about a married person having sexual relations with someone other than the marriage partner--is it always wrong, almost always wrong, wrong only sometimes, or not wrong at all?",
-        "options": {1: "Always wrong", 2: "Almost always wrong", 3: "Wrong only sometimes", 4: "Not wrong at all"}
-    },
-    "pornlaw": {
-        "text": "Which of these statements comes closest to your feelings about pornography laws? 1) There should be laws against the distribution of pornography whatever the age. 2) There should be laws against the distribution of pornography to persons under 18. 3) There should be no laws forbidding the distribution of pornography.",
-        "options": {1: "There should be laws against the distribution of pornography whatever the age", 2: "There should be laws against the distribution of pornography to persons under 18.", 3: "There should be no laws forbidding the distribution of pornography"}
-    },
-    # Drugs
-    "grass": {
-        "text": "Do you think the use of marijuana should be made legal or not?",
-        "options": {1: "Should be legal", 2: "Should not be legal"}
-    },
-    # Gender roles (3)
-    "fechld": {
-        "text": "To what extent do you you agree or disagree that: A working mother can establish just as warm and secure a relationship with her children as a mother who does not work.",
-        "options": {1: "Strongly agree", 2: "Agree", 3: "Neither agree nor disagree", 4: "Disagree"}
-    },
-    "fefam": {
-        "text": "Please read the following statement and indicate whether you strongly agree, agree, disagree, or strongly disagree: It is much better for everyone involved if the man is the achiever outside the home and the woman takes care of the home and family.",
-        "options": {1: "Strongly agree", 2: "Agree", 3: "Disagree", 4: "Strongly disagree"}
-    },
-    "fepresch": {
-        "text": "Please read the following statement and indicate whether you strongly agree, agree, disagree, or strongly disagree: A preschool child is likely to suffer if his or her mother works.",
-        "options": {1: "Strongly agree", 2: "Agree", 3: "Disagree", 4: "Strongly disagree"}
-    },
+
     # Economic (2)
     "affrmact": {
         "text": "Some people say that because of past discrimination, Black people should be given preference in hiring and promotion. Others say that such preference in hiring and promotion of Black people is wrong because it discriminates against whites. What about your opinion--are you for or against preferential hiring and promotion of Black people?",
@@ -113,53 +53,6 @@ GSS_QUESTIONS_CULTUREWAR = {
     "eqwlth": {
         "text": "Some people think that the government in Washington ought to reduce the income differences between the rich and the poor, perhaps by raising the taxes of wealthy families or by giving income assistance to the poor. Others think that the government should not concern itself with reducing this income difference between the rich and the poor. Here is a card with a scale from 1 to 7. Think of a score of 1 as meaning that the government ought to reduce the income differences between rich and poor, and a score of 7 meaning that the government should not concern itself with reducing income differences. What score between 1 and 7 comes closest to the way you feel?",
         "options": {1: "The Government should reduce differences", 2: "2", 3: "3", 4: "4", 5: "5", 6: "6", 7: "The government should not concern itself with reducing income differences"}
-    },
-    # Immigration (3)
-    "immjobs": {
-        "text": "There are different opinions about immigrants from other countries living in America. (By immigrants we mean people who come to settle in America.) How much do you agree or disagree with each of the following statement: Immigrants take jobs away from people who were born in America.",
-        "options": {1: "Agree strongly", 2: "Agree", 3: "Neither agree nor disagree", 4: "Disagree", 5: "Disagree strongly"}
-    },
-    "immcrime": {
-        "text": "There are different opinions about immigrants from other countries living in America. (By immigrants we mean people who come to settle in America.) How much do you agree or disagree with each of the following statement: Immigrants increase crime rates in America?",
-        "options": {1: "Agree strongly", 2: "Agree", 3: "Neither agree nor disagree", 4: "Disagree", 5: "Disagree strongly"}
-    },
-    "immameco": {
-        "text": "There are different opinions about immigrants from other countries living in America. (By immigrants we mean people who come to settle in America.) How much do you agree or disagree with each of the following statement: Immigrants are generally good for America's economy?",
-        "options": {1: "Agree strongly", 2: "Agree", 3: "Neither agree nor disagree", 4: "Disagree", 5: "Disagree strongly"}
-    },
-    # Free speech (6)
-    "spkath": {
-        "text": "There are always some people whose ideas are considered bad or dangerous by other people. For instance, somebody who is against all churches and religion. If such a person wanted to make a speech in your (city/town/community) against churches and religion, should he be allowed to speak, or not?",
-        "options": {1: "Yes, allowed to speak", 2: "Not allowed"}
-    },
-    "colath": {
-        "text": "There are always some people whose ideas are considered bad or dangerous by other people. For instance, somebody who is against all churches and religion. Should such a person be allowed to teach in a college or university, or not?",
-        "options": {1: "Yes, allowed to speak", 2: "Not allowed"}
-    },
-    "spkrac": {
-        "text": "Consider a person who believes that Black people are genetically inferior. If such a person wanted to make a speech in your community claiming that Black people are inferior, should he be allowed to speak, or not?",
-        "options": {1: "Yes, allowed to speak", 2: "Not allowed"}
-    },
-    "colrac": {
-        "text": "Consider a person who believes that Black people are genetically inferior. Should such a person be allowed to teach in a college or university, or not?",
-        "options": {1: "Yes, allowed to teach", 2: "Not allowed"}
-    },
-    "spkmslm": {
-        "text": "Consider a Muslim clergyman who preaches hatred of the United States. If such a person wanted to make a speech in your community preaching hatred of the United States, should he be allowed to speak, or not?",
-        "options": {1: "Yes, allowed", 2: "Not allowed"}
-    },
-    "colmslm": {
-        "text": "Consider a Muslim clergyman who preaches hatred of the United States. Should such a person be allowed to teach in a college or university, or not?",
-        "options": {1: "Yes, allowed to teach", 2: "Not allowed"}
-    },
-    # Religion (2)
-    "god": {
-        "text": "Tell me which statement comes closest to expressing what you believe about God. I don't believe in God; I don't know whether there is a God and I don't believe there is any way to find out; I don't believe in a personal God, but I do believe in a Higher Power of some kind; I find myself believing in God some of the time, but not at others; While I have doubts, I feel that I do believe in God; I know God really exists and I have no doubts about it.",
-        "options": {1: "I don't believe in God", 2: "I don't know whether there is a God and I don't believe there is any way to find out", 3: "I don't believe in a personal God, but I do believe in a Higher Power of some kind", 4: "I find myself believing in God some of the time, but not at others", 5: "While I have doubts, I feel that I do believe in God", 6: "I know God really exists and I have no doubts about it"}
-    },
-    "bible": {
-        "text": "Which of these statements comes closest to describing your feelings about the Bible? 1) The Bible is the actual word of God and is to be taken literally, word for word. 2) The Bible is the inspired word of God but not everything in it should be taken literally, word for word. 3) The Bible is an ancient book of fables, legends, history, and moral precepts recorded by men.",
-        "options": {1: "The Bible is the actual word of God and is to be taken literally, word for word", 2: "The Bible is the inspired word of God but not everything in it should be taken literally, word for word", 3: "The Bible is an ancient book of fables, legends, history, and moral precepts recorded by men"}
     },
     # Confidence in institutions (3)
     "confed": {
@@ -178,39 +71,6 @@ GSS_QUESTIONS_CULTUREWAR = {
 
 # Part 2: Non-culture-war items (spending, trust, economic)
 GSS_QUESTIONS_NONCULTUREWAR = {
-    # === PUBLIC SPENDING PRIORITIES (NAT* series) ===
-    "nataid": {
-        "text": "We are faced with many problems in this country, none of which can be solved easily or inexpensively. I'm going to name some of these problems, and for each one I'd like you to tell me whether you think we're spending too much money on it, too little money, or about the right amount. Are we spending too much, too little, or about the right amount on: Foreign aid?",
-        "options": {1: "Too little", 2: "About right", 3: "Too much"}
-    },
-    "natspac": {
-        "text": "We are faced with many problems in this country, none of which can be solved easily or inexpensively. I'm going to name some of these problems, and for each one I'd like you to tell me whether you think we're spending too much money on it, too little money, or about the right amount. Are we spending too much, too little, or about the right amount on: The space exploration program?",
-        "options": {1: "Too little", 2: "About right", 3: "Too much"}
-    },
-    "natsci": {
-        "text": "We are faced with many problems in this country, none of which can be solved easily or inexpensively. I'm going to name some of these problems, and for each one I'd like you to tell me whether you think we're spending too much money on it, too little money, or about the right amount. Are we spending too much, too little, or about the right amount on: Supporting scientific research?",
-        "options": {1: "Too little", 2: "About right", 3: "Too much"}
-    },
-    "natenvir": {
-        "text": "We are faced with many problems in this country, none of which can be solved easily or inexpensively. I'm going to name some of these problems, and for each one I'd like you to tell me whether you think we're spending too much money on it, too little money, or about the right amount. Are we spending too much, too little, or about the right amount on: Improving and protecting the environment?",
-        "options": {1: "Too little", 2: "About right", 3: "Too much"}
-    },
-    "nateduc": {
-        "text": "We are faced with many problems in this country, none of which can be solved easily or inexpensively. I'm going to name some of these problems, and for each one I'd like you to tell me whether you think we're spending too much money on it, too little money, or about the right amount. Are we spending too much, too little, or about the right amount on: Improving the nation's education system?",
-        "options": {1: "Too little", 2: "About right", 3: "Too much"}
-    },
-    "natheal": {
-        "text": "We are faced with many problems in this country, none of which can be solved easily or inexpensively. I'm going to name some of these problems, and for each one I'd like you to tell me whether you think we're spending too much money on it, too little money, or about the right amount. Are we spending too much, too little, or about the right amount on: Improving and protecting the nation's health?",
-        "options": {1: "Too little", 2: "About right", 3: "Too much"}
-    },
-    "natroad": {
-        "text": "We are faced with many problems in this country, none of which can be solved easily or inexpensively. I'm going to name some of these problems, and for each one I'd like you to tell me whether you think we're spending too much money on it, too little money, or about the right amount. Are we spending too much, too little, or about the right amount on: Highways and bridges?",
-        "options": {1: "Too little", 2: "About right", 3: "Too much"}
-    },
-    "natsoc": {
-        "text": "We are faced with many problems in this country, none of which can be solved easily or inexpensively. I'm going to name some of these problems, and for each one I'd like you to tell me whether you think we're spending too much money on it, too little money, or about the right amount. Are we spending too much, too little, or about the right amount on: Social Security?",
-        "options": {1: "Too little", 2: "About right", 3: "Too much"}
-    },
 
     # === INSTITUTIONAL CONFIDENCE (CON* series) ===
     "coneduc": {
@@ -264,16 +124,6 @@ GSS_QUESTIONS_NONCULTUREWAR = {
     "getahead": {
         "text": "Some people say that people get ahead by their own hard work; others say that lucky breaks or help from other people are more important. Which do you think is most important?",
         "options": {1: "Hard work most important", 2: "Hard work, luck equally important", 3: "Luck most important"}
-    },
-
-    # === WORK CENTRALITY ===
-    "richwork": {
-        "text": "If you were to get enough money to live as comfortably as you would like for the rest of your life, would you continue to work or would you stop working?",
-        "options": {1: "Continue to work", 2: "Stop working"}
-    },
-    "satjob": {
-        "text": "On the whole, how satisfied are you with the work you do--would you say you are very satisfied, moderately satisfied, a little dissatisfied, or very dissatisfied?",
-        "options": {1: "Very satisfied", 2: "Moderately satisfied", 3: "A little dissatisfied", 4: "Very dissatisfied"}
     },
 }
 
