@@ -65,8 +65,8 @@ cd generation/scripts
 # Set your OpenRouter API key
 export OPENROUTER_API_KEY="your-key-here"
 
-# Query all models with 1000 personas (expensive! ~$100-500 depending on models)
-python 01_generate_synthetic_GSS.py --year 2024 --all-models --personas 1000
+# Query all models with 100 personas (cheap! ~ 2 cents depending on models)
+python 01_generate_synthetic_GSS.py --year 2024 --all-models --personas 100
 
 # Or query specific models
 python 01_generate_synthetic_GSS.py --year 2024 --models "gemini-2.5-flash-lite" --personas 100
@@ -86,13 +86,10 @@ The repository includes results for 3 LLMs across families, but is completely fl
 
 Plus **GSS-2024** human baseline for comparison.
 
-
 ## Acknowledgments
 
 - General Social Survey (GSS) data from NORC at the University of Chicago
 - LLM API access via OpenRouter
-
-
 
 ### API rate limits
 
