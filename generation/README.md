@@ -29,9 +29,3 @@ python 01_generate_synthetic_GSS.py --year 2024 --all-models --personas 1000
 - `data/`: processed GSS extracts, persona files, and small metadata tables.
 - `scripts/`: extraction, persona generation, API-query, and testing scripts.
 - `synthetic_data/year_2024/`: model response CSVs used by the analysis pipeline.
-
-## Notes For Replication
-
-- `01_generate_synthetic_GSS.py` is resumable and skips completed persona-question-run combinations.
-- Model querying is the expensive part of the pipeline. Keep a written record of the model list, date of query, and any retry or resume behavior if you regenerate these files for release.
-- If a public replication repo should avoid committed API outputs, move `synthetic_data/` to an external archive and leave a manifest in Git.
