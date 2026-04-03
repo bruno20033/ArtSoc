@@ -1,0 +1,501 @@
+timestamp,model,persona_file,persona_id,variable,question_short,run,answer,prompt_tokens,completion_tokens,total_tokens,error,raw_response
+2026-04-02T10:45:41.895887+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,1,consci,I am going to name some institutions in this count...,1,1,205,1,206,,1
+2026-04-02T10:45:41.905378+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,2,eqwlth,Some people think that the government in Washingto...,1,1,305,1,306,,1
+2026-04-02T10:45:41.908503+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,1,affrmact,Some people say that because of past discriminatio...,1,3,220,1,221,,3
+2026-04-02T10:45:41.913934+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,2,confed,I am going to name some institutions in this count...,1,2,197,1,198,,2
+2026-04-02T10:45:41.958103+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,1,confed,I am going to name some institutions in this count...,1,2,208,1,209,,2
+2026-04-02T10:45:41.991150+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,2,affrmact,Some people say that because of past discriminatio...,1,3,209,1,210,,3
+2026-04-02T10:45:41.997960+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,1,eqwlth,Some people think that the government in Washingto...,1,3,316,1,317,,3
+2026-04-02T10:45:42.202305+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,1,conpress,I am going to name some institutions in this count...,1,2,204,1,205,,2
+2026-04-02T10:45:42.465544+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,3,affrmact,Some people say that because of past discriminatio...,1,1,204,1,205,,1
+2026-04-02T10:45:42.545666+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,2,consci,I am going to name some institutions in this count...,1,1,194,1,195,,1
+2026-04-02T10:45:42.557886+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,3,conpress,I am going to name some institutions in this count...,1,3,188,1,189,,3
+2026-04-02T10:45:42.600336+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,3,confed,I am going to name some institutions in this count...,1,3,192,1,193,,3
+2026-04-02T10:45:42.617763+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,2,conpress,I am going to name some institutions in this count...,1,3,193,1,194,,3
+2026-04-02T10:45:42.649599+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,3,consci,I am going to name some institutions in this count...,1,1,189,1,190,,1
+2026-04-02T10:45:42.999633+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,4,eqwlth,Some people think that the government in Washingto...,1,4,304,1,305,,4
+2026-04-02T10:45:43.112188+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,4,conpress,I am going to name some institutions in this count...,1,3,192,1,193,,3
+2026-04-02T10:45:43.116583+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,4,consci,I am going to name some institutions in this count...,1,1,193,1,194,,1
+2026-04-02T10:45:43.197665+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,5,affrmact,Some people say that because of past discriminatio...,1,3,210,1,211,,3
+2026-04-02T10:45:43.517422+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,5,confed,I am going to name some institutions in this count...,1,2,198,1,199,,2
+2026-04-02T10:45:43.586395+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,5,conpress,I am going to name some institutions in this count...,1,3,194,1,195,,3
+2026-04-02T10:45:43.670593+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,5,consci,I am going to name some institutions in this count...,1,2,195,1,196,,2
+2026-04-02T10:45:44.018952+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,4,confed,I am going to name some institutions in this count...,1,2,196,1,197,,2
+2026-04-02T10:45:44.064465+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,6,confed,I am going to name some institutions in this count...,1,3,189,1,190,,3
+2026-04-02T10:45:44.134508+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,5,eqwlth,Some people think that the government in Washingto...,1,3,307,1,308,,3
+2026-04-02T10:45:44.201373+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,6,conpress,I am going to name some institutions in this count...,1,3,185,1,186,,3
+2026-04-02T10:45:44.537769+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,7,affrmact,Some people say that because of past discriminatio...,1,2,196,1,197,,2
+2026-04-02T10:45:44.782207+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,4,affrmact,Some people say that because of past discriminatio...,1,3,208,1,209,,3
+2026-04-02T10:45:44.799096+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,7,confed,I am going to name some institutions in this count...,1,3,184,1,185,,3
+2026-04-02T10:45:44.873273+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,3,eqwlth,Some people think that the government in Washingto...,1,1,300,1,301,,1
+2026-04-02T10:45:44.974293+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,7,conpress,I am going to name some institutions in this count...,1,3,180,1,181,,3
+2026-04-02T10:45:45.228083+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,7,consci,I am going to name some institutions in this count...,1,3,181,1,182,,3
+2026-04-02T10:45:45.322745+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,8,eqwlth,Some people think that the government in Washingto...,1,2,294,1,295,,2
+2026-04-02T10:45:45.698823+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,8,conpress,I am going to name some institutions in this count...,1,3,182,1,183,,3
+2026-04-02T10:45:45.897585+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,8,consci,I am going to name some institutions in this count...,1,2,183,1,184,,2
+2026-04-02T10:45:46.312824+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,9,affrmact,Some people say that because of past discriminatio...,1,3,206,1,207,,3
+2026-04-02T10:45:46.439719+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,9,eqwlth,Some people think that the government in Washingto...,1,4,302,1,303,,4
+2026-04-02T10:45:46.772338+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,9,confed,I am going to name some institutions in this count...,1,2,194,1,195,,2
+2026-04-02T10:45:46.839925+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,9,conpress,I am going to name some institutions in this count...,1,2,190,1,191,,2
+2026-04-02T10:45:47.259141+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,10,affrmact,Some people say that because of past discriminatio...,1,2,196,1,197,,2
+2026-04-02T10:45:47.290390+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,9,consci,I am going to name some institutions in this count...,1,1,191,1,192,,1
+2026-04-02T10:45:47.731350+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,10,confed,I am going to name some institutions in this count...,1,2,184,1,185,,2
+2026-04-02T10:45:47.806628+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,7,eqwlth,Some people think that the government in Washingto...,1,1,292,1,293,,1
+2026-04-02T10:45:47.812065+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,10,eqwlth,Some people think that the government in Washingto...,1,3,292,1,293,,3
+2026-04-02T10:45:47.914821+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,6,consci,I am going to name some institutions in this count...,1,2,186,1,187,,2
+2026-04-02T10:45:48.125448+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,10,conpress,I am going to name some institutions in this count...,1,2,180,1,181,,2
+2026-04-02T10:45:48.279556+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,10,consci,I am going to name some institutions in this count...,1,1,181,1,182,,1
+2026-04-02T10:45:48.379123+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,11,eqwlth,Some people think that the government in Washingto...,1,1,306,1,307,,1
+2026-04-02T10:45:48.561883+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,11,confed,I am going to name some institutions in this count...,1,2,198,1,199,,2
+2026-04-02T10:45:48.616142+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,8,confed,I am going to name some institutions in this count...,1,2,186,1,187,,2
+2026-04-02T10:45:48.637455+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,8,affrmact,Some people say that because of past discriminatio...,1,3,198,1,199,,3
+2026-04-02T10:45:48.782108+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,11,conpress,I am going to name some institutions in this count...,1,3,194,1,195,,3
+2026-04-02T10:45:49.012158+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,12,affrmact,Some people say that because of past discriminatio...,1,1,201,1,202,,1
+2026-04-02T10:45:49.191497+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,12,eqwlth,Some people think that the government in Washingto...,1,1,297,1,298,,1
+2026-04-02T10:45:49.262961+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,12,conpress,I am going to name some institutions in this count...,1,3,185,1,186,,3
+2026-04-02T10:45:49.421004+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,12,consci,I am going to name some institutions in this count...,1,1,186,1,187,,1
+2026-04-02T10:45:49.649259+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,13,affrmact,Some people say that because of past discriminatio...,1,4,191,1,192,,4
+2026-04-02T10:45:49.673348+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,11,consci,I am going to name some institutions in this count...,1,1,195,1,196,,1
+2026-04-02T10:45:49.891174+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,13,confed,I am going to name some institutions in this count...,1,2,179,1,180,,2
+2026-04-02T10:45:50.162768+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,13,consci,I am going to name some institutions in this count...,1,2,176,1,177,,2
+2026-04-02T10:45:50.562971+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,14,eqwlth,Some people think that the government in Washingto...,1,1,303,1,304,,1
+2026-04-02T10:45:50.678668+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,13,conpress,I am going to name some institutions in this count...,1,3,175,1,176,,3
+2026-04-02T10:45:50.724868+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,14,affrmact,Some people say that because of past discriminatio...,1,2,207,1,208,,2
+2026-04-02T10:45:51.090227+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,14,confed,I am going to name some institutions in this count...,1,3,195,1,196,,3
+2026-04-02T10:45:51.166663+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,14,consci,I am going to name some institutions in this count...,1,1,192,1,193,,1
+2026-04-02T10:45:51.213438+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,14,conpress,I am going to name some institutions in this count...,1,3,191,1,192,,3
+2026-04-02T10:45:51.557584+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,15,affrmact,Some people say that because of past discriminatio...,1,3,211,1,212,,3
+2026-04-02T10:45:51.662441+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,15,confed,I am going to name some institutions in this count...,1,2,199,1,200,,2
+2026-04-02T10:45:51.931581+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,15,eqwlth,Some people think that the government in Washingto...,1,3,307,1,308,,3
+2026-04-02T10:45:52.070614+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,15,consci,I am going to name some institutions in this count...,1,2,196,1,197,,2
+2026-04-02T10:45:52.083333+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,15,conpress,I am going to name some institutions in this count...,1,3,195,1,196,,3
+2026-04-02T10:45:52.586351+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,16,eqwlth,Some people think that the government in Washingto...,1,1,299,1,300,,1
+2026-04-02T10:45:52.664688+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,16,affrmact,Some people say that because of past discriminatio...,1,2,203,1,204,,2
+2026-04-02T10:45:52.704878+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,16,confed,I am going to name some institutions in this count...,1,2,191,1,192,,2
+2026-04-02T10:45:53.061512+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,11,affrmact,Some people say that because of past discriminatio...,1,1,210,1,211,,1
+2026-04-02T10:45:53.072058+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,16,consci,I am going to name some institutions in this count...,1,1,188,1,189,,1
+2026-04-02T10:45:53.158562+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,17,affrmact,Some people say that because of past discriminatio...,1,3,209,1,210,,3
+2026-04-02T10:45:53.334776+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,13,eqwlth,Some people think that the government in Washingto...,1,4,287,1,288,,4
+2026-04-02T10:45:53.435066+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,12,confed,I am going to name some institutions in this count...,1,3,189,1,190,,3
+2026-04-02T10:45:53.508812+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,16,conpress,I am going to name some institutions in this count...,1,2,187,1,188,,2
+2026-04-02T10:45:53.539201+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,17,confed,I am going to name some institutions in this count...,1,2,197,1,198,,2
+2026-04-02T10:45:53.592174+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,17,conpress,I am going to name some institutions in this count...,1,3,193,1,194,,3
+2026-04-02T10:45:53.731712+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,17,eqwlth,Some people think that the government in Washingto...,1,6,305,1,306,,6
+2026-04-02T10:45:53.811784+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,6,affrmact,Some people say that because of past discriminatio...,1,3,202,1,203,,3
+2026-04-02T10:45:53.839894+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,17,consci,I am going to name some institutions in this count...,1,2,194,1,195,,2
+2026-04-02T10:45:53.867670+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,18,affrmact,Some people say that because of past discriminatio...,1,3,178,1,179,,3
+2026-04-02T10:45:53.960907+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,18,confed,I am going to name some institutions in this count...,1,2,166,1,167,,2
+2026-04-02T10:45:54.071109+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,18,eqwlth,Some people think that the government in Washingto...,1,4,274,1,275,,4
+2026-04-02T10:45:54.186332+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,18,conpress,I am going to name some institutions in this count...,1,3,162,1,163,,3
+2026-04-02T10:45:54.323301+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,18,consci,I am going to name some institutions in this count...,1,2,163,1,164,,2
+2026-04-02T10:45:54.419931+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,6,eqwlth,Some people think that the government in Washingto...,1,2,298,1,299,,2
+2026-04-02T10:45:54.438180+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,19,confed,I am going to name some institutions in this count...,1,3,191,1,192,,3
+2026-04-02T10:45:54.518872+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,19,eqwlth,Some people think that the government in Washingto...,1,6,299,1,300,,6
+2026-04-02T10:45:54.627381+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,19,conpress,I am going to name some institutions in this count...,1,3,187,1,188,,3
+2026-04-02T10:45:54.710972+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,20,affrmact,Some people say that because of past discriminatio...,1,2,206,1,207,,2
+2026-04-02T10:45:54.923779+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,20,eqwlth,Some people think that the government in Washingto...,1,3,302,1,303,,3
+2026-04-02T10:45:54.945263+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,20,conpress,I am going to name some institutions in this count...,1,3,190,1,191,,3
+2026-04-02T10:45:54.992368+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,19,consci,I am going to name some institutions in this count...,1,2,188,1,189,,2
+2026-04-02T10:45:55.041399+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,20,confed,I am going to name some institutions in this count...,1,2,194,1,195,,2
+2026-04-02T10:45:55.072215+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,19,affrmact,Some people say that because of past discriminatio...,1,4,203,1,204,,4
+2026-04-02T10:45:55.189908+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,20,consci,I am going to name some institutions in this count...,1,2,191,1,192,,2
+2026-04-02T10:45:55.350840+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,21,confed,I am going to name some institutions in this count...,1,2,198,1,199,,2
+2026-04-02T10:45:55.433734+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,21,conpress,I am going to name some institutions in this count...,1,3,194,1,195,,3
+2026-04-02T10:45:55.453161+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,21,affrmact,Some people say that because of past discriminatio...,1,3,210,1,211,,3
+2026-04-02T10:45:55.525081+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,22,eqwlth,Some people think that the government in Washingto...,1,1,299,1,300,,1
+2026-04-02T10:45:55.720289+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,21,consci,I am going to name some institutions in this count...,1,2,195,1,196,,2
+2026-04-02T10:45:55.787438+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,22,conpress,I am going to name some institutions in this count...,1,2,187,1,188,,2
+2026-04-02T10:45:55.849458+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,21,eqwlth,Some people think that the government in Washingto...,1,3,306,1,307,,3
+2026-04-02T10:45:55.876024+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,23,affrmact,Some people say that because of past discriminatio...,1,3,210,1,211,,3
+2026-04-02T10:45:55.897441+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,22,affrmact,Some people say that because of past discriminatio...,1,2,203,1,204,,2
+2026-04-02T10:45:55.928348+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,22,confed,I am going to name some institutions in this count...,1,3,191,1,192,,3
+2026-04-02T10:45:55.949581+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,22,consci,I am going to name some institutions in this count...,1,1,188,1,189,,1
+2026-04-02T10:45:55.977609+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,23,eqwlth,Some people think that the government in Washingto...,1,5,306,1,307,,5
+2026-04-02T10:45:56.308201+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,23,confed,I am going to name some institutions in this count...,1,2,198,1,199,,2
+2026-04-02T10:45:56.428936+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,23,consci,I am going to name some institutions in this count...,1,2,195,1,196,,2
+2026-04-02T10:45:56.439846+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,23,conpress,I am going to name some institutions in this count...,1,3,194,1,195,,3
+2026-04-02T10:45:56.551939+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,24,consci,I am going to name some institutions in this count...,1,2,189,1,190,,2
+2026-04-02T10:45:56.627949+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,24,conpress,I am going to name some institutions in this count...,1,3,188,1,189,,3
+2026-04-02T10:45:56.701920+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,24,confed,I am going to name some institutions in this count...,1,3,192,1,193,,3
+2026-04-02T10:45:56.763834+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,25,affrmact,Some people say that because of past discriminatio...,1,3,212,1,213,,3
+2026-04-02T10:45:56.811516+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,24,affrmact,Some people say that because of past discriminatio...,1,4,204,1,205,,4
+2026-04-02T10:45:56.857254+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,25,eqwlth,Some people think that the government in Washingto...,1,4,308,1,309,,4
+2026-04-02T10:45:57.075314+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,25,consci,I am going to name some institutions in this count...,1,2,197,1,198,,2
+2026-04-02T10:45:57.083918+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,24,eqwlth,Some people think that the government in Washingto...,1,7,300,1,301,,7
+2026-04-02T10:45:57.223671+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,26,affrmact,Some people say that because of past discriminatio...,1,3,204,1,205,,3
+2026-04-02T10:45:57.249028+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,26,eqwlth,Some people think that the government in Washingto...,1,5,300,1,301,,5
+2026-04-02T10:45:57.250905+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,26,confed,I am going to name some institutions in this count...,1,2,192,1,193,,2
+2026-04-02T10:45:57.327578+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,25,confed,I am going to name some institutions in this count...,1,2,200,1,201,,2
+2026-04-02T10:45:57.340196+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,26,conpress,I am going to name some institutions in this count...,1,3,188,1,189,,3
+2026-04-02T10:45:57.564303+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,26,consci,I am going to name some institutions in this count...,1,2,189,1,190,,2
+2026-04-02T10:45:57.807724+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,28,affrmact,Some people say that because of past discriminatio...,1,3,208,1,209,,3
+2026-04-02T10:45:57.817624+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,27,confed,I am going to name some institutions in this count...,1,2,194,1,195,,2
+2026-04-02T10:45:57.842233+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,25,conpress,I am going to name some institutions in this count...,1,2,196,1,197,,2
+2026-04-02T10:45:57.856287+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,27,affrmact,Some people say that because of past discriminatio...,1,3,206,1,207,,3
+2026-04-02T10:45:57.912638+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,27,eqwlth,Some people think that the government in Washingto...,1,1,302,1,303,,1
+2026-04-02T10:45:57.981187+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,27,consci,I am going to name some institutions in this count...,1,1,191,1,192,,1
+2026-04-02T10:45:58.322964+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,28,eqwlth,Some people think that the government in Washingto...,1,1,304,1,305,,1
+2026-04-02T10:45:58.329431+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,27,conpress,I am going to name some institutions in this count...,1,2,190,1,191,,2
+2026-04-02T10:45:58.367288+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,28,confed,I am going to name some institutions in this count...,1,2,196,1,197,,2
+2026-04-02T10:45:58.532515+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,28,conpress,I am going to name some institutions in this count...,1,2,192,1,193,,2
+2026-04-02T10:45:58.646666+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,29,eqwlth,Some people think that the government in Washingto...,1,7,297,1,298,,7
+2026-04-02T10:45:58.672805+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,28,consci,I am going to name some institutions in this count...,1,1,193,1,194,,1
+2026-04-02T10:45:58.772203+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,29,confed,I am going to name some institutions in this count...,1,3,189,1,190,,3
+2026-04-02T10:45:58.959303+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,30,affrmact,Some people say that because of past discriminatio...,1,3,186,1,187,,3
+2026-04-02T10:45:58.965675+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,29,consci,I am going to name some institutions in this count...,1,2,186,1,187,,2
+2026-04-02T10:45:58.969599+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,30,eqwlth,Some people think that the government in Washingto...,1,3,282,1,283,,3
+2026-04-02T10:45:59.017929+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,29,conpress,I am going to name some institutions in this count...,1,3,185,1,186,,3
+2026-04-02T10:45:59.033467+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,29,affrmact,Some people say that because of past discriminatio...,1,4,201,1,202,,4
+2026-04-02T10:45:59.203570+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,30,conpress,I am going to name some institutions in this count...,1,2,170,1,171,,2
+2026-04-02T10:45:59.224990+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,30,confed,I am going to name some institutions in this count...,1,2,174,1,175,,2
+2026-04-02T10:45:59.562589+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,31,eqwlth,Some people think that the government in Washingto...,1,4,280,1,281,,4
+2026-04-02T10:45:59.634059+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,32,affrmact,Some people say that because of past discriminatio...,1,3,195,1,196,,3
+2026-04-02T10:45:59.662277+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,31,consci,I am going to name some institutions in this count...,1,2,169,1,170,,2
+2026-04-02T10:45:59.680750+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,32,eqwlth,Some people think that the government in Washingto...,1,4,291,1,292,,4
+2026-04-02T10:45:59.693921+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,31,confed,I am going to name some institutions in this count...,1,2,172,1,173,,2
+2026-04-02T10:45:59.737905+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,31,conpress,I am going to name some institutions in this count...,1,2,168,1,169,,2
+2026-04-02T10:45:59.828485+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,31,affrmact,Some people say that because of past discriminatio...,1,3,184,1,185,,3
+2026-04-02T10:46:00.087441+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,32,confed,I am going to name some institutions in this count...,1,2,183,1,184,,2
+2026-04-02T10:46:00.107474+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,30,consci,I am going to name some institutions in this count...,1,2,171,1,172,,2
+2026-04-02T10:46:00.228830+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,32,conpress,I am going to name some institutions in this count...,1,2,179,1,180,,2
+2026-04-02T10:46:00.373719+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,33,confed,I am going to name some institutions in this count...,1,2,193,1,194,,2
+2026-04-02T10:46:00.374338+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,33,conpress,I am going to name some institutions in this count...,1,2,189,1,190,,2
+2026-04-02T10:46:00.382711+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,33,affrmact,Some people say that because of past discriminatio...,1,3,205,1,206,,3
+2026-04-02T10:46:00.459348+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,33,eqwlth,Some people think that the government in Washingto...,1,3,301,1,302,,3
+2026-04-02T10:46:00.549182+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,33,consci,I am going to name some institutions in this count...,1,1,190,1,191,,1
+2026-04-02T10:46:00.642745+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,34,affrmact,Some people say that because of past discriminatio...,1,1,203,1,204,,1
+2026-04-02T10:46:00.763714+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,32,consci,I am going to name some institutions in this count...,1,1,180,1,181,,1
+2026-04-02T10:46:00.893119+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,34,eqwlth,Some people think that the government in Washingto...,1,1,299,1,300,,1
+2026-04-02T10:46:01.001402+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,35,affrmact,Some people say that because of past discriminatio...,1,4,208,1,209,,4
+2026-04-02T10:46:01.052556+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,35,eqwlth,Some people think that the government in Washingto...,1,5,304,1,305,,5
+2026-04-02T10:46:01.147603+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,34,consci,I am going to name some institutions in this count...,1,1,188,1,189,,1
+2026-04-02T10:46:01.167501+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,35,conpress,I am going to name some institutions in this count...,1,3,192,1,193,,3
+2026-04-02T10:46:01.182539+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,34,conpress,I am going to name some institutions in this count...,1,3,187,1,188,,3
+2026-04-02T10:46:01.187283+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,35,confed,I am going to name some institutions in this count...,1,2,196,1,197,,2
+2026-04-02T10:46:01.295089+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,34,confed,I am going to name some institutions in this count...,1,3,191,1,192,,3
+2026-04-02T10:46:01.400538+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,35,consci,I am going to name some institutions in this count...,1,2,193,1,194,,2
+2026-04-02T10:46:01.460433+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,36,eqwlth,Some people think that the government in Washingto...,1,5,277,1,278,,5
+2026-04-02T10:46:01.466425+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,36,affrmact,Some people say that because of past discriminatio...,1,3,181,1,182,,3
+2026-04-02T10:46:01.680131+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,36,consci,I am going to name some institutions in this count...,1,2,166,1,167,,2
+2026-04-02T10:46:01.697757+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,36,conpress,I am going to name some institutions in this count...,1,3,165,1,166,,3
+2026-04-02T10:46:01.812709+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,37,confed,I am going to name some institutions in this count...,1,3,190,1,191,,3
+2026-04-02T10:46:01.876255+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,37,eqwlth,Some people think that the government in Washingto...,1,6,298,1,299,,6
+2026-04-02T10:46:02.008741+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,36,confed,I am going to name some institutions in this count...,1,2,169,1,170,,2
+2026-04-02T10:46:02.061459+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,37,conpress,I am going to name some institutions in this count...,1,3,187,1,188,,3
+2026-04-02T10:46:02.148965+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,38,eqwlth,Some people think that the government in Washingto...,1,4,303,1,304,,4
+2026-04-02T10:46:02.196844+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,37,consci,I am going to name some institutions in this count...,1,2,187,1,188,,2
+2026-04-02T10:46:02.234946+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,38,confed,I am going to name some institutions in this count...,1,2,195,1,196,,2
+2026-04-02T10:46:02.246275+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,37,affrmact,Some people say that because of past discriminatio...,1,4,202,1,203,,4
+2026-04-02T10:46:02.300960+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,38,conpress,I am going to name some institutions in this count...,1,3,191,1,192,,3
+2026-04-02T10:46:02.398977+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,38,affrmact,Some people say that because of past discriminatio...,1,3,207,1,208,,3
+2026-04-02T10:46:02.543643+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,39,affrmact,Some people say that because of past discriminatio...,1,4,211,1,212,,4
+2026-04-02T10:46:02.601489+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,39,eqwlth,Some people think that the government in Washingto...,1,7,307,1,308,,7
+2026-04-02T10:46:02.727260+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,39,confed,I am going to name some institutions in this count...,1,3,199,1,200,,3
+2026-04-02T10:46:02.791011+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,40,affrmact,Some people say that because of past discriminatio...,1,4,209,1,210,,4
+2026-04-02T10:46:02.805990+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,40,eqwlth,Some people think that the government in Washingto...,1,4,305,1,306,,4
+2026-04-02T10:46:02.896352+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,39,consci,I am going to name some institutions in this count...,1,2,196,1,197,,2
+2026-04-02T10:46:02.964476+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,38,consci,I am going to name some institutions in this count...,1,2,192,1,193,,2
+2026-04-02T10:46:03.023504+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,39,conpress,I am going to name some institutions in this count...,1,3,195,1,196,,3
+2026-04-02T10:46:03.045252+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,40,conpress,I am going to name some institutions in this count...,1,3,193,1,194,,3
+2026-04-02T10:46:03.169919+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,40,consci,I am going to name some institutions in this count...,1,2,194,1,195,,2
+2026-04-02T10:46:03.205428+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,40,confed,I am going to name some institutions in this count...,1,3,197,1,198,,3
+2026-04-02T10:46:03.285672+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,41,eqwlth,Some people think that the government in Washingto...,1,6,302,1,303,,6
+2026-04-02T10:46:03.329973+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,41,affrmact,Some people say that because of past discriminatio...,1,4,206,1,207,,4
+2026-04-02T10:46:03.436541+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,41,conpress,I am going to name some institutions in this count...,1,3,190,1,191,,3
+2026-04-02T10:46:03.496328+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,41,confed,I am going to name some institutions in this count...,1,3,194,1,195,,3
+2026-04-02T10:46:03.515641+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,42,affrmact,Some people say that because of past discriminatio...,1,3,209,1,210,,3
+2026-04-02T10:46:03.561095+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,41,consci,I am going to name some institutions in this count...,1,2,191,1,192,,2
+2026-04-02T10:46:03.656590+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,42,confed,I am going to name some institutions in this count...,1,2,197,1,198,,2
+2026-04-02T10:46:03.793677+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,42,consci,I am going to name some institutions in this count...,1,1,194,1,195,,1
+2026-04-02T10:46:03.811619+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,42,eqwlth,Some people think that the government in Washingto...,1,3,305,1,306,,3
+2026-04-02T10:46:03.874776+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,43,affrmact,Some people say that because of past discriminatio...,1,3,210,1,211,,3
+2026-04-02T10:46:03.964544+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,43,confed,I am going to name some institutions in this count...,1,2,198,1,199,,2
+2026-04-02T10:46:04.009385+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,42,conpress,I am going to name some institutions in this count...,1,3,193,1,194,,3
+2026-04-02T10:46:04.080243+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,43,eqwlth,Some people think that the government in Washingto...,1,4,306,1,307,,4
+2026-04-02T10:46:04.103709+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,43,consci,I am going to name some institutions in this count...,1,1,195,1,196,,1
+2026-04-02T10:46:04.227827+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,43,conpress,I am going to name some institutions in this count...,1,2,194,1,195,,2
+2026-04-02T10:46:04.326424+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,44,affrmact,Some people say that because of past discriminatio...,1,2,205,1,206,,2
+2026-04-02T10:46:04.444202+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,44,conpress,I am going to name some institutions in this count...,1,2,189,1,190,,2
+2026-04-02T10:46:04.470394+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,44,consci,I am going to name some institutions in this count...,1,1,190,1,191,,1
+2026-04-02T10:46:04.535144+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,45,eqwlth,Some people think that the government in Washingto...,1,5,301,1,302,,5
+2026-04-02T10:46:04.620794+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,45,confed,I am going to name some institutions in this count...,1,2,193,1,194,,2
+2026-04-02T10:46:04.731310+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,45,conpress,I am going to name some institutions in this count...,1,3,189,1,190,,3
+2026-04-02T10:46:04.767840+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,44,confed,I am going to name some institutions in this count...,1,2,193,1,194,,2
+2026-04-02T10:46:04.777774+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,44,eqwlth,Some people think that the government in Washingto...,1,2,301,1,302,,2
+2026-04-02T10:46:04.897585+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,45,affrmact,Some people say that because of past discriminatio...,1,4,205,1,206,,4
+2026-04-02T10:46:04.927152+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,45,consci,I am going to name some institutions in this count...,1,2,190,1,191,,2
+2026-04-02T10:46:05.181894+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,46,conpress,I am going to name some institutions in this count...,1,2,194,1,195,,2
+2026-04-02T10:46:05.213063+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,46,consci,I am going to name some institutions in this count...,1,1,195,1,196,,1
+2026-04-02T10:46:05.243905+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,46,confed,I am going to name some institutions in this count...,1,2,198,1,199,,2
+2026-04-02T10:46:05.254601+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,46,eqwlth,Some people think that the government in Washingto...,1,3,306,1,307,,3
+2026-04-02T10:46:05.303309+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,46,affrmact,Some people say that because of past discriminatio...,1,3,210,1,211,,3
+2026-04-02T10:46:05.366102+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,47,eqwlth,Some people think that the government in Washingto...,1,6,307,1,308,,6
+2026-04-02T10:46:05.387010+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,47,affrmact,Some people say that because of past discriminatio...,1,4,211,1,212,,4
+2026-04-02T10:46:05.398972+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,47,confed,I am going to name some institutions in this count...,1,3,199,1,200,,3
+2026-04-02T10:46:05.648757+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,47,conpress,I am going to name some institutions in this count...,1,3,195,1,196,,3
+2026-04-02T10:46:05.905672+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,48,affrmact,Some people say that because of past discriminatio...,1,3,208,1,209,,3
+2026-04-02T10:46:05.910577+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,48,conpress,I am going to name some institutions in this count...,1,2,192,1,193,,2
+2026-04-02T10:46:05.921654+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,49,affrmact,Some people say that because of past discriminatio...,1,3,197,1,198,,3
+2026-04-02T10:46:05.963498+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,47,consci,I am going to name some institutions in this count...,1,2,196,1,197,,2
+2026-04-02T10:46:06.060539+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,48,eqwlth,Some people think that the government in Washingto...,1,4,304,1,305,,4
+2026-04-02T10:46:06.098771+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,49,eqwlth,Some people think that the government in Washingto...,1,3,293,1,294,,3
+2026-04-02T10:46:06.126575+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,48,confed,I am going to name some institutions in this count...,1,2,196,1,197,,2
+2026-04-02T10:46:06.384726+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,49,confed,I am going to name some institutions in this count...,1,2,185,1,186,,2
+2026-04-02T10:46:06.470703+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,49,consci,I am going to name some institutions in this count...,1,1,182,1,183,,1
+2026-04-02T10:46:06.476853+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,50,affrmact,Some people say that because of past discriminatio...,1,4,206,1,207,,4
+2026-04-02T10:46:06.550365+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,49,conpress,I am going to name some institutions in this count...,1,2,181,1,182,,2
+2026-04-02T10:46:06.568222+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,50,conpress,I am going to name some institutions in this count...,1,3,190,1,191,,3
+2026-04-02T10:46:06.575207+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,50,eqwlth,Some people think that the government in Washingto...,1,6,302,1,303,,6
+2026-04-02T10:46:06.814957+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,50,consci,I am going to name some institutions in this count...,1,2,191,1,192,,2
+2026-04-02T10:46:06.865763+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,50,confed,I am going to name some institutions in this count...,1,3,194,1,195,,3
+2026-04-02T10:46:06.875734+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,48,consci,I am going to name some institutions in this count...,1,1,193,1,194,,1
+2026-04-02T10:46:06.997682+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,51,affrmact,Some people say that because of past discriminatio...,1,3,206,1,207,,3
+2026-04-02T10:46:07.065852+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,51,consci,I am going to name some institutions in this count...,1,1,191,1,192,,1
+2026-04-02T10:46:07.071109+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,51,eqwlth,Some people think that the government in Washingto...,1,2,302,1,303,,2
+2026-04-02T10:46:07.128864+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,51,confed,I am going to name some institutions in this count...,1,2,194,1,195,,2
+2026-04-02T10:46:07.149101+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,51,conpress,I am going to name some institutions in this count...,1,2,190,1,191,,2
+2026-04-02T10:46:07.237919+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,52,affrmact,Some people say that because of past discriminatio...,1,4,202,1,203,,4
+2026-04-02T10:46:07.326326+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,52,eqwlth,Some people think that the government in Washingto...,1,6,298,1,299,,6
+2026-04-02T10:46:07.381530+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,52,confed,I am going to name some institutions in this count...,1,3,190,1,191,,3
+2026-04-02T10:46:07.408290+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,52,conpress,I am going to name some institutions in this count...,1,3,186,1,187,,3
+2026-04-02T10:46:07.479043+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,52,consci,I am going to name some institutions in this count...,1,2,187,1,188,,2
+2026-04-02T10:46:07.669719+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,53,confed,I am going to name some institutions in this count...,1,2,199,1,200,,2
+2026-04-02T10:46:07.709107+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,53,affrmact,Some people say that because of past discriminatio...,1,2,211,1,212,,2
+2026-04-02T10:46:07.807363+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,53,consci,I am going to name some institutions in this count...,1,1,196,1,197,,1
+2026-04-02T10:46:07.832929+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,54,affrmact,Some people say that because of past discriminatio...,1,1,203,1,204,,1
+2026-04-02T10:46:07.899309+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,54,eqwlth,Some people think that the government in Washingto...,1,1,299,1,300,,1
+2026-04-02T10:46:08.049290+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,54,confed,I am going to name some institutions in this count...,1,3,191,1,192,,3
+2026-04-02T10:46:08.077449+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,53,conpress,I am going to name some institutions in this count...,1,2,195,1,196,,2
+2026-04-02T10:46:08.091256+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,54,conpress,I am going to name some institutions in this count...,1,3,187,1,188,,3
+2026-04-02T10:46:08.130148+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,53,eqwlth,Some people think that the government in Washingto...,1,2,307,1,308,,2
+2026-04-02T10:46:08.240519+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,55,affrmact,Some people say that because of past discriminatio...,1,3,214,1,215,,3
+2026-04-02T10:46:08.291222+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,54,consci,I am going to name some institutions in this count...,1,3,188,1,189,,3
+2026-04-02T10:46:08.309752+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,55,confed,I am going to name some institutions in this count...,1,3,202,1,203,,3
+2026-04-02T10:46:08.386599+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,55,eqwlth,Some people think that the government in Washingto...,1,1,310,1,311,,1
+2026-04-02T10:46:08.568106+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,55,consci,I am going to name some institutions in this count...,1,2,199,1,200,,2
+2026-04-02T10:46:08.615244+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,55,conpress,I am going to name some institutions in this count...,1,2,198,1,199,,2
+2026-04-02T10:46:08.717083+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,56,conpress,I am going to name some institutions in this count...,1,2,175,1,176,,2
+2026-04-02T10:46:08.795460+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,56,affrmact,Some people say that because of past discriminatio...,1,3,191,1,192,,3
+2026-04-02T10:46:08.865543+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,56,confed,I am going to name some institutions in this count...,1,2,179,1,180,,2
+2026-04-02T10:46:08.958926+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,56,eqwlth,Some people think that the government in Washingto...,1,3,287,1,288,,3
+2026-04-02T10:46:08.999730+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,57,eqwlth,Some people think that the government in Washingto...,1,4,270,1,271,,4
+2026-04-02T10:46:09.272052+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,56,consci,I am going to name some institutions in this count...,1,1,176,1,177,,1
+2026-04-02T10:46:09.340156+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,57,consci,I am going to name some institutions in this count...,1,1,159,1,160,,1
+2026-04-02T10:46:09.355157+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,57,affrmact,Some people say that because of past discriminatio...,1,3,174,1,175,,3
+2026-04-02T10:46:09.635611+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,58,eqwlth,Some people think that the government in Washingto...,1,1,302,1,303,,1
+2026-04-02T10:46:09.658511+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,58,conpress,I am going to name some institutions in this count...,1,3,190,1,191,,3
+2026-04-02T10:46:09.799515+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,59,affrmact,Some people say that because of past discriminatio...,1,3,205,1,206,,3
+2026-04-02T10:46:10.124861+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,59,eqwlth,Some people think that the government in Washingto...,1,5,301,1,302,,5
+2026-04-02T10:46:11.503023+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,57,confed,I am going to name some institutions in this count...,1,2,162,1,163,,2
+2026-04-02T10:46:12.416273+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,58,affrmact,Some people say that because of past discriminatio...,1,2,206,1,207,,2
+2026-04-02T10:46:12.748647+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,59,conpress,I am going to name some institutions in this count...,1,2,189,1,190,,2
+2026-04-02T10:46:12.834429+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,58,consci,I am going to name some institutions in this count...,1,1,191,1,192,,1
+2026-04-02T10:46:12.839448+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,60,eqwlth,Some people think that the government in Washingto...,1,1,305,1,306,,1
+2026-04-02T10:46:12.966882+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,59,confed,I am going to name some institutions in this count...,1,2,193,1,194,,2
+2026-04-02T10:46:13.234643+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,60,conpress,I am going to name some institutions in this count...,1,3,193,1,194,,3
+2026-04-02T10:46:13.388303+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,60,confed,I am going to name some institutions in this count...,1,2,197,1,198,,2
+2026-04-02T10:46:13.412069+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,61,affrmact,Some people say that because of past discriminatio...,1,2,203,1,204,,2
+2026-04-02T10:46:13.762374+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,59,consci,I am going to name some institutions in this count...,1,1,190,1,191,,1
+2026-04-02T10:46:13.799036+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,61,eqwlth,Some people think that the government in Washingto...,1,1,299,1,300,,1
+2026-04-02T10:46:13.857470+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,61,confed,I am going to name some institutions in this count...,1,3,191,1,192,,3
+2026-04-02T10:46:14.211982+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,61,conpress,I am going to name some institutions in this count...,1,3,187,1,188,,3
+2026-04-02T10:46:14.300893+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,61,consci,I am going to name some institutions in this count...,1,1,188,1,189,,1
+2026-04-02T10:46:14.366143+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,62,eqwlth,Some people think that the government in Washingto...,1,2,305,1,306,,2
+2026-04-02T10:46:14.513288+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,57,conpress,I am going to name some institutions in this count...,1,3,158,1,159,,3
+2026-04-02T10:46:14.722548+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,62,confed,I am going to name some institutions in this count...,1,2,197,1,198,,2
+2026-04-02T10:46:14.925005+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,63,affrmact,Some people say that because of past discriminatio...,1,4,194,1,195,,4
+2026-04-02T10:46:15.371423+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,63,confed,I am going to name some institutions in this count...,1,3,182,1,183,,3
+2026-04-02T10:46:15.781047+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,60,affrmact,Some people say that because of past discriminatio...,1,3,209,1,210,,3
+2026-04-02T10:46:15.800966+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,63,conpress,I am going to name some institutions in this count...,1,3,178,1,179,,3
+2026-04-02T10:46:16.186849+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,63,consci,I am going to name some institutions in this count...,1,2,179,1,180,,2
+2026-04-02T10:46:16.605440+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,64,eqwlth,Some people think that the government in Washingto...,1,7,298,1,299,,7
+2026-04-02T10:46:17.678338+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,62,consci,I am going to name some institutions in this count...,1,1,194,1,195,,1
+2026-04-02T10:46:18.009191+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,62,conpress,I am going to name some institutions in this count...,1,2,193,1,194,,2
+2026-04-02T10:46:18.083553+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,64,conpress,I am going to name some institutions in this count...,1,3,186,1,187,,3
+2026-04-02T10:46:18.149788+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,62,affrmact,Some people say that because of past discriminatio...,1,2,209,1,210,,2
+2026-04-02T10:46:18.206420+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,63,eqwlth,Some people think that the government in Washingto...,1,5,290,1,291,,5
+2026-04-02T10:46:18.867632+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,64,consci,I am going to name some institutions in this count...,1,3,187,1,188,,3
+2026-04-02T10:46:19.542241+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,65,conpress,I am going to name some institutions in this count...,1,3,188,1,189,,3
+2026-04-02T10:46:19.587702+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,64,confed,I am going to name some institutions in this count...,1,3,190,1,191,,3
+2026-04-02T10:46:20.937259+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,64,affrmact,Some people say that because of past discriminatio...,1,4,202,1,203,,4
+2026-04-02T10:46:21.455632+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,66,eqwlth,Some people think that the government in Washingto...,1,3,302,1,303,,3
+2026-04-02T10:46:22.275332+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,66,confed,I am going to name some institutions in this count...,1,2,194,1,195,,2
+2026-04-02T10:46:22.785580+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,66,conpress,I am going to name some institutions in this count...,1,2,190,1,191,,2
+2026-04-02T10:46:25.132024+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,65,eqwlth,Some people think that the government in Washingto...,1,1,299,1,300,,1
+2026-04-02T10:46:25.159900+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,65,consci,I am going to name some institutions in this count...,1,1,188,1,189,,1
+2026-04-02T10:46:25.630328+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,67,eqwlth,Some people think that the government in Washingto...,1,1,284,1,285,,1
+2026-04-02T10:46:26.018660+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,66,consci,I am going to name some institutions in this count...,1,1,191,1,192,,1
+2026-04-02T10:46:26.056339+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,67,confed,I am going to name some institutions in this count...,1,2,176,1,177,,2
+2026-04-02T10:46:26.219873+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,67,affrmact,Some people say that because of past discriminatio...,1,2,188,1,189,,2
+2026-04-02T10:46:26.522918+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,67,consci,I am going to name some institutions in this count...,1,1,173,1,174,,1
+2026-04-02T10:46:26.764453+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,66,affrmact,Some people say that because of past discriminatio...,1,3,206,1,207,,3
+2026-04-02T10:46:26.928041+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,68,eqwlth,Some people think that the government in Washingto...,1,3,300,1,301,,3
+2026-04-02T10:46:27.301743+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,67,conpress,I am going to name some institutions in this count...,1,3,172,1,173,,3
+2026-04-02T10:46:27.480423+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,68,conpress,I am going to name some institutions in this count...,1,2,188,1,189,,2
+2026-04-02T10:46:27.572962+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,65,affrmact,Some people say that because of past discriminatio...,1,1,203,1,204,,1
+2026-04-02T10:46:27.773107+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,68,consci,I am going to name some institutions in this count...,1,1,189,1,190,,1
+2026-04-02T10:46:27.961753+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,69,affrmact,Some people say that because of past discriminatio...,1,1,185,1,186,,1
+2026-04-02T10:46:28.045701+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,69,eqwlth,Some people think that the government in Washingto...,1,1,281,1,282,,1
+2026-04-02T10:46:28.191732+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,65,confed,I am going to name some institutions in this count...,1,3,191,1,192,,3
+2026-04-02T10:46:28.510912+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,69,consci,I am going to name some institutions in this count...,1,1,170,1,171,,1
+2026-04-02T10:46:28.662892+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,70,affrmact,Some people say that because of past discriminatio...,1,3,195,1,196,,3
+2026-04-02T10:46:29.060715+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,70,eqwlth,Some people think that the government in Washingto...,1,5,291,1,292,,5
+2026-04-02T10:46:29.105083+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,70,confed,I am going to name some institutions in this count...,1,2,183,1,184,,2
+2026-04-02T10:46:30.460119+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,68,confed,I am going to name some institutions in this count...,1,2,192,1,193,,2
+2026-04-02T10:46:30.742694+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,69,confed,I am going to name some institutions in this count...,1,3,173,1,174,,3
+2026-04-02T10:46:30.961286+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,71,affrmact,Some people say that because of past discriminatio...,1,3,210,1,211,,3
+2026-04-02T10:46:31.393028+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,71,confed,I am going to name some institutions in this count...,1,2,198,1,199,,2
+2026-04-02T10:46:31.452465+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,69,conpress,I am going to name some institutions in this count...,1,3,169,1,170,,3
+2026-04-02T10:46:31.859680+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,71,consci,I am going to name some institutions in this count...,1,2,195,1,196,,2
+2026-04-02T10:46:32.092912+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,71,conpress,I am going to name some institutions in this count...,1,2,194,1,195,,2
+2026-04-02T10:46:32.585113+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,72,eqwlth,Some people think that the government in Washingto...,1,3,309,1,310,,3
+2026-04-02T10:46:33.060674+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,72,confed,I am going to name some institutions in this count...,1,2,201,1,202,,2
+2026-04-02T10:46:33.213170+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,70,conpress,I am going to name some institutions in this count...,1,3,179,1,180,,3
+2026-04-02T10:46:33.623469+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,72,conpress,I am going to name some institutions in this count...,1,3,197,1,198,,3
+2026-04-02T10:46:33.673794+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,72,consci,I am going to name some institutions in this count...,1,2,198,1,199,,2
+2026-04-02T10:46:34.039889+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,73,affrmact,Some people say that because of past discriminatio...,1,4,208,1,209,,4
+2026-04-02T10:46:34.276736+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,73,eqwlth,Some people think that the government in Washingto...,1,7,304,1,305,,7
+2026-04-02T10:46:34.475184+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,73,confed,I am going to name some institutions in this count...,1,3,196,1,197,,3
+2026-04-02T10:46:34.783993+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,71,eqwlth,Some people think that the government in Washingto...,1,3,306,1,307,,3
+2026-04-02T10:46:34.809726+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,73,conpress,I am going to name some institutions in this count...,1,3,192,1,193,,3
+2026-04-02T10:46:34.899140+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,73,consci,I am going to name some institutions in this count...,1,2,193,1,194,,2
+2026-04-02T10:46:35.208559+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,68,affrmact,Some people say that because of past discriminatio...,1,3,204,1,205,,3
+2026-04-02T10:46:35.222546+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,74,affrmact,Some people say that because of past discriminatio...,1,2,211,1,212,,2
+2026-04-02T10:46:35.378370+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,74,confed,I am going to name some institutions in this count...,1,3,199,1,200,,3
+2026-04-02T10:46:35.408952+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,74,eqwlth,Some people think that the government in Washingto...,1,1,307,1,308,,1
+2026-04-02T10:46:35.657792+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,74,consci,I am going to name some institutions in this count...,1,1,196,1,197,,1
+2026-04-02T10:46:35.845939+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,75,affrmact,Some people say that because of past discriminatio...,1,3,214,1,215,,3
+2026-04-02T10:46:35.981061+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,75,eqwlth,Some people think that the government in Washingto...,1,4,310,1,311,,4
+2026-04-02T10:46:36.045616+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,74,conpress,I am going to name some institutions in this count...,1,3,195,1,196,,3
+2026-04-02T10:46:36.183709+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,75,confed,I am going to name some institutions in this count...,1,2,202,1,203,,2
+2026-04-02T10:46:36.305296+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,75,conpress,I am going to name some institutions in this count...,1,3,198,1,199,,3
+2026-04-02T10:46:36.441207+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,75,consci,I am going to name some institutions in this count...,1,2,199,1,200,,2
+2026-04-02T10:46:36.612469+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,76,eqwlth,Some people think that the government in Washingto...,1,1,306,1,307,,1
+2026-04-02T10:46:37.117324+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,76,confed,I am going to name some institutions in this count...,1,3,198,1,199,,3
+2026-04-02T10:46:37.412449+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,76,conpress,I am going to name some institutions in this count...,1,3,194,1,195,,3
+2026-04-02T10:46:37.453170+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,72,affrmact,Some people say that because of past discriminatio...,1,3,213,1,214,,3
+2026-04-02T10:46:37.579991+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,77,affrmact,Some people say that because of past discriminatio...,1,4,207,1,208,,4
+2026-04-02T10:46:38.027874+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,77,conpress,I am going to name some institutions in this count...,1,3,191,1,192,,3
+2026-04-02T10:46:38.531262+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,77,consci,I am going to name some institutions in this count...,1,2,192,1,193,,2
+2026-04-02T10:46:39.031374+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,78,affrmact,Some people say that because of past discriminatio...,1,1,203,1,204,,1
+2026-04-02T10:46:39.466733+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,78,eqwlth,Some people think that the government in Washingto...,1,1,299,1,300,,1
+2026-04-02T10:46:39.515824+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,76,affrmact,Some people say that because of past discriminatio...,1,1,210,1,211,,1
+2026-04-02T10:46:39.909707+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,76,consci,I am going to name some institutions in this count...,1,2,195,1,196,,2
+2026-04-02T10:46:40.319489+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,78,consci,I am going to name some institutions in this count...,1,1,188,1,189,,1
+2026-04-02T10:46:40.355023+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,78,conpress,I am going to name some institutions in this count...,1,3,187,1,188,,3
+2026-04-02T10:46:40.778464+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,77,confed,I am going to name some institutions in this count...,1,3,195,1,196,,3
+2026-04-02T10:46:40.933545+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,79,affrmact,Some people say that because of past discriminatio...,1,4,189,1,190,,4
+2026-04-02T10:46:41.018168+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,78,confed,I am going to name some institutions in this count...,1,3,191,1,192,,3
+2026-04-02T10:46:41.304964+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,79,confed,I am going to name some institutions in this count...,1,3,177,1,178,,3
+2026-04-02T10:46:41.338111+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,79,conpress,I am going to name some institutions in this count...,1,3,173,1,174,,3
+2026-04-02T10:46:41.410201+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,77,eqwlth,Some people think that the government in Washingto...,1,6,303,1,304,,6
+2026-04-02T10:46:41.425451+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,79,consci,I am going to name some institutions in this count...,1,3,174,1,175,,3
+2026-04-02T10:46:41.721885+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,80,affrmact,Some people say that because of past discriminatio...,1,3,211,1,212,,3
+2026-04-02T10:46:41.770842+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,80,eqwlth,Some people think that the government in Washingto...,1,1,307,1,308,,1
+2026-04-02T10:46:41.904265+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,80,conpress,I am going to name some institutions in this count...,1,3,195,1,196,,3
+2026-04-02T10:46:42.171822+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,80,consci,I am going to name some institutions in this count...,1,1,196,1,197,,1
+2026-04-02T10:46:42.213045+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,81,affrmact,Some people say that because of past discriminatio...,1,4,205,1,206,,4
+2026-04-02T10:46:42.406702+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,81,eqwlth,Some people think that the government in Washingto...,1,6,301,1,302,,6
+2026-04-02T10:46:42.590229+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,81,confed,I am going to name some institutions in this count...,1,3,193,1,194,,3
+2026-04-02T10:46:42.873894+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,81,consci,I am going to name some institutions in this count...,1,2,190,1,191,,2
+2026-04-02T10:46:43.399341+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,82,eqwlth,Some people think that the government in Washingto...,1,6,305,1,306,,6
+2026-04-02T10:46:43.672664+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,58,confed,I am going to name some institutions in this count...,1,2,194,1,195,,2
+2026-04-02T10:46:44.053743+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,82,confed,I am going to name some institutions in this count...,1,3,197,1,198,,3
+2026-04-02T10:46:44.174373+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,82,conpress,I am going to name some institutions in this count...,1,3,193,1,194,,3
+2026-04-02T10:46:44.216394+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,80,confed,I am going to name some institutions in this count...,1,2,199,1,200,,2
+2026-04-02T10:46:44.469761+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,79,eqwlth,Some people think that the government in Washingto...,1,6,285,1,286,,6
+2026-04-02T10:46:44.480749+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,60,consci,I am going to name some institutions in this count...,1,2,194,1,195,,2
+2026-04-02T10:46:44.609907+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,83,affrmact,Some people say that because of past discriminatio...,1,3,196,1,197,,3
+2026-04-02T10:46:44.655832+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,82,consci,I am going to name some institutions in this count...,1,2,194,1,195,,2
+2026-04-02T10:46:44.804745+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,83,eqwlth,Some people think that the government in Washingto...,1,1,292,1,293,,1
+2026-04-02T10:46:44.911755+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,83,confed,I am going to name some institutions in this count...,1,2,184,1,185,,2
+2026-04-02T10:46:45.102509+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,83,consci,I am going to name some institutions in this count...,1,2,181,1,182,,2
+2026-04-02T10:46:45.108011+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,84,affrmact,Some people say that because of past discriminatio...,1,3,209,1,210,,3
+2026-04-02T10:46:45.153667+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,83,conpress,I am going to name some institutions in this count...,1,3,180,1,181,,3
+2026-04-02T10:46:45.378514+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,84,confed,I am going to name some institutions in this count...,1,2,197,1,198,,2
+2026-04-02T10:46:45.718771+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,84,eqwlth,Some people think that the government in Washingto...,1,1,305,1,306,,1
+2026-04-02T10:46:45.745403+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,84,conpress,I am going to name some institutions in this count...,1,3,193,1,194,,3
+2026-04-02T10:46:45.806984+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,85,affrmact,Some people say that because of past discriminatio...,1,3,186,1,187,,3
+2026-04-02T10:46:45.866787+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,85,eqwlth,Some people think that the government in Washingto...,1,3,282,1,283,,3
+2026-04-02T10:46:46.188358+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,85,confed,I am going to name some institutions in this count...,1,2,174,1,175,,2
+2026-04-02T10:46:46.321667+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,86,affrmact,Some people say that because of past discriminatio...,1,3,208,1,209,,3
+2026-04-02T10:46:46.413882+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,85,conpress,I am going to name some institutions in this count...,1,2,170,1,171,,2
+2026-04-02T10:46:46.431547+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,85,consci,I am going to name some institutions in this count...,1,2,171,1,172,,2
+2026-04-02T10:46:46.621572+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,84,consci,I am going to name some institutions in this count...,1,2,194,1,195,,2
+2026-04-02T10:46:46.711847+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,86,eqwlth,Some people think that the government in Washingto...,1,1,304,1,305,,1
+2026-04-02T10:46:46.761155+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,82,affrmact,Some people say that because of past discriminatio...,1,4,209,1,210,,4
+2026-04-02T10:46:46.949433+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,81,conpress,I am going to name some institutions in this count...,1,3,189,1,190,,3
+2026-04-02T10:46:47.037242+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,86,consci,I am going to name some institutions in this count...,1,1,193,1,194,,1
+2026-04-02T10:46:47.157096+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,87,affrmact,Some people say that because of past discriminatio...,1,3,204,1,205,,3
+2026-04-02T10:46:47.287372+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,87,confed,I am going to name some institutions in this count...,1,2,192,1,193,,2
+2026-04-02T10:46:47.315058+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,86,confed,I am going to name some institutions in this count...,1,2,196,1,197,,2
+2026-04-02T10:46:47.356083+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,87,eqwlth,Some people think that the government in Washingto...,1,3,300,1,301,,3
+2026-04-02T10:46:47.452924+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,87,consci,I am going to name some institutions in this count...,1,2,189,1,190,,2
+2026-04-02T10:46:47.462892+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,87,conpress,I am going to name some institutions in this count...,1,3,188,1,189,,3
+2026-04-02T10:46:47.727743+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,88,eqwlth,Some people think that the government in Washingto...,1,2,296,1,297,,2
+2026-04-02T10:46:48.105218+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,88,confed,I am going to name some institutions in this count...,1,2,188,1,189,,2
+2026-04-02T10:46:48.136043+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,89,eqwlth,Some people think that the government in Washingto...,1,3,300,1,301,,3
+2026-04-02T10:46:48.526742+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,88,conpress,I am going to name some institutions in this count...,1,2,184,1,185,,2
+2026-04-02T10:46:48.701652+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,89,conpress,I am going to name some institutions in this count...,1,3,188,1,189,,3
+2026-04-02T10:46:48.911076+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,89,confed,I am going to name some institutions in this count...,1,2,192,1,193,,2
+2026-04-02T10:46:49.128814+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,90,affrmact,Some people say that because of past discriminatio...,1,1,209,1,210,,1
+2026-04-02T10:46:49.353622+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,89,consci,I am going to name some institutions in this count...,1,1,189,1,190,,1
+2026-04-02T10:46:49.627747+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,90,eqwlth,Some people think that the government in Washingto...,1,1,305,1,306,,1
+2026-04-02T10:46:49.722540+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,90,confed,I am going to name some institutions in this count...,1,3,197,1,198,,3
+2026-04-02T10:46:49.778026+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,90,conpress,I am going to name some institutions in this count...,1,3,193,1,194,,3
+2026-04-02T10:46:50.138824+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,91,affrmact,Some people say that because of past discriminatio...,1,2,207,1,208,,2
+2026-04-02T10:46:50.217752+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,91,eqwlth,Some people think that the government in Washingto...,1,2,303,1,304,,2
+2026-04-02T10:46:50.637806+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,91,confed,I am going to name some institutions in this count...,1,2,195,1,196,,2
+2026-04-02T10:46:50.655085+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,91,conpress,I am going to name some institutions in this count...,1,2,191,1,192,,2
+2026-04-02T10:46:50.685080+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,86,conpress,I am going to name some institutions in this count...,1,2,192,1,193,,2
+2026-04-02T10:46:51.141763+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,92,eqwlth,Some people think that the government in Washingto...,1,6,297,1,298,,6
+2026-04-02T10:46:51.279868+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,92,affrmact,Some people say that because of past discriminatio...,1,4,201,1,202,,4
+2026-04-02T10:46:51.345261+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,91,consci,I am going to name some institutions in this count...,1,2,192,1,193,,2
+2026-04-02T10:46:51.645023+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,92,confed,I am going to name some institutions in this count...,1,3,189,1,190,,3
+2026-04-02T10:46:51.782823+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,92,conpress,I am going to name some institutions in this count...,1,3,185,1,186,,3
+2026-04-02T10:46:52.025346+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,92,consci,I am going to name some institutions in this count...,1,2,186,1,187,,2
+2026-04-02T10:46:52.054600+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,93,affrmact,Some people say that because of past discriminatio...,1,3,211,1,212,,3
+2026-04-02T10:46:52.170233+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,89,affrmact,Some people say that because of past discriminatio...,1,3,204,1,205,,3
+2026-04-02T10:46:52.269036+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,88,consci,I am going to name some institutions in this count...,1,1,185,1,186,,1
+2026-04-02T10:46:52.279998+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,88,affrmact,Some people say that because of past discriminatio...,1,2,200,1,201,,2
+2026-04-02T10:46:52.473908+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,93,conpress,I am going to name some institutions in this count...,1,2,195,1,196,,2
+2026-04-02T10:46:52.764482+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,94,affrmact,Some people say that because of past discriminatio...,1,3,183,1,184,,3
+2026-04-02T10:46:52.801493+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,93,consci,I am going to name some institutions in this count...,1,2,196,1,197,,2
+2026-04-02T10:46:52.872045+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,94,confed,I am going to name some institutions in this count...,1,2,171,1,172,,2
+2026-04-02T10:46:53.024909+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,93,confed,I am going to name some institutions in this count...,1,2,199,1,200,,2
+2026-04-02T10:46:53.051051+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,94,eqwlth,Some people think that the government in Washingto...,1,4,279,1,280,,4
+2026-04-02T10:46:53.298338+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,95,affrmact,Some people say that because of past discriminatio...,1,3,205,1,206,,3
+2026-04-02T10:46:53.330021+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,94,conpress,I am going to name some institutions in this count...,1,2,167,1,168,,2
+2026-04-02T10:46:53.411623+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,93,eqwlth,Some people think that the government in Washingto...,1,2,307,1,308,,2
+2026-04-02T10:46:53.417006+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,94,consci,I am going to name some institutions in this count...,1,1,168,1,169,,1
+2026-04-02T10:46:53.535050+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,95,eqwlth,Some people think that the government in Washingto...,1,2,301,1,302,,2
+2026-04-02T10:46:53.771119+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,95,consci,I am going to name some institutions in this count...,1,1,190,1,191,,1
+2026-04-02T10:46:53.855492+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,95,confed,I am going to name some institutions in this count...,1,2,193,1,194,,2
+2026-04-02T10:46:53.865596+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,96,affrmact,Some people say that because of past discriminatio...,1,3,215,1,216,,3
+2026-04-02T10:46:53.871928+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,95,conpress,I am going to name some institutions in this count...,1,3,189,1,190,,3
+2026-04-02T10:46:53.937049+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,96,eqwlth,Some people think that the government in Washingto...,1,1,311,1,312,,1
+2026-04-02T10:46:53.998978+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,96,confed,I am going to name some institutions in this count...,1,2,203,1,204,,2
+2026-04-02T10:46:54.409218+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,96,consci,I am going to name some institutions in this count...,1,2,200,1,201,,2
+2026-04-02T10:46:54.455609+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,97,eqwlth,Some people think that the government in Washingto...,1,1,299,1,300,,1
+2026-04-02T10:46:54.483354+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,96,conpress,I am going to name some institutions in this count...,1,3,199,1,200,,3
+2026-04-02T10:46:54.586793+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,97,conpress,I am going to name some institutions in this count...,1,3,187,1,188,,3
+2026-04-02T10:46:54.641611+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,97,confed,I am going to name some institutions in this count...,1,3,191,1,192,,3
+2026-04-02T10:46:54.646333+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,97,affrmact,Some people say that because of past discriminatio...,1,1,203,1,204,,1
+2026-04-02T10:46:54.837233+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,97,consci,I am going to name some institutions in this count...,1,2,188,1,189,,2
+2026-04-02T10:46:54.952196+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,98,affrmact,Some people say that because of past discriminatio...,1,4,181,1,182,,4
+2026-04-02T10:46:55.043379+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,98,confed,I am going to name some institutions in this count...,1,3,169,1,170,,3
+2026-04-02T10:46:55.101731+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,98,eqwlth,Some people think that the government in Washingto...,1,5,277,1,278,,5
+2026-04-02T10:46:55.142207+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,98,consci,I am going to name some institutions in this count...,1,2,166,1,167,,2
+2026-04-02T10:46:55.174383+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,98,conpress,I am going to name some institutions in this count...,1,3,165,1,166,,3
+2026-04-02T10:46:55.459016+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,99,affrmact,Some people say that because of past discriminatio...,1,3,211,1,212,,3
+2026-04-02T10:46:55.626819+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,99,confed,I am going to name some institutions in this count...,1,2,199,1,200,,2
+2026-04-02T10:46:55.637710+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,99,conpress,I am going to name some institutions in this count...,1,2,195,1,196,,2
+2026-04-02T10:46:55.644998+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,99,eqwlth,Some people think that the government in Washingto...,1,3,307,1,308,,3
+2026-04-02T10:46:55.726077+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,99,consci,I am going to name some institutions in this count...,1,1,196,1,197,,1
+2026-04-02T10:46:55.752673+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,90,consci,I am going to name some institutions in this count...,1,1,194,1,195,,1
+2026-04-02T10:46:55.754634+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,100,affrmact,Some people say that because of past discriminatio...,1,2,213,1,214,,2
+2026-04-02T10:46:56.101410+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,100,eqwlth,Some people think that the government in Washingto...,1,2,309,1,310,,2
+2026-04-02T10:46:56.213317+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,100,conpress,I am going to name some institutions in this count...,1,3,197,1,198,,3
+2026-04-02T10:46:56.259611+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,100,consci,I am going to name some institutions in this count...,1,1,198,1,199,,1
+2026-04-02T10:46:56.388143+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,100,confed,I am going to name some institutions in this count...,1,2,201,1,202,,2
+2026-04-02T10:47:00.637142+00:00,google/gemini-2.5-flash-lite,personas_demographics_political,70,consci,I am going to name some institutions in this count...,1,1,180,1,181,,1

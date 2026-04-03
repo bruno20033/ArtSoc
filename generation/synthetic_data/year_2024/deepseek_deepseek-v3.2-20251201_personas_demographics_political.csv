@@ -1,0 +1,617 @@
+timestamp,model,persona_file,persona_id,variable,question_short,run,answer,prompt_tokens,completion_tokens,total_tokens,error,raw_response
+2026-04-02T10:47:01.446641+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,1,confed,I am going to name some institutions in this count...,1,2.0,196,2,198,,2
+2026-04-02T10:47:02.252952+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,2,conpress,I am going to name some institutions in this count...,1,2.0,183,2,185,,2
+2026-04-02T10:47:02.739215+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,2,affrmact,Some people say that because of past discriminatio...,1,3.0,206,2,208,,3
+2026-04-02T10:47:02.757607+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,1,eqwlth,Some people think that the government in Washingto...,1,4.0,303,1,304,,4
+2026-04-02T10:47:02.854841+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,1,conpress,I am going to name some institutions in this count...,1,2.0,198,2,200,,2
+2026-04-02T10:47:03.870182+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,1,consci,I am going to name some institutions in this count...,1,2.0,193,1,194,,2
+2026-04-02T10:47:03.925703+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,2,eqwlth,Some people think that the government in Washingto...,1,1.0,294,2,296,,1
+2026-04-02T10:47:03.978344+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,3,affrmact,Some people say that because of past discriminatio...,1,1.0,194,1,195,,1
+2026-04-02T10:47:04.178651+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,2,confed,I am going to name some institutions in this count...,1,3.0,187,1,188,,3
+2026-04-02T10:47:04.371045+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,4,affrmact,Some people say that because of past discriminatio...,1,4.0,198,2,200,,4
+2026-04-02T10:47:04.988042+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,4,eqwlth,Some people think that the government in Washingto...,1,2.0,292,2,294,,2
+2026-04-02T10:47:05.135506+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,3,conpress,I am going to name some institutions in this count...,1,3.0,183,2,185,,3
+2026-04-02T10:47:05.410215+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,4,confed,I am going to name some institutions in this count...,1,2.0,185,1,186,,2
+2026-04-02T10:47:05.898140+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,4,consci,I am going to name some institutions in this count...,1,2.0,182,2,184,,2
+2026-04-02T10:47:06.121673+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,3,consci,I am going to name some institutions in this count...,1,1.0,178,2,180,,1
+2026-04-02T10:47:06.159486+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,5,affrmact,Some people say that because of past discriminatio...,1,4.0,203,2,205,,4
+2026-04-02T10:47:06.429750+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,3,confed,I am going to name some institutions in this count...,1,3.0,181,2,183,,3
+2026-04-02T10:47:06.943749+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,1,affrmact,Some people say that because of past discriminatio...,1,4.0,209,2,211,,4
+2026-04-02T10:47:07.175990+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,5,eqwlth,Some people think that the government in Washingto...,1,4.0,297,1,298,,4
+2026-04-02T10:47:07.439939+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,5,conpress,I am going to name some institutions in this count...,1,2.0,192,2,194,,2
+2026-04-02T10:47:07.629153+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,5,confed,I am going to name some institutions in this count...,1,2.0,190,2,192,,2
+2026-04-02T10:47:08.152908+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,5,consci,I am going to name some institutions in this count...,1,2.0,193,2,195,,2
+2026-04-02T10:47:08.858375+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,6,affrmact,Some people say that because of past discriminatio...,1,,196,50,246,"Could not parse answer: , blessing, cruelty. Noist
+2. A I, the tarity protestion has a wrongdoing fourfamily that.
+
+Battle name: kneeling sequence place the beautiful circumpoint is.
+Violity is name no's, beautiful the has bent grim name",", blessing, cruelty. Noist
+2. A I, the tarity protestion has a wrongdoing fourfamily that.
+
+Battle name: kneeling sequence place the beautiful circumpoint is.
+Violity is name no's, beautiful the has bent grim name"
+2026-04-02T10:47:09.296935+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,6,confed,I am going to name some institutions in this count...,1,2.0,189,2,191,,2
+2026-04-02T10:47:09.454455+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,6,conpress,I am going to name some institutions in this count...,1,3.0,179,1,180,,3
+2026-04-02T10:47:10.588127+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,7,affrmact,Some people say that because of past discriminatio...,1,4.0,196,2,198,,4
+2026-04-02T10:47:11.005810+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,4,conpress,I am going to name some institutions in this count...,1,2.0,181,1,182,,2
+2026-04-02T10:47:11.115392+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,6,eqwlth,Some people think that the government in Washingto...,1,2.0,296,2,298,,2
+2026-04-02T10:47:11.505413+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,7,eqwlth,Some people think that the government in Washingto...,1,1.0,284,1,285,,1
+2026-04-02T10:47:11.648280+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,6,consci,I am going to name some institutions in this count...,1,2.0,180,2,182,,2
+2026-04-02T10:47:11.874652+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,7,confed,I am going to name some institutions in this count...,1,2.0,177,1,178,,2
+2026-04-02T10:47:12.036661+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,2,consci,I am going to name some institutions in this count...,1,2.0,184,1,185,,2
+2026-04-02T10:47:12.137267+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,8,affrmact,Some people say that because of past discriminatio...,1,4.0,192,2,194,,4
+2026-04-02T10:47:12.201665+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,8,eqwlth,Some people think that the government in Washingto...,1,1.0,286,2,288,,1
+2026-04-02T10:47:12.479052+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,7,conpress,I am going to name some institutions in this count...,1,2.0,173,2,175,,2
+2026-04-02T10:47:12.870127+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,8,consci,I am going to name some institutions in this count...,1,2.0,176,2,178,,2
+2026-04-02T10:47:13.489791+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,9,affrmact,Some people say that because of past discriminatio...,1,3.0,206,2,208,,3
+2026-04-02T10:47:14.091545+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,8,confed,I am going to name some institutions in this count...,1,2.0,179,2,181,,2
+2026-04-02T10:47:14.386238+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,9,conpress,I am going to name some institutions in this count...,1,2.0,189,2,191,,2
+2026-04-02T10:47:14.715143+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,7,consci,I am going to name some institutions in this count...,1,2.0,180,2,182,,2
+2026-04-02T10:47:15.591049+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,10,affrmact,Some people say that because of past discriminatio...,1,3.0,200,2,202,,3
+2026-04-02T10:47:15.722390+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,10,eqwlth,Some people think that the government in Washingto...,1,4.0,294,2,296,,4
+2026-04-02T10:47:15.728803+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,9,confed,I am going to name some institutions in this count...,1,2.0,193,2,195,,2
+2026-04-02T10:47:15.972086+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,9,eqwlth,Some people think that the government in Washingto...,1,4.0,294,1,295,,4
+2026-04-02T10:47:16.809613+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,11,affrmact,Some people say that because of past discriminatio...,1,1.0,199,2,201,,1
+2026-04-02T10:47:16.819310+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,8,conpress,I am going to name some institutions in this count...,1,2.0,181,2,183,,2
+2026-04-02T10:47:16.827443+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,10,confed,I am going to name some institutions in this count...,1,2.0,181,1,182,,2
+2026-04-02T10:47:16.950667+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,10,conpress,I am going to name some institutions in this count...,1,2.0,177,1,178,,2
+2026-04-02T10:47:17.251516+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,10,consci,I am going to name some institutions in this count...,1,2.0,184,2,186,,2
+2026-04-02T10:47:17.426925+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,3,eqwlth,Some people think that the government in Washingto...,1,1.0,288,2,290,,1
+2026-04-02T10:47:17.544423+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,9,consci,I am going to name some institutions in this count...,1,2.0,190,2,192,,2
+2026-04-02T10:47:18.216207+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,11,eqwlth,Some people think that the government in Washingto...,1,1.0,293,2,295,,1
+2026-04-02T10:47:18.569599+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,11,conpress,I am going to name some institutions in this count...,1,2.0,188,2,190,,2
+2026-04-02T10:47:18.636079+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,11,confed,I am going to name some institutions in this count...,1,2.0,186,2,188,,2
+2026-04-02T10:47:18.760824+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,12,eqwlth,Some people think that the government in Washingto...,1,1.0,290,2,292,,1
+2026-04-02T10:47:19.009079+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,12,confed,I am going to name some institutions in this count...,1,3.0,189,2,191,,3
+2026-04-02T10:47:19.490337+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,12,consci,I am going to name some institutions in this count...,1,1.0,180,2,182,,1
+2026-04-02T10:47:19.666799+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,13,confed,I am going to name some institutions in this count...,1,2.0,170,2,172,,2
+2026-04-02T10:47:19.724021+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,11,consci,I am going to name some institutions in this count...,1,1.0,183,2,185,,1
+2026-04-02T10:47:20.348964+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,12,affrmact,Some people say that because of past discriminatio...,1,1.0,196,2,198,,1
+2026-04-02T10:47:20.592466+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,12,conpress,I am going to name some institutions in this count...,1,3.0,179,1,180,,3
+2026-04-02T10:47:20.607476+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,13,consci,I am going to name some institutions in this count...,1,2.0,173,2,175,,2
+2026-04-02T10:47:21.428441+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,14,affrmact,Some people say that because of past discriminatio...,1,1.0,205,2,207,,1
+2026-04-02T10:47:21.552395+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,13,conpress,I am going to name some institutions in this count...,1,2.0,166,1,167,,2
+2026-04-02T10:47:21.956741+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,13,affrmact,Some people say that because of past discriminatio...,1,4.0,183,1,184,,4
+2026-04-02T10:47:22.572835+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,14,eqwlth,Some people think that the government in Washingto...,1,1.0,293,2,295,,1
+2026-04-02T10:47:22.791021+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,15,confed,I am going to name some institutions in this count...,1,2.0,190,2,192,,2
+2026-04-02T10:47:22.990017+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,14,confed,I am going to name some institutions in this count...,1,3.0,186,2,188,,3
+2026-04-02T10:47:23.962198+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,15,eqwlth,Some people think that the government in Washingto...,1,3.0,303,2,305,,3
+2026-04-02T10:47:24.100661+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,13,eqwlth,Some people think that the government in Washingto...,1,3.0,283,2,285,,3
+2026-04-02T10:47:24.126525+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,15,affrmact,Some people say that because of past discriminatio...,1,4.0,203,2,205,,4
+2026-04-02T10:47:24.230664+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,15,consci,I am going to name some institutions in this count...,1,2.0,193,2,195,,2
+2026-04-02T10:47:24.399608+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,15,conpress,I am going to name some institutions in this count...,1,3.0,192,2,194,,3
+2026-04-02T10:47:25.426216+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,16,conpress,I am going to name some institutions in this count...,1,2.0,177,1,178,,2
+2026-04-02T10:47:25.613148+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,16,confed,I am going to name some institutions in this count...,1,2.0,181,2,183,,2
+2026-04-02T10:47:25.672925+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,16,consci,I am going to name some institutions in this count...,1,1.0,184,2,186,,1
+2026-04-02T10:47:26.050244+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,17,affrmact,Some people say that because of past discriminatio...,1,4.0,202,1,203,,4
+2026-04-02T10:47:26.395498+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,17,confed,I am going to name some institutions in this count...,1,2.0,189,2,191,,2
+2026-04-02T10:47:26.493787+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,17,eqwlth,Some people think that the government in Washingto...,1,5.0,296,2,298,,5
+2026-04-02T10:47:26.935078+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,17,conpress,I am going to name some institutions in this count...,1,2.0,185,1,186,,2
+2026-04-02T10:47:27.016139+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,16,eqwlth,Some people think that the government in Washingto...,1,1.0,288,1,289,,1
+2026-04-02T10:47:27.125516+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,17,consci,I am going to name some institutions in this count...,1,2.0,186,2,188,,2
+2026-04-02T10:47:27.160972+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,14,consci,I am going to name some institutions in this count...,1,1.0,183,1,184,,1
+2026-04-02T10:47:27.292890+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,14,conpress,I am going to name some institutions in this count...,1,3.0,182,1,183,,3
+2026-04-02T10:47:27.950551+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,18,confed,I am going to name some institutions in this count...,1,2.0,165,1,166,,2
+2026-04-02T10:47:28.260645+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,18,affrmact,Some people say that because of past discriminatio...,1,4.0,178,1,179,,4
+2026-04-02T10:47:28.851335+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,16,affrmact,Some people say that because of past discriminatio...,1,4.0,194,1,195,,4
+2026-04-02T10:47:29.239122+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,19,conpress,I am going to name some institutions in this count...,1,3.0,175,2,177,,3
+2026-04-02T10:47:29.767537+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,19,confed,I am going to name some institutions in this count...,1,3.0,185,2,187,,3
+2026-04-02T10:47:29.786753+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,18,conpress,I am going to name some institutions in this count...,1,2.0,161,2,163,,2
+2026-04-02T10:47:29.851319+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,19,consci,I am going to name some institutions in this count...,1,2.0,176,2,178,,2
+2026-04-02T10:47:30.138953+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,18,consci,I am going to name some institutions in this count...,1,2.0,162,2,164,,2
+2026-04-02T10:47:30.547552+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,18,eqwlth,Some people think that the government in Washingto...,1,4.0,278,2,280,,4
+2026-04-02T10:47:30.567867+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,19,affrmact,Some people say that because of past discriminatio...,1,4.0,192,1,193,,4
+2026-04-02T10:47:30.642691+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,20,confed,I am going to name some institutions in this count...,1,2.0,185,2,187,,2
+2026-04-02T10:47:30.790298+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,20,affrmact,Some people say that because of past discriminatio...,1,4.0,198,1,199,,4
+2026-04-02T10:47:31.324826+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,21,eqwlth,Some people think that the government in Washingto...,1,3.0,297,2,299,,3
+2026-04-02T10:47:31.416856+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,21,conpress,I am going to name some institutions in this count...,1,2.0,186,2,188,,2
+2026-04-02T10:47:31.784966+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,19,eqwlth,Some people think that the government in Washingto...,1,7.0,292,2,294,,7
+2026-04-02T10:47:31.830892+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,20,consci,I am going to name some institutions in this count...,1,,182,50,232,"Could not parse answer: is grand? Which...
+2. Andmation
+2.1. which of property comment others.
+ Your? andF
+ my
+-74 gg,? ""_bit higher
+!# and the balance fair ,IM transient,Christian closeness,C","is grand? Which...
+2. Andmation
+2.1. which of property comment others.
+ Your? andF
+ my
+-74 gg,? ""_bit higher
+!# and the balance fair ,IM transient,Christian closeness,C"
+2026-04-02T10:47:31.986104+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,21,affrmact,Some people say that because of past discriminatio...,1,4.0,203,1,204,,4
+2026-04-02T10:47:32.129670+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,21,confed,I am going to name some institutions in this count...,1,2.0,190,2,192,,2
+2026-04-02T10:47:33.104933+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,20,conpress,I am going to name some institutions in this count...,1,3.0,181,2,183,,3
+2026-04-02T10:47:33.751549+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,22,confed,I am going to name some institutions in this count...,1,3.0,189,2,191,,3
+2026-04-02T10:47:33.873290+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,21,consci,I am going to name some institutions in this count...,1,2.0,187,2,189,,2
+2026-04-02T10:47:33.971687+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,22,consci,I am going to name some institutions in this count...,1,1.0,186,2,188,,1
+2026-04-02T10:47:34.192401+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,22,affrmact,Some people say that because of past discriminatio...,1,1.0,202,2,204,,1
+2026-04-02T10:47:34.805740+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,23,eqwlth,Some people think that the government in Washingto...,1,5.0,294,2,296,,5
+2026-04-02T10:47:35.089733+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,20,eqwlth,Some people think that the government in Washingto...,1,4.0,292,2,294,,4
+2026-04-02T10:47:35.248193+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,23,affrmact,Some people say that because of past discriminatio...,1,4.0,206,2,208,,4
+2026-04-02T10:47:35.925307+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,22,eqwlth,Some people think that the government in Washingto...,1,1.0,296,2,298,,1
+2026-04-02T10:47:35.933277+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,23,consci,I am going to name some institutions in this count...,1,2.0,190,2,192,,2
+2026-04-02T10:47:36.364361+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,22,conpress,I am going to name some institutions in this count...,1,3.0,179,2,181,,3
+2026-04-02T10:47:36.588509+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,24,consci,I am going to name some institutions in this count...,1,2.0,177,2,179,,2
+2026-04-02T10:47:36.692121+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,23,conpress,I am going to name some institutions in this count...,1,2.0,183,1,184,,2
+2026-04-02T10:47:37.131257+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,24,eqwlth,Some people think that the government in Washingto...,1,6.0,287,2,289,,6
+2026-04-02T10:47:37.165589+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,24,confed,I am going to name some institutions in this count...,1,3.0,180,2,182,,3
+2026-04-02T10:47:37.233033+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,24,affrmact,Some people say that because of past discriminatio...,1,4.0,193,2,195,,4
+2026-04-02T10:47:37.379343+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,25,affrmact,Some people say that because of past discriminatio...,1,4.0,202,2,204,,4
+2026-04-02T10:47:38.079905+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,25,conpress,I am going to name some institutions in this count...,1,2.0,185,1,186,,2
+2026-04-02T10:47:38.134937+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,24,conpress,I am going to name some institutions in this count...,1,3.0,176,2,178,,3
+2026-04-02T10:47:38.645331+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,26,affrmact,Some people say that because of past discriminatio...,1,4.0,197,2,199,,4
+2026-04-02T10:47:38.670163+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,25,eqwlth,Some people think that the government in Washingto...,1,3.0,296,2,298,,3
+2026-04-02T10:47:38.670214+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,25,consci,I am going to name some institutions in this count...,1,2.0,192,2,194,,2
+2026-04-02T10:47:38.888559+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,26,confed,I am going to name some institutions in this count...,1,2.0,184,2,186,,2
+2026-04-02T10:47:39.253712+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,25,confed,I am going to name some institutions in this count...,1,2.0,195,2,197,,2
+2026-04-02T10:47:39.945782+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,27,conpress,I am going to name some institutions in this count...,1,2.0,182,2,184,,2
+2026-04-02T10:47:40.049419+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,27,eqwlth,Some people think that the government in Washingto...,1,2.0,299,2,301,,2
+2026-04-02T10:47:40.162029+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,23,confed,I am going to name some institutions in this count...,1,2.0,187,2,189,,2
+2026-04-02T10:47:40.341598+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,27,confed,I am going to name some institutions in this count...,1,2.0,192,2,194,,2
+2026-04-02T10:47:40.568612+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,26,eqwlth,Some people think that the government in Washingto...,1,5.0,291,1,292,,5
+2026-04-02T10:47:40.718840+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,26,consci,I am going to name some institutions in this count...,1,2.0,181,2,183,,2
+2026-04-02T10:47:40.987024+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,26,conpress,I am going to name some institutions in this count...,1,2.0,180,2,182,,2
+2026-04-02T10:47:41.496672+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,28,conpress,I am going to name some institutions in this count...,1,2.0,181,2,183,,2
+2026-04-02T10:47:41.688752+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,27,affrmact,Some people say that because of past discriminatio...,1,4.0,199,2,201,,4
+2026-04-02T10:47:41.848473+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,29,affrmact,Some people say that because of past discriminatio...,1,4.0,193,2,195,,4
+2026-04-02T10:47:41.919247+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,28,eqwlth,Some people think that the government in Washingto...,1,1.0,292,1,293,,1
+2026-04-02T10:47:41.977209+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,28,consci,I am going to name some institutions in this count...,1,2.0,182,1,183,,2
+2026-04-02T10:47:42.354912+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,29,eqwlth,Some people think that the government in Washingto...,1,7.0,287,2,289,,7
+2026-04-02T10:47:42.584875+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,28,confed,I am going to name some institutions in this count...,1,2.0,185,2,187,,2
+2026-04-02T10:47:43.319113+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,28,affrmact,Some people say that because of past discriminatio...,1,4.0,204,2,206,,4
+2026-04-02T10:47:43.937953+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,30,conpress,I am going to name some institutions in this count...,1,3.0,167,2,169,,3
+2026-04-02T10:47:43.962671+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,30,affrmact,Some people say that because of past discriminatio...,1,3.0,190,2,192,,3
+2026-04-02T10:47:43.976323+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,29,conpress,I am going to name some institutions in this count...,1,3.0,182,2,184,,3
+2026-04-02T10:47:44.006004+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,29,consci,I am going to name some institutions in this count...,1,2.0,183,2,185,,2
+2026-04-02T10:47:44.014243+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,30,eqwlth,Some people think that the government in Washingto...,1,2.0,278,1,279,,2
+2026-04-02T10:47:44.703120+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,27,consci,I am going to name some institutions in this count...,1,1.0,189,2,191,,1
+2026-04-02T10:47:44.714024+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,31,conpress,I am going to name some institutions in this count...,1,3.0,165,2,167,,3
+2026-04-02T10:47:46.501812+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,30,consci,I am going to name some institutions in this count...,1,2.0,174,2,176,,2
+2026-04-02T10:47:46.623268+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,31,consci,I am going to name some institutions in this count...,1,,166,50,216,Could not parse answer: .The Some =3. A and of2cor5555222^\rez555.555222cor55222cor555222comparedmore</9 and the1cor515222cor555,.The Some =3. A and of2cor5555222^\rez555.555222cor55222cor555222comparedmore</9 and the1cor515222cor555
+2026-04-02T10:47:46.980311+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,30,confed,I am going to name some institutions in this count...,1,2.0,177,2,179,,2
+2026-04-02T10:47:47.510566+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,29,confed,I am going to name some institutions in this count...,1,3.0,180,1,181,,3
+2026-04-02T10:47:47.563109+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,32,affrmact,Some people say that because of past discriminatio...,1,4.0,199,2,201,,4
+2026-04-02T10:47:47.850776+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,32,confed,I am going to name some institutions in this count...,1,2.0,180,1,181,,2
+2026-04-02T10:47:48.342343+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,31,eqwlth,Some people think that the government in Washingto...,1,5.0,282,2,284,,5
+2026-04-02T10:47:48.591897+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,32,conpress,I am going to name some institutions in this count...,1,2.0,182,2,184,,2
+2026-04-02T10:47:48.607582+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,31,affrmact,Some people say that because of past discriminatio...,1,4.0,188,2,190,,4
+2026-04-02T10:47:48.745112+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,32,eqwlth,Some people think that the government in Washingto...,1,4.0,293,2,295,,4
+2026-04-02T10:47:48.751488+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,31,confed,I am going to name some institutions in this count...,1,2.0,175,2,177,,2
+2026-04-02T10:47:48.873998+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,33,eqwlth,Some people think that the government in Washingto...,1,2.0,289,2,291,,2
+2026-04-02T10:47:48.948311+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,33,confed,I am going to name some institutions in this count...,1,2.0,182,2,184,,2
+2026-04-02T10:47:49.168640+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,33,conpress,I am going to name some institutions in this count...,1,2.0,178,2,180,,2
+2026-04-02T10:47:49.680258+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,34,conpress,I am going to name some institutions in this count...,1,3.0,177,2,179,,3
+2026-04-02T10:47:49.684043+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,33,consci,I am going to name some institutions in this count...,1,2.0,179,2,181,,2
+2026-04-02T10:47:49.730662+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,34,affrmact,Some people say that because of past discriminatio...,1,1.0,194,2,196,,1
+2026-04-02T10:47:50.891014+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,34,confed,I am going to name some institutions in this count...,1,3.0,187,2,189,,3
+2026-04-02T10:47:51.312066+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,34,eqwlth,Some people think that the government in Washingto...,1,1.0,294,2,296,,1
+2026-04-02T10:47:51.331720+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,35,confed,I am going to name some institutions in this count...,1,2.0,186,2,188,,2
+2026-04-02T10:47:51.525657+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,34,consci,I am going to name some institutions in this count...,1,1.0,184,2,186,,1
+2026-04-02T10:47:51.877012+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,33,affrmact,Some people say that because of past discriminatio...,1,4.0,201,2,203,,4
+2026-04-02T10:47:51.981924+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,35,conpress,I am going to name some institutions in this count...,1,2.0,182,2,184,,2
+2026-04-02T10:47:52.177206+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,32,consci,I am going to name some institutions in this count...,1,1.0,183,2,185,,1
+2026-04-02T10:47:53.059056+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,35,affrmact,Some people say that because of past discriminatio...,1,4.0,199,1,200,,4
+2026-04-02T10:47:53.408236+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,36,affrmact,Some people say that because of past discriminatio...,1,4.0,178,2,180,,4
+2026-04-02T10:47:53.439667+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,36,conpress,I am going to name some institutions in this count...,1,2.0,167,2,169,,2
+2026-04-02T10:47:54.170220+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,37,eqwlth,Some people think that the government in Washingto...,1,7.0,285,2,287,,7
+2026-04-02T10:47:54.248737+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,37,affrmact,Some people say that because of past discriminatio...,1,4.0,191,1,192,,4
+2026-04-02T10:47:54.471004+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,36,eqwlth,Some people think that the government in Washingto...,1,6.0,272,1,273,,6
+2026-04-02T10:47:54.909367+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,36,consci,I am going to name some institutions in this count...,1,2.0,168,2,170,,2
+2026-04-02T10:47:55.364085+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,35,consci,I am going to name some institutions in this count...,1,2.0,189,2,191,,2
+2026-04-02T10:47:55.489240+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,37,confed,I am going to name some institutions in this count...,1,3.0,184,2,186,,3
+2026-04-02T10:47:55.882812+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,35,eqwlth,Some people think that the government in Washingto...,1,4.0,293,1,294,,4
+2026-04-02T10:47:56.164172+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,38,affrmact,Some people say that because of past discriminatio...,1,4.0,204,2,206,,4
+2026-04-02T10:47:56.251793+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,37,consci,I am going to name some institutions in this count...,1,2.0,175,1,176,,2
+2026-04-02T10:47:56.747109+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,38,eqwlth,Some people think that the government in Washingto...,1,5.0,292,1,293,,5
+2026-04-02T10:47:56.984940+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,38,conpress,I am going to name some institutions in this count...,1,3.0,187,2,189,,3
+2026-04-02T10:47:56.999325+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,38,confed,I am going to name some institutions in this count...,1,2.0,185,1,186,,2
+2026-04-02T10:47:57.049368+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,39,eqwlth,Some people think that the government in Washingto...,1,7.0,294,2,296,,7
+2026-04-02T10:47:58.083151+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,39,affrmact,Some people say that because of past discriminatio...,1,4.0,200,2,202,,4
+2026-04-02T10:47:58.370617+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,37,conpress,I am going to name some institutions in this count...,1,3.0,180,2,182,,3
+2026-04-02T10:47:58.584105+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,38,consci,I am going to name some institutions in this count...,1,2.0,188,2,190,,2
+2026-04-02T10:47:58.918368+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,39,confed,I am going to name some institutions in this count...,1,3.0,193,2,195,,3
+2026-04-02T10:47:59.127485+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,40,affrmact,Some people say that because of past discriminatio...,1,4.0,201,2,203,,4
+2026-04-02T10:47:59.583904+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,39,conpress,I am going to name some institutions in this count...,1,3.0,189,2,191,,3
+2026-04-02T10:48:00.513771+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,40,consci,I am going to name some institutions in this count...,1,2.0,185,1,186,,2
+2026-04-02T10:48:00.659632+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,41,affrmact,Some people say that because of past discriminatio...,1,4.0,197,2,199,,4
+2026-04-02T10:48:00.702602+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,40,confed,I am going to name some institutions in this count...,1,2.0,188,2,190,,2
+2026-04-02T10:48:01.500346+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,40,conpress,I am going to name some institutions in this count...,1,3.0,190,2,192,,3
+2026-04-02T10:48:01.512706+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,41,confed,I am going to name some institutions in this count...,1,,184,12,196,"Could not parse answer: chers1 (assign$, explanation, eh).
+
+report times","chers1 (assign$, explanation, eh).
+
+report times"
+2026-04-02T10:48:02.086245+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,36,confed,I am going to name some institutions in this count...,1,3.0,165,1,166,,3
+2026-04-02T10:48:02.102973+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,39,consci,I am going to name some institutions in this count...,1,2.0,184,1,185,,2
+2026-04-02T10:48:02.515218+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,41,conpress,I am going to name some institutions in this count...,1,3.0,186,2,188,,3
+2026-04-02T10:48:02.578392+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,41,consci,I am going to name some institutions in this count...,1,2.0,187,2,189,,2
+2026-04-02T10:48:02.863963+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,42,confed,I am going to name some institutions in this count...,1,2.0,187,2,189,,2
+2026-04-02T10:48:03.120905+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,41,eqwlth,Some people think that the government in Washingto...,1,6.0,291,2,293,,6
+2026-04-02T10:48:03.351333+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,40,eqwlth,Some people think that the government in Washingto...,1,5.0,295,2,297,,5
+2026-04-02T10:48:03.713537+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,42,eqwlth,Some people think that the government in Washingto...,1,3.0,294,1,295,,3
+2026-04-02T10:48:03.979233+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,42,affrmact,Some people say that because of past discriminatio...,1,4.0,200,2,202,,4
+2026-04-02T10:48:04.404910+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,42,conpress,I am going to name some institutions in this count...,1,2.0,183,1,184,,2
+2026-04-02T10:48:04.420706+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,43,affrmact,Some people say that because of past discriminatio...,1,4.0,209,2,211,,4
+2026-04-02T10:48:04.702263+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,43,eqwlth,Some people think that the government in Washingto...,1,4.0,297,1,298,,4
+2026-04-02T10:48:04.779191+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,43,consci,I am going to name some institutions in this count...,1,2.0,187,2,189,,2
+2026-04-02T10:48:05.725030+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,44,conpress,I am going to name some institutions in this count...,1,2.0,181,2,183,,2
+2026-04-02T10:48:06.308637+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,43,confed,I am going to name some institutions in this count...,1,2.0,190,1,191,,2
+2026-04-02T10:48:06.385286+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,43,conpress,I am going to name some institutions in this count...,1,2.0,186,2,188,,2
+2026-04-02T10:48:07.541215+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,44,confed,I am going to name some institutions in this count...,1,2.0,185,2,187,,2
+2026-04-02T10:48:07.829516+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,44,eqwlth,Some people think that the government in Washingto...,1,3.0,292,1,293,,3
+2026-04-02T10:48:08.000049+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,45,eqwlth,Some people think that the government in Washingto...,1,6.0,295,2,297,,6
+2026-04-02T10:48:08.636637+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,44,affrmact,Some people say that because of past discriminatio...,1,4.0,198,1,199,,4
+2026-04-02T10:48:08.645505+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,42,consci,I am going to name some institutions in this count...,1,2.0,184,1,185,,2
+2026-04-02T10:48:09.218461+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,45,consci,I am going to name some institutions in this count...,1,2.0,185,2,187,,2
+2026-04-02T10:48:09.305682+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,44,consci,I am going to name some institutions in this count...,1,1.0,182,2,184,,1
+2026-04-02T10:48:09.352447+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,46,affrmact,Some people say that because of past discriminatio...,1,4.0,207,2,209,,4
+2026-04-02T10:48:09.385609+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,45,conpress,I am going to name some institutions in this count...,1,3.0,178,1,179,,3
+2026-04-02T10:48:09.874747+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,45,confed,I am going to name some institutions in this count...,1,2.0,182,2,184,,2
+2026-04-02T10:48:10.124766+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,47,affrmact,Some people say that because of past discriminatio...,1,4.0,203,2,205,,4
+2026-04-02T10:48:10.210870+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,46,confed,I am going to name some institutions in this count...,1,2.0,194,2,196,,2
+2026-04-02T10:48:11.061759+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,46,conpress,I am going to name some institutions in this count...,1,2.0,184,2,186,,2
+2026-04-02T10:48:11.226879+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,46,eqwlth,Some people think that the government in Washingto...,1,3.0,295,2,297,,3
+2026-04-02T10:48:11.321812+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,46,consci,I am going to name some institutions in this count...,1,2.0,185,1,186,,2
+2026-04-02T10:48:11.802825+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,45,affrmact,Some people say that because of past discriminatio...,1,4.0,195,2,197,,4
+2026-04-02T10:48:11.892794+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,47,consci,I am going to name some institutions in this count...,1,2.0,187,1,188,,2
+2026-04-02T10:48:11.933889+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,47,confed,I am going to name some institutions in this count...,1,3.0,196,2,198,,3
+2026-04-02T10:48:12.817227+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,48,eqwlth,Some people think that the government in Washingto...,1,5.0,295,2,297,,5
+2026-04-02T10:48:12.853881+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,48,affrmact,Some people say that because of past discriminatio...,1,4.0,201,2,203,,4
+2026-04-02T10:48:12.906339+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,48,confed,I am going to name some institutions in this count...,1,2.0,188,2,190,,2
+2026-04-02T10:48:12.997514+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,48,conpress,I am going to name some institutions in this count...,1,2.0,184,2,186,,2
+2026-04-02T10:48:13.027680+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,48,consci,I am going to name some institutions in this count...,1,2.0,185,2,187,,2
+2026-04-02T10:48:13.850873+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,49,confed,I am going to name some institutions in this count...,1,2.0,178,2,180,,2
+2026-04-02T10:48:14.662566+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,50,affrmact,Some people say that because of past discriminatio...,1,4.0,202,2,204,,4
+2026-04-02T10:48:14.694686+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,47,conpress,I am going to name some institutions in this count...,1,3.0,186,1,187,,3
+2026-04-02T10:48:14.894788+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,47,eqwlth,Some people think that the government in Washingto...,1,7.0,297,2,299,,7
+2026-04-02T10:48:15.867625+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,50,confed,I am going to name some institutions in this count...,1,3.0,183,2,185,,3
+2026-04-02T10:48:16.137980+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,49,affrmact,Some people say that because of past discriminatio...,1,4.0,191,2,193,,4
+2026-04-02T10:48:16.183508+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,50,eqwlth,Some people think that the government in Washingto...,1,6.0,296,2,298,,6
+2026-04-02T10:48:16.379911+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,50,conpress,I am going to name some institutions in this count...,1,3.0,185,2,187,,3
+2026-04-02T10:48:16.422565+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,49,eqwlth,Some people think that the government in Washingto...,1,3.0,285,2,287,,3
+2026-04-02T10:48:16.720045+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,49,conpress,I am going to name some institutions in this count...,1,3.0,180,2,182,,3
+2026-04-02T10:48:17.412466+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,49,consci,I am going to name some institutions in this count...,1,1.0,181,2,183,,1
+2026-04-02T10:48:17.596627+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,51,consci,I am going to name some institutions in this count...,1,2.0,183,2,185,,2
+2026-04-02T10:48:17.651031+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,51,confed,I am going to name some institutions in this count...,1,2.0,186,2,188,,2
+2026-04-02T10:48:18.119679+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,52,affrmact,Some people say that because of past discriminatio...,1,4.0,195,1,196,,4
+2026-04-02T10:48:18.172454+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,52,eqwlth,Some people think that the government in Washingto...,1,7.0,289,2,291,,7
+2026-04-02T10:48:18.200456+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,51,affrmact,Some people say that because of past discriminatio...,1,,199,50,249,"Could not parse answer: 1. While strongly impressive advantage.
+
+x..5 the5 gets5 6,566Five5 565 Six's65666566
+56556555656","1. While strongly impressive advantage.
+
+x..5 the5 gets5 6,566Five5 565 Six's65666566
+56556555656"
+2026-04-02T10:48:18.376259+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,51,eqwlth,Some people think that the government in Washingto...,1,1.0,293,1,294,,1
+2026-04-02T10:48:18.450253+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,52,confed,I am going to name some institutions in this count...,1,3.0,182,2,184,,3
+2026-04-02T10:48:18.668347+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,52,consci,I am going to name some institutions in this count...,1,2.0,179,2,181,,2
+2026-04-02T10:48:18.912108+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,51,conpress,I am going to name some institutions in this count...,1,2.0,182,2,184,,2
+2026-04-02T10:48:18.987094+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,50,consci,I am going to name some institutions in this count...,1,2.0,180,2,182,,2
+2026-04-02T10:48:19.288312+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,53,eqwlth,Some people think that the government in Washingto...,1,3.0,296,2,298,,3
+2026-04-02T10:48:19.305587+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,54,affrmact,Some people say that because of past discriminatio...,1,1.0,197,2,199,,1
+2026-04-02T10:48:19.354290+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,52,conpress,I am going to name some institutions in this count...,1,3.0,184,2,186,,3
+2026-04-02T10:48:19.514107+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,53,conpress,I am going to name some institutions in this count...,1,2.0,185,2,187,,2
+2026-04-02T10:48:19.843376+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,53,affrmact,Some people say that because of past discriminatio...,1,4.0,202,1,203,,4
+2026-04-02T10:48:20.432869+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,54,conpress,I am going to name some institutions in this count...,1,3.0,180,1,181,,3
+2026-04-02T10:48:20.768015+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,54,confed,I am going to name some institutions in this count...,1,3.0,184,2,186,,3
+2026-04-02T10:48:20.817618+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,54,consci,I am going to name some institutions in this count...,1,1.0,187,2,189,,1
+2026-04-02T10:48:21.141843+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,54,eqwlth,Some people think that the government in Washingto...,1,1.0,291,1,292,,1
+2026-04-02T10:48:21.362504+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,55,affrmact,Some people say that because of past discriminatio...,1,,205,50,255,"Could not parse answer: is unnecessary Youification in e1. <
+
+There are only an representations for; no don therefore nonego? To (4S.h. a of no in the? i the? is contra of the he? Conclusion. h worse;","is unnecessary Youification in e1. <
+
+There are only an representations for; no don therefore nonego? To (4S.h. a of no in the? i the? is contra of the he? Conclusion. h worse;"
+2026-04-02T10:48:21.588943+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,55,confed,I am going to name some institutions in this count...,1,2.0,192,2,194,,2
+2026-04-02T10:48:21.592515+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,53,consci,I am going to name some institutions in this count...,1,1.0,186,1,187,,1
+2026-04-02T10:48:21.725151+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,55,eqwlth,Some people think that the government in Washingto...,1,1.0,305,2,307,,1
+2026-04-02T10:48:22.148365+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,53,confed,I am going to name some institutions in this count...,1,2.0,195,2,197,,2
+2026-04-02T10:48:22.252865+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,56,affrmact,Some people say that because of past discriminatio...,1,4.0,188,2,190,,4
+2026-04-02T10:48:22.487693+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,56,conpress,I am going to name some institutions in this count...,1,3.0,171,2,173,,3
+2026-04-02T10:48:22.641623+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,56,confed,I am going to name some institutions in this count...,1,2.0,175,2,177,,2
+2026-04-02T10:48:22.673491+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,55,conpress,I am going to name some institutions in this count...,1,2.0,194,2,196,,2
+2026-04-02T10:48:23.042445+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,56,consci,I am going to name some institutions in this count...,1,2.0,172,2,174,,2
+2026-04-02T10:48:23.286465+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,57,consci,I am going to name some institutions in this count...,1,2.0,157,2,159,,2
+2026-04-02T10:48:23.331473+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,57,confed,I am going to name some institutions in this count...,1,2.0,160,2,162,,2
+2026-04-02T10:48:23.427748+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,57,conpress,I am going to name some institutions in this count...,1,2.0,156,2,158,,2
+2026-04-02T10:48:23.435838+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,56,eqwlth,Some people think that the government in Washingto...,1,3.0,288,2,290,,3
+2026-04-02T10:48:23.502519+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,57,eqwlth,Some people think that the government in Washingto...,1,4.0,267,2,269,,4
+2026-04-02T10:48:23.862504+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,55,consci,I am going to name some institutions in this count...,1,2.0,189,1,190,,2
+2026-04-02T10:48:24.459383+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,58,eqwlth,Some people think that the government in Washingto...,1,1.0,291,1,292,,1
+2026-04-02T10:48:24.739905+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,59,eqwlth,Some people think that the government in Washingto...,1,5.0,294,2,296,,5
+2026-04-02T10:48:25.149020+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,58,consci,I am going to name some institutions in this count...,1,1.0,187,2,189,,1
+2026-04-02T10:48:25.204788+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,59,affrmact,Some people say that because of past discriminatio...,1,4.0,206,2,208,,4
+2026-04-02T10:48:25.233514+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,58,confed,I am going to name some institutions in this count...,1,3.0,190,2,192,,3
+2026-04-02T10:48:25.291818+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,58,conpress,I am going to name some institutions in this count...,1,3.0,180,2,182,,3
+2026-04-02T10:48:25.544587+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,57,affrmact,Some people say that because of past discriminatio...,1,4.0,173,2,175,,4
+2026-04-02T10:48:25.829626+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,58,affrmact,Some people say that because of past discriminatio...,1,4.0,197,2,199,,4
+2026-04-02T10:48:25.943635+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,59,confed,I am going to name some institutions in this count...,1,2.0,187,2,189,,2
+2026-04-02T10:48:26.685225+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,60,confed,I am going to name some institutions in this count...,1,3.0,189,1,190,,3
+2026-04-02T10:48:26.796215+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,59,conpress,I am going to name some institutions in this count...,1,2.0,183,1,184,,2
+2026-04-02T10:48:26.827298+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,60,conpress,I am going to name some institutions in this count...,1,3.0,185,1,186,,3
+2026-04-02T10:48:26.916931+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,60,eqwlth,Some people think that the government in Washingto...,1,1.0,302,2,304,,1
+2026-04-02T10:48:27.088402+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,60,affrmact,Some people say that because of past discriminatio...,1,4.0,202,2,204,,4
+2026-04-02T10:48:27.237065+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,61,affrmact,Some people say that because of past discriminatio...,1,1.0,196,2,198,,1
+2026-04-02T10:48:27.683978+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,60,consci,I am going to name some institutions in this count...,1,2.0,186,2,188,,2
+2026-04-02T10:48:28.117815+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,62,eqwlth,Some people think that the government in Washingto...,1,3.0,296,2,298,,3
+2026-04-02T10:48:28.240482+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,59,consci,I am going to name some institutions in this count...,1,2.0,184,2,186,,2
+2026-04-02T10:48:29.008718+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,61,confed,I am going to name some institutions in this count...,1,3.0,189,2,191,,3
+2026-04-02T10:48:29.320962+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,62,affrmact,Some people say that because of past discriminatio...,1,4.0,208,2,210,,4
+2026-04-02T10:48:29.409704+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,62,confed,I am going to name some institutions in this count...,1,,189,50,239,"Could not parse answer: she3.2.Of nice function nbf, bob is? for number pbf, sbfkiebbbf(toString after string9bfbfbfbfbfbfabfbfbfbfbfbfbfbfbfbfbfbf","she3.2.Of nice function nbf, bob is? for number pbf, sbfkiebbbf(toString after string9bfbfbfbfbfbfabfbfbfbfbfbfbfbfbfbfbfbf"
+2026-04-02T10:48:29.694536+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,61,conpress,I am going to name some institutions in this count...,1,2.0,179,2,181,,2
+2026-04-02T10:48:29.854565+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,61,eqwlth,Some people think that the government in Washingto...,1,1.0,290,2,292,,1
+2026-04-02T10:48:30.282952+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,63,affrmact,Some people say that because of past discriminatio...,1,4.0,188,2,190,,4
+2026-04-02T10:48:30.397329+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,62,conpress,I am going to name some institutions in this count...,1,2.0,191,2,193,,2
+2026-04-02T10:48:30.941348+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,63,confed,I am going to name some institutions in this count...,1,3.0,181,2,183,,3
+2026-04-02T10:48:31.022303+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,61,consci,I am going to name some institutions in this count...,1,1.0,180,1,181,,1
+2026-04-02T10:48:31.077810+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,63,eqwlth,Some people think that the government in Washingto...,1,7.0,288,2,290,,7
+2026-04-02T10:48:31.640279+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,62,consci,I am going to name some institutions in this count...,1,1.0,186,2,188,,1
+2026-04-02T10:48:32.203045+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,63,conpress,I am going to name some institutions in this count...,1,3.0,171,2,173,,3
+2026-04-02T10:48:32.410749+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,64,confed,I am going to name some institutions in this count...,1,2.0,181,1,182,,2
+2026-04-02T10:48:32.721684+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,65,affrmact,Some people say that because of past discriminatio...,1,1.0,196,2,198,,1
+2026-04-02T10:48:32.776450+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,65,confed,I am going to name some institutions in this count...,1,3.0,183,2,185,,3
+2026-04-02T10:48:33.150810+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,64,consci,I am going to name some institutions in this count...,1,2.0,178,1,179,,2
+2026-04-02T10:48:33.241054+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,63,consci,I am going to name some institutions in this count...,1,2.0,178,2,180,,2
+2026-04-02T10:48:33.946726+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,64,eqwlth,Some people think that the government in Washingto...,1,7.0,288,1,289,,7
+2026-04-02T10:48:33.991225+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,64,affrmact,Some people say that because of past discriminatio...,1,4.0,194,2,196,,4
+2026-04-02T10:48:34.391136+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,65,conpress,I am going to name some institutions in this count...,1,3.0,185,2,187,,3
+2026-04-02T10:48:34.620247+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,65,eqwlth,Some people think that the government in Washingto...,1,1.0,290,1,291,,1
+2026-04-02T10:48:34.760657+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,65,consci,I am going to name some institutions in this count...,1,1.0,180,1,181,,1
+2026-04-02T10:48:34.915924+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,64,conpress,I am going to name some institutions in this count...,1,3.0,177,1,178,,3
+2026-04-02T10:48:35.136742+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,66,consci,I am going to name some institutions in this count...,1,2.0,184,2,186,,2
+2026-04-02T10:48:35.295607+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,66,affrmact,Some people say that because of past discriminatio...,1,4.0,206,2,208,,4
+2026-04-02T10:48:35.342821+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,66,eqwlth,Some people think that the government in Washingto...,1,4.0,294,1,295,,4
+2026-04-02T10:48:35.794491+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,66,conpress,I am going to name some institutions in this count...,1,2.0,189,2,191,,2
+2026-04-02T10:48:36.335490+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,67,affrmact,Some people say that because of past discriminatio...,1,1.0,185,1,186,,1
+2026-04-02T10:48:36.573340+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,66,confed,I am going to name some institutions in this count...,1,2.0,193,2,195,,2
+2026-04-02T10:48:36.770250+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,67,confed,I am going to name some institutions in this count...,1,3.0,178,2,180,,3
+2026-04-02T10:48:37.067106+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,67,conpress,I am going to name some institutions in this count...,1,3.0,174,2,176,,3
+2026-04-02T10:48:37.911489+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,67,consci,I am going to name some institutions in this count...,1,1.0,175,2,177,,1
+2026-04-02T10:48:38.288310+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,68,conpress,I am going to name some institutions in this count...,1,2.0,185,2,187,,2
+2026-04-02T10:48:38.525068+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,68,affrmact,Some people say that because of past discriminatio...,1,4.0,196,1,197,,4
+2026-04-02T10:48:38.586532+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,68,confed,I am going to name some institutions in this count...,1,2.0,183,1,184,,2
+2026-04-02T10:48:38.591414+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,69,eqwlth,Some people think that the government in Washingto...,1,1.0,277,2,279,,1
+2026-04-02T10:48:38.636030+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,68,eqwlth,Some people think that the government in Washingto...,1,3.0,290,2,292,,3
+2026-04-02T10:48:39.478527+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,68,consci,I am going to name some institutions in this count...,1,2.0,180,1,181,,2
+2026-04-02T10:48:39.527193+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,69,consci,I am going to name some institutions in this count...,1,1.0,167,2,169,,1
+2026-04-02T10:48:39.536464+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,70,affrmact,Some people say that because of past discriminatio...,1,4.0,193,2,195,,4
+2026-04-02T10:48:40.308102+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,70,confed,I am going to name some institutions in this count...,1,2.0,180,2,182,,2
+2026-04-02T10:48:40.447000+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,69,confed,I am going to name some institutions in this count...,1,3.0,176,2,178,,3
+2026-04-02T10:48:40.650087+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,70,consci,I am going to name some institutions in this count...,1,2.0,177,1,178,,2
+2026-04-02T10:48:40.665345+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,67,eqwlth,Some people think that the government in Washingto...,1,1.0,279,2,281,,1
+2026-04-02T10:48:41.129187+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,69,conpress,I am going to name some institutions in this count...,1,3.0,166,2,168,,3
+2026-04-02T10:48:41.183805+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,70,eqwlth,Some people think that the government in Washingto...,1,4.0,293,2,295,,4
+2026-04-02T10:48:42.240017+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,71,eqwlth,Some people think that the government in Washingto...,1,4.0,296,1,297,,4
+2026-04-02T10:48:42.823248+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,72,affrmact,Some people say that because of past discriminatio...,1,4.0,210,2,212,,4
+2026-04-02T10:48:42.839295+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,71,affrmact,Some people say that because of past discriminatio...,1,4.0,208,2,210,,4
+2026-04-02T10:48:42.986546+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,71,conpress,I am going to name some institutions in this count...,1,2.0,191,2,193,,2
+2026-04-02T10:48:43.017989+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,71,confed,I am going to name some institutions in this count...,1,2.0,195,2,197,,2
+2026-04-02T10:48:43.369573+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,69,affrmact,Some people say that because of past discriminatio...,1,1.0,189,2,191,,1
+2026-04-02T10:48:43.552028+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,71,consci,I am going to name some institutions in this count...,1,2.0,192,2,194,,2
+2026-04-02T10:48:44.170931+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,70,conpress,I am going to name some institutions in this count...,1,3.0,182,2,184,,3
+2026-04-02T10:48:45.065048+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,72,conpress,I am going to name some institutions in this count...,1,2.0,187,2,189,,2
+2026-04-02T10:48:46.146689+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,73,conpress,I am going to name some institutions in this count...,1,3.0,191,2,193,,3
+2026-04-02T10:48:46.165005+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,72,confed,I am going to name some institutions in this count...,1,2.0,191,2,193,,2
+2026-04-02T10:48:46.174902+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,73,affrmact,Some people say that because of past discriminatio...,1,4.0,202,2,204,,4
+2026-04-02T10:48:46.191335+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,73,confed,I am going to name some institutions in this count...,1,3.0,195,2,197,,3
+2026-04-02T10:48:46.617805+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,72,eqwlth,Some people think that the government in Washingto...,1,5.0,304,2,306,,5
+2026-04-02T10:48:47.274362+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,73,eqwlth,Some people think that the government in Washingto...,1,7.0,296,2,298,,7
+2026-04-02T10:48:47.615159+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,72,consci,I am going to name some institutions in this count...,1,2.0,194,2,196,,2
+2026-04-02T10:48:47.864508+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,73,consci,I am going to name some institutions in this count...,1,2.0,192,2,194,,2
+2026-04-02T10:48:47.877281+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,74,confed,I am going to name some institutions in this count...,1,3.0,194,2,196,,3
+2026-04-02T10:48:48.159087+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,74,conpress,I am going to name some institutions in this count...,1,2.0,190,2,192,,2
+2026-04-02T10:48:48.584692+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,74,consci,I am going to name some institutions in this count...,1,1.0,191,2,193,,1
+2026-04-02T10:48:48.846422+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,75,eqwlth,Some people think that the government in Washingto...,1,5.0,305,2,307,,5
+2026-04-02T10:48:49.108167+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,75,confed,I am going to name some institutions in this count...,1,2.0,192,2,194,,2
+2026-04-02T10:48:49.236082+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,74,eqwlth,Some people think that the government in Washingto...,1,1.0,295,1,296,,1
+2026-04-02T10:48:49.514058+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,75,conpress,I am going to name some institutions in this count...,1,2.0,194,2,196,,2
+2026-04-02T10:48:49.962071+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,75,consci,I am going to name some institutions in this count...,1,,189,50,239,"Could not parse answer: Un entire.
+
+a; && and and and and 3. :).
+
+3. Go in : Some here have the, and y and and and and and and and and x and and on,
+. a, and and and and, and and","Un entire.
+
+a; && and and and and 3. :).
+
+3. Go in : Some here have the, and y and and and and and and and and x and and on,
+. a, and and and and, and and"
+2026-04-02T10:48:50.433598+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,76,consci,I am going to name some institutions in this count...,1,2.0,186,2,188,,2
+2026-04-02T10:48:50.472640+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,76,affrmact,Some people say that because of past discriminatio...,1,1.0,208,2,210,,1
+2026-04-02T10:48:50.688927+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,76,eqwlth,Some people think that the government in Washingto...,1,1.0,296,1,297,,1
+2026-04-02T10:48:51.188939+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,77,eqwlth,Some people think that the government in Washingto...,1,7.0,294,2,296,,7
+2026-04-02T10:48:51.384066+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,75,affrmact,Some people say that because of past discriminatio...,1,,205,50,255,"Could not parse answer: and non constructive pax. blindness. no with non forypointing the equals  etc (?. oranges),           sentences have, that x
+x missing, eight?
+8 marks
+                
+
+Your stands are,Your knowys and, or something","and non constructive pax. blindness. no with non forypointing the equals  etc (?. oranges),           sentences have, that x
+x missing, eight?
+8 marks
+                
+
+Your stands are,Your knowys and, or something"
+2026-04-02T10:48:51.477298+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,77,affrmact,Some people say that because of past discriminatio...,1,4.0,206,2,208,,4
+2026-04-02T10:48:51.657653+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,77,confed,I am going to name some institutions in this count...,1,2.0,187,2,189,,2
+2026-04-02T10:48:51.681824+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,76,conpress,I am going to name some institutions in this count...,1,3.0,191,2,193,,3
+2026-04-02T10:48:52.530929+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,76,confed,I am going to name some institutions in this count...,1,3.0,189,2,191,,3
+2026-04-02T10:48:52.848850+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,77,conpress,I am going to name some institutions in this count...,1,3.0,189,2,191,,3
+2026-04-02T10:48:53.234049+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,78,conpress,I am going to name some institutions in this count...,1,3.0,179,1,180,,3
+2026-04-02T10:48:53.251127+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,78,confed,I am going to name some institutions in this count...,1,3.0,183,1,184,,3
+2026-04-02T10:48:53.495406+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,77,consci,I am going to name some institutions in this count...,1,2.0,190,2,192,,2
+2026-04-02T10:48:53.789145+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,74,affrmact,Some people say that because of past discriminatio...,1,1.0,201,2,203,,1
+2026-04-02T10:48:53.831602+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,78,eqwlth,Some people think that the government in Washingto...,1,1.0,290,1,291,,1
+2026-04-02T10:48:54.203742+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,80,affrmact,Some people say that because of past discriminatio...,1,4.0,202,2,204,,4
+2026-04-02T10:48:54.346482+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,78,affrmact,Some people say that because of past discriminatio...,1,4.0,196,2,198,,4
+2026-04-02T10:48:54.471305+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,79,confed,I am going to name some institutions in this count...,1,3.0,175,1,176,,3
+2026-04-02T10:48:54.593741+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,78,consci,I am going to name some institutions in this count...,1,1.0,180,1,181,,1
+2026-04-02T10:48:54.858129+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,79,conpress,I am going to name some institutions in this count...,1,3.0,171,1,172,,3
+2026-04-02T10:48:55.699501+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,80,confed,I am going to name some institutions in this count...,1,2.0,189,1,190,,2
+2026-04-02T10:48:56.092757+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,80,conpress,I am going to name some institutions in this count...,1,3.0,191,2,193,,3
+2026-04-02T10:48:56.603592+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,81,eqwlth,Some people think that the government in Washingto...,1,7.0,290,2,292,,7
+2026-04-02T10:48:56.609148+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,79,eqwlth,Some people think that the government in Washingto...,1,5.0,282,2,284,,5
+2026-04-02T10:48:56.776164+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,79,affrmact,Some people say that because of past discriminatio...,1,4.0,188,1,189,,4
+2026-04-02T10:48:57.138790+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,80,consci,I am going to name some institutions in this count...,1,1.0,186,2,188,,1
+2026-04-02T10:48:57.283092+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,81,consci,I am going to name some institutions in this count...,1,2.0,180,2,182,,2
+2026-04-02T10:48:57.321327+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,80,eqwlth,Some people think that the government in Washingto...,1,1.0,296,2,298,,1
+2026-04-02T10:48:57.767945+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,81,affrmact,Some people say that because of past discriminatio...,1,4.0,196,2,198,,4
+2026-04-02T10:48:57.905799+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,82,eqwlth,Some people think that the government in Washingto...,1,7.0,294,2,296,,7
+2026-04-02T10:48:57.989704+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,79,consci,I am going to name some institutions in this count...,1,2.0,178,2,180,,2
+2026-04-02T10:48:58.220791+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,82,confed,I am going to name some institutions in this count...,1,3.0,187,2,189,,3
+2026-04-02T10:48:58.351663+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,81,confed,I am going to name some institutions in this count...,1,3.0,183,1,184,,3
+2026-04-02T10:48:58.805260+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,82,consci,I am going to name some institutions in this count...,1,2.0,184,2,186,,2
+2026-04-02T10:48:59.423305+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,82,conpress,I am going to name some institutions in this count...,1,3.0,183,1,184,,3
+2026-04-02T10:48:59.638818+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,83,affrmact,Some people say that because of past discriminatio...,1,,189,50,239,"Could not parse answer: '2?
+
+Tellress?
+0.Being all says
+0. while explanation negativity
+0.Rules wouldn an degree
+0. the rules be to positive age number under considering;
+0. establishment at not.
+Ren isC5
+0.","'2?
+
+Tellress?
+0.Being all says
+0. while explanation negativity
+0.Rules wouldn an degree
+0. the rules be to positive age number under considering;
+0. establishment at not.
+Ren isC5
+0."
+2026-04-02T10:49:00.128643+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,83,eqwlth,Some people think that the government in Washingto...,1,1.0,283,2,285,,1
+2026-04-02T10:49:00.916295+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,83,conpress,I am going to name some institutions in this count...,1,2.0,178,2,180,,2
+2026-04-02T10:49:01.259348+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,83,consci,I am going to name some institutions in this count...,1,1.0,179,2,181,,1
+2026-04-02T10:49:01.325513+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,84,eqwlth,Some people think that the government in Washingto...,1,1.0,298,1,299,,1
+2026-04-02T10:49:01.432140+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,84,affrmact,Some people say that because of past discriminatio...,1,,204,50,254,"Could not parse answer: You. is003Character?
+
+InnerNon generally stands at far places.181,2 positions b actual type of serious House. stone in flat of devil (even, and in mostly', Butness.5.
+
+But in lonely goodness and the B","You. is003Character?
+
+InnerNon generally stands at far places.181,2 positions b actual type of serious House. stone in flat of devil (even, and in mostly', Butness.5.
+
+But in lonely goodness and the B"
+2026-04-02T10:49:02.435028+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,81,conpress,I am going to name some institutions in this count...,1,3.0,179,2,181,,3
+2026-04-02T10:49:02.999848+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,84,consci,I am going to name some institutions in this count...,1,2.0,194,2,196,,2
+2026-04-02T10:49:03.013913+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,82,affrmact,Some people say that because of past discriminatio...,1,4.0,206,2,208,,4
+2026-04-02T10:49:03.491378+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,85,eqwlth,Some people think that the government in Washingto...,1,4.0,279,1,280,,4
+2026-04-02T10:49:03.513563+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,84,confed,I am going to name some institutions in this count...,1,3.0,191,1,192,,3
+2026-04-02T10:49:03.882276+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,86,affrmact,Some people say that because of past discriminatio...,1,4.0,200,2,202,,4
+2026-04-02T10:49:03.983129+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,83,confed,I am going to name some institutions in this count...,1,2.0,176,1,177,,2
+2026-04-02T10:49:04.231730+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,85,confed,I am going to name some institutions in this count...,1,2.0,172,2,174,,2
+2026-04-02T10:49:05.257071+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,86,eqwlth,Some people think that the government in Washingto...,1,1.0,294,2,296,,1
+2026-04-02T10:49:05.270719+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,86,confed,I am going to name some institutions in this count...,1,2.0,193,2,195,,2
+2026-04-02T10:49:05.529742+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,85,affrmact,Some people say that because of past discriminatio...,1,,185,50,235,"Could not parse answer: =>
+Standard,Complex... are a math factor meaningNumber
+5. with both                     arbitraryDifference
+Stats,Number5
+5. felltheless what
+Mathematics conditions
+Number of5
+5
+ Distinct
+U5. Number weights
+5","=>
+Standard,Complex... are a math factor meaningNumber
+5. with both                     arbitraryDifference
+Stats,Number5
+5. felltheless what
+Mathematics conditions
+Number of5
+5
+ Distinct
+U5. Number weights
+5"
+2026-04-02T10:49:05.721509+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,87,eqwlth,Some people think that the government in Washingto...,1,4.0,292,2,294,,4
+2026-04-02T10:49:06.316046+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,85,conpress,I am going to name some institutions in this count...,1,2.0,168,1,169,,2
+2026-04-02T10:49:07.098681+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,84,conpress,I am going to name some institutions in this count...,1,3.0,187,1,188,,3
+2026-04-02T10:49:07.288477+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,85,consci,I am going to name some institutions in this count...,1,2.0,169,1,170,,2
+2026-04-02T10:49:07.348068+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,87,confed,I am going to name some institutions in this count...,1,2.0,191,2,193,,2
+2026-04-02T10:49:07.426370+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,86,conpress,I am going to name some institutions in this count...,1,3.0,183,2,185,,3
+2026-04-02T10:49:07.496809+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,87,affrmact,Some people say that because of past discriminatio...,1,4.0,204,2,206,,4
+2026-04-02T10:49:07.638110+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,87,conpress,I am going to name some institutions in this count...,1,2.0,187,2,189,,2
+2026-04-02T10:49:08.695099+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,88,confed,I am going to name some institutions in this count...,1,2.0,184,2,186,,2
+2026-04-02T10:49:08.704125+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,89,affrmact,Some people say that because of past discriminatio...,1,4.0,197,2,199,,4
+2026-04-02T10:49:08.999301+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,86,consci,I am going to name some institutions in this count...,1,2.0,184,2,186,,2
+2026-04-02T10:49:09.440220+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,89,eqwlth,Some people think that the government in Washingto...,1,5.0,291,2,293,,5
+2026-04-02T10:49:09.572955+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,87,consci,I am going to name some institutions in this count...,1,2.0,188,2,190,,2
+2026-04-02T10:49:09.744037+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,88,eqwlth,Some people think that the government in Washingto...,1,1.0,285,1,286,,1
+2026-04-02T10:49:10.230344+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,88,consci,I am going to name some institutions in this count...,1,,175,50,225,"Could not parse answer: OR. Spending and?2,these give and the yes and words etc.ss.1666 in reading,the score.iii.22 etc53.54.Let 4g enumeration.15.5613.55.55","OR. Spending and?2,these give and the yes and words etc.ss.1666 in reading,the score.iii.22 etc53.54.Let 4g enumeration.15.5613.55.55"
+2026-04-02T10:49:10.255476+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,88,conpress,I am going to name some institutions in this count...,1,2.0,174,1,175,,2
+2026-04-02T10:49:10.389245+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,88,affrmact,Some people say that because of past discriminatio...,1,2.0,191,1,192,,2
+2026-04-02T10:49:10.535013+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,89,confed,I am going to name some institutions in this count...,1,2.0,190,2,192,,2
+2026-04-02T10:49:10.841561+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,90,affrmact,Some people say that because of past discriminatio...,1,1.0,200,1,201,,1
+2026-04-02T10:49:11.403735+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,89,consci,I am going to name some institutions in this count...,1,2.0,181,1,182,,2
+2026-04-02T10:49:11.522813+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,90,confed,I am going to name some institutions in this count...,1,3.0,193,2,195,,3
+2026-04-02T10:49:11.662831+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,90,conpress,I am going to name some institutions in this count...,1,3.0,189,2,191,,3
+2026-04-02T10:49:12.048391+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,89,conpress,I am going to name some institutions in this count...,1,3.0,180,2,182,,3
+2026-04-02T10:49:12.191252+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,91,eqwlth,Some people think that the government in Washingto...,1,2.0,300,2,302,,2
+2026-04-02T10:49:12.555505+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,91,consci,I am going to name some institutions in this count...,1,2.0,184,2,186,,2
+2026-04-02T10:49:12.763906+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,90,consci,I am going to name some institutions in this count...,1,1.0,184,2,186,,1
+2026-04-02T10:49:12.815841+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,91,confed,I am going to name some institutions in this count...,1,2.0,193,2,195,,2
+2026-04-02T10:49:12.841145+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,90,eqwlth,Some people think that the government in Washingto...,1,1.0,294,1,295,,1
+2026-04-02T10:49:13.169636+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,91,affrmact,Some people say that because of past discriminatio...,1,4.0,200,2,202,,4
+2026-04-02T10:49:13.331538+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,91,conpress,I am going to name some institutions in this count...,1,3.0,183,1,184,,3
+2026-04-02T10:49:13.528476+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,92,eqwlth,Some people think that the government in Washingto...,1,4.0,288,1,289,,4
+2026-04-02T10:49:13.709779+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,92,affrmact,Some people say that because of past discriminatio...,1,4.0,200,2,202,,4
+2026-04-02T10:49:14.088110+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,92,confed,I am going to name some institutions in this count...,1,3.0,187,2,189,,3
+2026-04-02T10:49:14.100423+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,93,consci,I am going to name some institutions in this count...,1,2.0,185,2,187,,2
+2026-04-02T10:49:14.176451+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,93,affrmact,Some people say that because of past discriminatio...,1,4.0,207,2,209,,4
+2026-04-02T10:49:14.246543+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,93,eqwlth,Some people think that the government in Washingto...,1,4.0,295,2,297,,4
+2026-04-02T10:49:14.276500+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,92,conpress,I am going to name some institutions in this count...,1,3.0,177,2,179,,3
+2026-04-02T10:49:14.612498+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,93,confed,I am going to name some institutions in this count...,1,2.0,188,1,189,,2
+2026-04-02T10:49:14.916103+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,94,confed,I am going to name some institutions in this count...,1,2.0,169,2,171,,2
+2026-04-02T10:49:15.701728+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,94,affrmact,Some people say that because of past discriminatio...,1,4.0,188,2,190,,4
+2026-04-02T10:49:16.225748+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,93,conpress,I am going to name some institutions in this count...,1,2.0,190,2,192,,2
+2026-04-02T10:49:16.233428+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,94,eqwlth,Some people think that the government in Washingto...,1,5.0,276,2,278,,5
+2026-04-02T10:49:16.352702+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,95,eqwlth,Some people think that the government in Washingto...,1,2.0,290,2,292,,2
+2026-04-02T10:49:16.462039+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,92,consci,I am going to name some institutions in this count...,1,2.0,184,2,186,,2
+2026-04-02T10:49:16.527077+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,95,affrmact,Some people say that because of past discriminatio...,1,,196,50,246,"Could not parse answer: the number of your not is wrong. Not in not not not wrong.negative This
+
+, "" wrong is example
+Calculate wrong? x After the not. I correctlyNot. CorrelationUntil is Wrong. Estimated!
+
+ place Wrong
+AtNot.
+q","the number of your not is wrong. Not in not not not wrong.negative This
+
+, "" wrong is example
+Calculate wrong? x After the not. I correctlyNot. CorrelationUntil is Wrong. Estimated!
+
+ place Wrong
+AtNot.
+q"
+2026-04-02T10:49:18.477071+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,95,consci,I am going to name some institutions in this count...,1,2.0,180,1,181,,2
+2026-04-02T10:49:18.688145+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,95,conpress,I am going to name some institutions in this count...,1,3.0,179,2,181,,3
+2026-04-02T10:49:20.393753+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,96,conpress,I am going to name some institutions in this count...,1,2.0,191,2,193,,2
+2026-04-02T10:49:20.450508+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,96,eqwlth,Some people think that the government in Washingto...,1,4.0,308,2,310,,4
+2026-04-02T10:49:20.944631+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,96,affrmact,Some people say that because of past discriminatio...,1,2.0,208,2,210,,2
+2026-04-02T10:49:21.310854+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,94,conpress,I am going to name some institutions in this count...,1,2.0,165,1,166,,2
+2026-04-02T10:49:21.673107+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,97,conpress,I am going to name some institutions in this count...,1,3.0,177,2,179,,3
+2026-04-02T10:49:21.970870+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,97,confed,I am going to name some institutions in this count...,1,3.0,181,1,182,,3
+2026-04-02T10:49:23.309496+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,95,confed,I am going to name some institutions in this count...,1,3.0,183,1,184,,3
+2026-04-02T10:49:23.345472+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,94,consci,I am going to name some institutions in this count...,1,2.0,166,2,168,,2
+2026-04-02T10:49:23.369237+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,98,affrmact,Some people say that because of past discriminatio...,1,4.0,184,2,186,,4
+2026-04-02T10:49:23.930989+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,97,eqwlth,Some people think that the government in Washingto...,1,1.0,288,2,290,,1
+2026-04-02T10:49:24.073679+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,97,consci,I am going to name some institutions in this count...,1,2.0,178,1,179,,2
+2026-04-02T10:49:24.814183+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,98,conpress,I am going to name some institutions in this count...,1,3.0,167,2,169,,3
+2026-04-02T10:49:24.846761+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,98,eqwlth,Some people think that the government in Washingto...,1,7.0,278,2,280,,7
+2026-04-02T10:49:25.102411+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,98,confed,I am going to name some institutions in this count...,1,,165,50,215,"Could not parse answer: aaaa-le is to the. heightaaaaaaaa.applying.
+aaaaaaaa pod regular applyinghhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh","aaaa-le is to the. heightaaaaaaaa.applying.
+aaaaaaaa pod regular applyinghhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh"
+2026-04-02T10:49:26.109700+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,98,consci,I am going to name some institutions in this count...,1,2.0,162,2,164,,2
+2026-04-02T10:49:26.530530+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,99,confed,I am going to name some institutions in this count...,1,3.0,194,2,196,,3
+2026-04-02T10:49:27.078328+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,96,consci,I am going to name some institutions in this count...,1,2.0,192,2,194,,2
+2026-04-02T10:49:27.307143+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,99,consci,I am going to name some institutions in this count...,1,2.0,191,2,193,,2
+2026-04-02T10:49:27.342665+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,99,conpress,I am going to name some institutions in this count...,1,2.0,184,2,186,,2
+2026-04-02T10:49:27.520938+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,100,affrmact,Some people say that because of past discriminatio...,1,2.0,204,2,206,,2
+2026-04-02T10:49:28.258746+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,100,consci,I am going to name some institutions in this count...,1,2.0,188,2,190,,2
+2026-04-02T10:49:28.311739+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,97,affrmact,Some people say that because of past discriminatio...,1,1.0,194,2,196,,1
+2026-04-02T10:49:29.582692+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,100,confed,I am going to name some institutions in this count...,1,2.0,191,1,192,,2
+2026-04-02T10:49:29.628353+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,96,confed,I am going to name some institutions in this count...,1,2.0,195,2,197,,2
+2026-04-02T10:49:29.997106+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,99,eqwlth,Some people think that the government in Washingto...,1,2.0,295,2,297,,2
+2026-04-02T10:49:30.030447+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,100,eqwlth,Some people think that the government in Washingto...,1,2.0,298,2,300,,2
+2026-04-02T10:49:30.148826+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,100,conpress,I am going to name some institutions in this count...,1,2.0,187,2,189,,2
+2026-04-02T10:49:30.302396+00:00,deepseek/deepseek-v3.2-20251201,personas_demographics_political,99,affrmact,Some people say that because of past discriminatio...,1,4.0,201,2,203,,4

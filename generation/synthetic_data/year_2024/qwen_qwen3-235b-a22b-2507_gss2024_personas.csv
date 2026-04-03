@@ -1,0 +1,501 @@
+timestamp,model,persona_file,persona_id,variable,question_short,run,answer,prompt_tokens,completion_tokens,total_tokens,error,raw_response
+2026-04-02T11:01:26.943296+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,2,eqwlth,Some people think that the government in Washingto...,1,1,313,2,315,,1
+2026-04-02T11:01:27.091848+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,1,affrmact,Some people say that because of past discriminatio...,1,3,232,1,233,,3
+2026-04-02T11:01:27.572512+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,1,confed,I am going to name some institutions in this count...,1,2,218,2,220,,2
+2026-04-02T11:01:27.680634+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,1,eqwlth,Some people think that the government in Washingto...,1,4,325,2,327,,4
+2026-04-02T11:01:27.708796+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,1,conpress,I am going to name some institutions in this count...,1,2,214,2,216,,2
+2026-04-02T11:01:27.812657+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,2,affrmact,Some people say that because of past discriminatio...,1,1,220,2,222,,1
+2026-04-02T11:01:28.098276+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,2,consci,I am going to name some institutions in this count...,1,1,203,2,205,,1
+2026-04-02T11:01:28.130454+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,3,eqwlth,Some people think that the government in Washingto...,1,1,309,2,311,,1
+2026-04-02T11:01:28.202061+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,2,conpress,I am going to name some institutions in this count...,1,2,202,2,204,,2
+2026-04-02T11:01:28.297331+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,3,conpress,I am going to name some institutions in this count...,1,1,198,2,200,,1
+2026-04-02T11:01:28.413105+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,3,confed,I am going to name some institutions in this count...,1,2,202,2,204,,2
+2026-04-02T11:01:28.604046+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,2,confed,I am going to name some institutions in this count...,1,2,206,2,208,,2
+2026-04-02T11:01:28.623824+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,1,consci,I am going to name some institutions in this count...,1,1,215,1,216,,1
+2026-04-02T11:01:28.717923+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,3,consci,I am going to name some institutions in this count...,1,1,199,1,200,,1
+2026-04-02T11:01:28.911548+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,4,confed,I am going to name some institutions in this count...,1,3,210,2,212,,3
+2026-04-02T11:01:29.261348+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,5,affrmact,Some people say that because of past discriminatio...,1,3,225,2,227,,3
+2026-04-02T11:01:29.368209+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,4,affrmact,Some people say that because of past discriminatio...,1,2,224,2,226,,2
+2026-04-02T11:01:29.388172+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,5,confed,I am going to name some institutions in this count...,1,2,211,2,213,,2
+2026-04-02T11:01:29.570386+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,5,eqwlth,Some people think that the government in Washingto...,1,4,318,2,320,,4
+2026-04-02T11:01:29.689061+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,3,affrmact,Some people say that because of past discriminatio...,1,1,216,2,218,,1
+2026-04-02T11:01:30.133534+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,4,eqwlth,Some people think that the government in Washingto...,1,4,317,2,319,,4
+2026-04-02T11:01:30.317344+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,4,conpress,I am going to name some institutions in this count...,1,2,206,2,208,,2
+2026-04-02T11:01:30.374772+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,5,conpress,I am going to name some institutions in this count...,1,2,207,2,209,,2
+2026-04-02T11:01:30.504104+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,6,affrmact,Some people say that because of past discriminatio...,1,3,220,2,222,,3
+2026-04-02T11:01:30.806616+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,7,affrmact,Some people say that because of past discriminatio...,1,1,208,2,210,,1
+2026-04-02T11:01:30.971454+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,7,eqwlth,Some people think that the government in Washingto...,1,1,301,2,303,,1
+2026-04-02T11:01:31.023420+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,6,eqwlth,Some people think that the government in Washingto...,1,4,313,2,315,,4
+2026-04-02T11:01:31.201565+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,7,confed,I am going to name some institutions in this count...,1,2,194,2,196,,2
+2026-04-02T11:01:31.669405+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,8,affrmact,Some people say that because of past discriminatio...,1,3,213,2,215,,3
+2026-04-02T11:01:31.741728+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,5,consci,I am going to name some institutions in this count...,1,2,208,1,209,,2
+2026-04-02T11:01:31.764721+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,7,conpress,I am going to name some institutions in this count...,1,1,190,2,192,,1
+2026-04-02T11:01:32.037036+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,6,conpress,I am going to name some institutions in this count...,1,3,202,1,203,,3
+2026-04-02T11:01:32.074361+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,4,consci,I am going to name some institutions in this count...,1,1,207,2,209,,1
+2026-04-02T11:01:32.194092+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,8,confed,I am going to name some institutions in this count...,1,3,199,2,201,,3
+2026-04-02T11:01:32.425573+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,6,consci,I am going to name some institutions in this count...,1,2,203,1,204,,2
+2026-04-02T11:01:32.515055+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,9,affrmact,Some people say that because of past discriminatio...,1,3,219,2,221,,3
+2026-04-02T11:01:32.619227+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,8,eqwlth,Some people think that the government in Washingto...,1,4,306,2,308,,4
+2026-04-02T11:01:32.952783+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,8,conpress,I am going to name some institutions in this count...,1,3,195,2,197,,3
+2026-04-02T11:01:33.064891+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,9,consci,I am going to name some institutions in this count...,1,1,202,2,204,,1
+2026-04-02T11:01:33.091267+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,9,confed,I am going to name some institutions in this count...,1,2,205,2,207,,2
+2026-04-02T11:01:33.111949+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,7,consci,I am going to name some institutions in this count...,1,1,191,1,192,,1
+2026-04-02T11:01:33.642745+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,8,consci,I am going to name some institutions in this count...,1,2,196,2,198,,2
+2026-04-02T11:01:33.654622+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,9,eqwlth,Some people think that the government in Washingto...,1,4,312,1,313,,4
+2026-04-02T11:01:33.740051+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,9,conpress,I am going to name some institutions in this count...,1,2,201,2,203,,2
+2026-04-02T11:01:33.872373+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,6,confed,I am going to name some institutions in this count...,1,3,206,2,208,,3
+2026-04-02T11:01:34.338784+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,11,affrmact,Some people say that because of past discriminatio...,1,1,221,2,223,,1
+2026-04-02T11:01:34.369054+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,10,confed,I am going to name some institutions in this count...,1,3,199,2,201,,3
+2026-04-02T11:01:34.394197+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,11,confed,I am going to name some institutions in this count...,1,3,207,2,209,,3
+2026-04-02T11:01:34.699817+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,11,eqwlth,Some people think that the government in Washingto...,1,1,314,2,316,,1
+2026-04-02T11:01:34.770475+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,10,consci,I am going to name some institutions in this count...,1,1,196,2,198,,1
+2026-04-02T11:01:34.977538+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,10,affrmact,Some people say that because of past discriminatio...,1,2,213,2,215,,2
+2026-04-02T11:01:35.831450+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,10,conpress,I am going to name some institutions in this count...,1,3,195,1,196,,3
+2026-04-02T11:01:35.857778+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,12,affrmact,Some people say that because of past discriminatio...,1,1,214,2,216,,1
+2026-04-02T11:01:36.263732+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,12,consci,I am going to name some institutions in this count...,1,1,197,2,199,,1
+2026-04-02T11:01:36.497969+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,12,conpress,I am going to name some institutions in this count...,1,3,196,2,198,,3
+2026-04-02T11:01:36.970875+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,11,conpress,I am going to name some institutions in this count...,1,2,203,1,204,,2
+2026-04-02T11:01:37.277502+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,11,consci,I am going to name some institutions in this count...,1,1,204,1,205,,1
+2026-04-02T11:01:37.316855+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,13,confed,I am going to name some institutions in this count...,1,3,189,1,190,,3
+2026-04-02T11:01:37.737135+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,13,consci,I am going to name some institutions in this count...,1,1,186,2,188,,1
+2026-04-02T11:01:37.797254+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,13,eqwlth,Some people think that the government in Washingto...,1,3,296,2,298,,3
+2026-04-02T11:01:37.918316+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,12,eqwlth,Some people think that the government in Washingto...,1,1,307,1,308,,1
+2026-04-02T11:01:38.112504+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,14,affrmact,Some people say that because of past discriminatio...,1,1,220,1,221,,1
+2026-04-02T11:01:38.192899+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,14,eqwlth,Some people think that the government in Washingto...,1,1,313,2,315,,1
+2026-04-02T11:01:38.486223+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,14,conpress,I am going to name some institutions in this count...,1,1,202,2,204,,1
+2026-04-02T11:01:38.712130+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,14,consci,I am going to name some institutions in this count...,1,1,203,2,205,,1
+2026-04-02T11:01:38.984803+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,14,confed,I am going to name some institutions in this count...,1,3,206,1,207,,3
+2026-04-02T11:01:39.128288+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,15,eqwlth,Some people think that the government in Washingto...,1,3,318,1,319,,3
+2026-04-02T11:01:39.376111+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,15,affrmact,Some people say that because of past discriminatio...,1,3,225,1,226,,3
+2026-04-02T11:01:39.415157+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,15,conpress,I am going to name some institutions in this count...,1,3,207,2,209,,3
+2026-04-02T11:01:39.420047+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,15,confed,I am going to name some institutions in this count...,1,3,211,1,212,,3
+2026-04-02T11:01:39.453227+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,13,affrmact,Some people say that because of past discriminatio...,1,2,203,1,204,,2
+2026-04-02T11:01:39.942901+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,16,confed,I am going to name some institutions in this count...,1,2,206,2,208,,2
+2026-04-02T11:01:40.116542+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,16,affrmact,Some people say that because of past discriminatio...,1,1,220,1,221,,1
+2026-04-02T11:01:40.167399+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,16,conpress,I am going to name some institutions in this count...,1,1,202,1,203,,1
+2026-04-02T11:01:40.314097+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,10,eqwlth,Some people think that the government in Washingto...,1,4,306,2,308,,4
+2026-04-02T11:01:40.605388+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,17,affrmact,Some people say that because of past discriminatio...,1,3,220,2,222,,3
+2026-04-02T11:01:40.612103+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,17,eqwlth,Some people think that the government in Washingto...,1,5,313,2,315,,5
+2026-04-02T11:01:40.820443+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,15,consci,I am going to name some institutions in this count...,1,1,208,2,210,,1
+2026-04-02T11:01:41.012691+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,16,consci,I am going to name some institutions in this count...,1,1,203,2,205,,1
+2026-04-02T11:01:41.040312+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,12,confed,I am going to name some institutions in this count...,1,3,200,2,202,,3
+2026-04-02T11:01:41.282040+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,17,conpress,I am going to name some institutions in this count...,1,3,202,2,204,,3
+2026-04-02T11:01:42.047124+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,17,consci,I am going to name some institutions in this count...,1,1,203,2,205,,1
+2026-04-02T11:01:42.109597+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,18,affrmact,Some people say that because of past discriminatio...,1,3,185,2,187,,3
+2026-04-02T11:01:42.207012+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,17,confed,I am going to name some institutions in this count...,1,2,206,2,208,,2
+2026-04-02T11:01:42.250675+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,18,confed,I am going to name some institutions in this count...,1,2,171,2,173,,2
+2026-04-02T11:01:42.641215+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,19,eqwlth,Some people think that the government in Washingto...,1,7,313,2,315,,7
+2026-04-02T11:01:42.861301+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,16,eqwlth,Some people think that the government in Washingto...,1,1,313,1,314,,1
+2026-04-02T11:01:42.899570+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,19,confed,I am going to name some institutions in this count...,1,3,206,1,207,,3
+2026-04-02T11:01:43.295262+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,19,conpress,I am going to name some institutions in this count...,1,3,202,1,203,,3
+2026-04-02T11:01:43.440123+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,18,conpress,I am going to name some institutions in this count...,1,2,167,1,168,,2
+2026-04-02T11:01:43.631162+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,18,eqwlth,Some people think that the government in Washingto...,1,4,278,1,279,,4
+2026-04-02T11:01:43.933006+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,19,consci,I am going to name some institutions in this count...,1,2,203,2,205,,2
+2026-04-02T11:01:44.011451+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,20,conpress,I am going to name some institutions in this count...,1,3,204,2,206,,3
+2026-04-02T11:01:44.272037+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,19,affrmact,Some people say that because of past discriminatio...,1,4,220,2,222,,4
+2026-04-02T11:01:44.361202+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,20,consci,I am going to name some institutions in this count...,1,2,205,2,207,,2
+2026-04-02T11:01:44.588652+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,20,confed,I am going to name some institutions in this count...,1,3,208,2,210,,3
+2026-04-02T11:01:44.593937+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,20,affrmact,Some people say that because of past discriminatio...,1,3,222,1,223,,3
+2026-04-02T11:01:44.650489+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,18,consci,I am going to name some institutions in this count...,1,1,168,2,170,,1
+2026-04-02T11:01:44.940495+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,21,eqwlth,Some people think that the government in Washingto...,1,4,320,2,322,,4
+2026-04-02T11:01:45.075580+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,21,conpress,I am going to name some institutions in this count...,1,3,209,2,211,,3
+2026-04-02T11:01:45.119792+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,22,affrmact,Some people say that because of past discriminatio...,1,1,220,2,222,,1
+2026-04-02T11:01:45.618638+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,20,eqwlth,Some people think that the government in Washingto...,1,4,315,2,317,,4
+2026-04-02T11:01:45.701196+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,22,confed,I am going to name some institutions in this count...,1,2,206,1,207,,2
+2026-04-02T11:01:45.903488+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,21,consci,I am going to name some institutions in this count...,1,1,210,1,211,,1
+2026-04-02T11:01:45.983548+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,13,conpress,I am going to name some institutions in this count...,1,3,185,1,186,,3
+2026-04-02T11:01:46.181608+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,23,affrmact,Some people say that because of past discriminatio...,1,3,226,2,228,,3
+2026-04-02T11:01:46.360556+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,21,affrmact,Some people say that because of past discriminatio...,1,2,227,1,228,,2
+2026-04-02T11:01:46.371580+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,22,conpress,I am going to name some institutions in this count...,1,2,202,2,204,,2
+2026-04-02T11:01:46.603310+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,23,conpress,I am going to name some institutions in this count...,1,3,208,2,210,,3
+2026-04-02T11:01:46.742661+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,22,consci,I am going to name some institutions in this count...,1,1,203,2,205,,1
+2026-04-02T11:01:46.754569+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,23,eqwlth,Some people think that the government in Washingto...,1,4,319,2,321,,4
+2026-04-02T11:01:46.827497+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,23,consci,I am going to name some institutions in this count...,1,1,209,2,211,,1
+2026-04-02T11:01:47.244318+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,23,confed,I am going to name some institutions in this count...,1,2,212,2,214,,2
+2026-04-02T11:01:47.393211+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,24,confed,I am going to name some institutions in this count...,1,3,205,1,206,,3
+2026-04-02T11:01:47.537250+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,24,eqwlth,Some people think that the government in Washingto...,1,7,312,2,314,,7
+2026-04-02T11:01:48.168186+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,24,consci,I am going to name some institutions in this count...,1,3,202,1,203,,3
+2026-04-02T11:01:48.234048+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,25,confed,I am going to name some institutions in this count...,1,2,216,2,218,,2
+2026-04-02T11:01:48.659312+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,22,eqwlth,Some people think that the government in Washingto...,1,1,313,1,314,,1
+2026-04-02T11:01:48.827566+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,25,conpress,I am going to name some institutions in this count...,1,2,212,2,214,,2
+2026-04-02T11:01:49.134483+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,25,eqwlth,Some people think that the government in Washingto...,1,4,323,2,325,,4
+2026-04-02T11:01:49.441958+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,25,consci,I am going to name some institutions in this count...,1,1,213,2,215,,1
+2026-04-02T11:01:49.508886+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,24,affrmact,Some people say that because of past discriminatio...,1,4,219,2,221,,4
+2026-04-02T11:01:49.985099+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,25,affrmact,Some people say that because of past discriminatio...,1,3,230,2,232,,3
+2026-04-02T11:01:50.185425+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,24,conpress,I am going to name some institutions in this count...,1,3,201,1,202,,3
+2026-04-02T11:01:50.467881+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,26,conpress,I am going to name some institutions in this count...,1,3,198,2,200,,3
+2026-04-02T11:01:50.875031+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,27,confed,I am going to name some institutions in this count...,1,3,208,2,210,,3
+2026-04-02T11:01:51.005847+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,21,confed,I am going to name some institutions in this count...,1,3,213,2,215,,3
+2026-04-02T11:01:51.232582+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,26,consci,I am going to name some institutions in this count...,1,1,199,1,200,,1
+2026-04-02T11:01:51.434162+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,27,consci,I am going to name some institutions in this count...,1,1,205,2,207,,1
+2026-04-02T11:01:52.048361+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,26,eqwlth,Some people think that the government in Washingto...,1,5,309,2,311,,5
+2026-04-02T11:01:52.465888+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,26,confed,I am going to name some institutions in this count...,1,2,202,2,204,,2
+2026-04-02T11:01:52.511564+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,28,affrmact,Some people say that because of past discriminatio...,1,2,220,2,222,,2
+2026-04-02T11:01:52.565215+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,28,eqwlth,Some people think that the government in Washingto...,1,1,313,2,315,,1
+2026-04-02T11:01:52.973188+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,28,consci,I am going to name some institutions in this count...,1,1,203,2,205,,1
+2026-04-02T11:01:53.021108+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,29,affrmact,Some people say that because of past discriminatio...,1,4,216,2,218,,4
+2026-04-02T11:01:53.402124+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,29,eqwlth,Some people think that the government in Washingto...,1,7,309,2,311,,7
+2026-04-02T11:01:53.827551+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,29,conpress,I am going to name some institutions in this count...,1,3,198,2,200,,3
+2026-04-02T11:01:54.388477+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,26,affrmact,Some people say that because of past discriminatio...,1,3,216,2,218,,3
+2026-04-02T11:01:55.071064+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,29,confed,I am going to name some institutions in this count...,1,3,202,2,204,,3
+2026-04-02T11:01:55.110440+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,29,consci,I am going to name some institutions in this count...,1,3,199,2,201,,3
+2026-04-02T11:01:55.500420+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,28,confed,I am going to name some institutions in this count...,1,2,206,1,207,,2
+2026-04-02T11:01:55.505865+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,30,eqwlth,Some people think that the government in Washingto...,1,3,285,2,287,,3
+2026-04-02T11:01:55.629029+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,27,affrmact,Some people say that because of past discriminatio...,1,2,222,2,224,,2
+2026-04-02T11:01:55.876149+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,30,affrmact,Some people say that because of past discriminatio...,1,2,192,2,194,,2
+2026-04-02T11:01:56.229184+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,27,conpress,I am going to name some institutions in this count...,1,2,204,2,206,,2
+2026-04-02T11:01:56.739892+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,30,consci,I am going to name some institutions in this count...,1,1,175,2,177,,1
+2026-04-02T11:01:56.863201+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,31,confed,I am going to name some institutions in this count...,1,3,187,2,189,,3
+2026-04-02T11:01:57.008928+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,31,affrmact,Some people say that because of past discriminatio...,1,4,201,1,202,,4
+2026-04-02T11:01:57.233969+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,31,conpress,I am going to name some institutions in this count...,1,3,183,2,185,,3
+2026-04-02T11:01:57.242318+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,30,confed,I am going to name some institutions in this count...,1,2,178,2,180,,2
+2026-04-02T11:01:57.411122+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,32,affrmact,Some people say that because of past discriminatio...,1,2,213,2,215,,2
+2026-04-02T11:01:57.515135+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,31,consci,I am going to name some institutions in this count...,1,2,184,1,185,,2
+2026-04-02T11:01:57.827235+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,32,conpress,I am going to name some institutions in this count...,1,2,195,2,197,,2
+2026-04-02T11:01:57.893127+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,32,confed,I am going to name some institutions in this count...,1,2,199,2,201,,2
+2026-04-02T11:01:58.408456+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,28,conpress,I am going to name some institutions in this count...,1,2,202,2,204,,2
+2026-04-02T11:01:58.430643+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,33,affrmact,Some people say that because of past discriminatio...,1,2,217,1,218,,2
+2026-04-02T11:01:58.851972+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,33,confed,I am going to name some institutions in this count...,1,3,203,2,205,,3
+2026-04-02T11:01:59.095851+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,33,conpress,I am going to name some institutions in this count...,1,3,199,2,201,,3
+2026-04-02T11:01:59.289813+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,32,eqwlth,Some people think that the government in Washingto...,1,4,306,1,307,,4
+2026-04-02T11:01:59.603420+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,33,consci,I am going to name some institutions in this count...,1,1,200,2,202,,1
+2026-04-02T11:02:00.021536+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,34,confed,I am going to name some institutions in this count...,1,3,200,2,202,,3
+2026-04-02T11:02:00.472928+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,34,conpress,I am going to name some institutions in this count...,1,1,196,2,198,,1
+2026-04-02T11:02:00.892683+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,33,eqwlth,Some people think that the government in Washingto...,1,4,310,1,311,,4
+2026-04-02T11:02:01.095086+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,34,consci,I am going to name some institutions in this count...,1,1,197,1,198,,1
+2026-04-02T11:02:01.191749+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,34,affrmact,Some people say that because of past discriminatio...,1,1,214,2,216,,1
+2026-04-02T11:02:01.346630+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,35,affrmact,Some people say that because of past discriminatio...,1,3,220,2,222,,3
+2026-04-02T11:02:01.445689+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,32,consci,I am going to name some institutions in this count...,1,1,196,2,198,,1
+2026-04-02T11:02:01.714258+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,35,eqwlth,Some people think that the government in Washingto...,1,3,313,2,315,,3
+2026-04-02T11:02:02.008417+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,34,eqwlth,Some people think that the government in Washingto...,1,1,307,2,309,,1
+2026-04-02T11:02:02.037594+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,35,consci,I am going to name some institutions in this count...,1,1,203,2,205,,1
+2026-04-02T11:02:02.347811+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,31,eqwlth,Some people think that the government in Washingto...,1,5,294,2,296,,5
+2026-04-02T11:02:02.407364+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,30,conpress,I am going to name some institutions in this count...,1,2,174,1,175,,2
+2026-04-02T11:02:02.499585+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,35,conpress,I am going to name some institutions in this count...,1,3,202,2,204,,3
+2026-04-02T11:02:02.663680+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,36,confed,I am going to name some institutions in this count...,1,3,182,2,184,,3
+2026-04-02T11:02:02.780183+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,36,conpress,I am going to name some institutions in this count...,1,3,178,2,180,,3
+2026-04-02T11:02:02.815792+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,36,eqwlth,Some people think that the government in Washingto...,1,5,289,2,291,,5
+2026-04-02T11:02:03.064360+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,37,eqwlth,Some people think that the government in Washingto...,1,7,307,2,309,,7
+2026-04-02T11:02:03.517592+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,37,consci,I am going to name some institutions in this count...,1,2,197,2,199,,2
+2026-04-02T11:02:03.625719+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,37,affrmact,Some people say that because of past discriminatio...,1,4,214,2,216,,4
+2026-04-02T11:02:03.901554+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,36,consci,I am going to name some institutions in this count...,1,2,179,2,181,,2
+2026-04-02T11:02:03.974063+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,37,confed,I am going to name some institutions in this count...,1,3,200,2,202,,3
+2026-04-02T11:02:04.010605+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,36,affrmact,Some people say that because of past discriminatio...,1,3,196,2,198,,3
+2026-04-02T11:02:04.534262+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,38,confed,I am going to name some institutions in this count...,1,3,211,2,213,,3
+2026-04-02T11:02:04.547794+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,38,conpress,I am going to name some institutions in this count...,1,3,207,2,209,,3
+2026-04-02T11:02:04.566547+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,37,conpress,I am going to name some institutions in this count...,1,3,196,2,198,,3
+2026-04-02T11:02:04.682236+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,38,consci,I am going to name some institutions in this count...,1,2,208,2,210,,2
+2026-04-02T11:02:04.885056+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,38,eqwlth,Some people think that the government in Washingto...,1,5,318,1,319,,5
+2026-04-02T11:02:05.012287+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,39,eqwlth,Some people think that the government in Washingto...,1,7,318,2,320,,7
+2026-04-02T11:02:05.220172+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,39,confed,I am going to name some institutions in this count...,1,3,211,2,213,,3
+2026-04-02T11:02:05.360089+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,39,consci,I am going to name some institutions in this count...,1,3,208,2,210,,3
+2026-04-02T11:02:06.493297+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,39,affrmact,Some people say that because of past discriminatio...,1,4,225,2,227,,4
+2026-04-02T11:02:06.860060+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,40,eqwlth,Some people think that the government in Washingto...,1,5,315,1,316,,5
+2026-04-02T11:02:06.968449+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,35,confed,I am going to name some institutions in this count...,1,3,206,2,208,,3
+2026-04-02T11:02:07.203325+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,40,conpress,I am going to name some institutions in this count...,1,3,204,2,206,,3
+2026-04-02T11:02:07.306650+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,40,consci,I am going to name some institutions in this count...,1,2,205,2,207,,2
+2026-04-02T11:02:07.381994+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,40,affrmact,Some people say that because of past discriminatio...,1,3,222,2,224,,3
+2026-04-02T11:02:07.664856+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,41,eqwlth,Some people think that the government in Washingto...,1,5,311,2,313,,5
+2026-04-02T11:02:07.973899+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,41,conpress,I am going to name some institutions in this count...,1,3,200,2,202,,3
+2026-04-02T11:02:08.140289+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,39,conpress,I am going to name some institutions in this count...,1,3,207,2,209,,3
+2026-04-02T11:02:08.325732+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,41,consci,I am going to name some institutions in this count...,1,2,201,2,203,,2
+2026-04-02T11:02:08.498867+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,41,confed,I am going to name some institutions in this count...,1,2,204,1,205,,2
+2026-04-02T11:02:08.545398+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,40,confed,I am going to name some institutions in this count...,1,3,208,1,209,,3
+2026-04-02T11:02:08.552183+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,41,affrmact,Some people say that because of past discriminatio...,1,3,218,2,220,,3
+2026-04-02T11:02:08.623218+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,42,eqwlth,Some people think that the government in Washingto...,1,4,318,2,320,,4
+2026-04-02T11:02:08.968504+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,42,confed,I am going to name some institutions in this count...,1,3,211,2,213,,3
+2026-04-02T11:02:08.975884+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,38,affrmact,Some people say that because of past discriminatio...,1,3,225,1,226,,3
+2026-04-02T11:02:09.042431+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,42,consci,I am going to name some institutions in this count...,1,1,208,2,210,,1
+2026-04-02T11:02:09.403441+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,43,affrmact,Some people say that because of past discriminatio...,1,3,229,2,231,,3
+2026-04-02T11:02:09.433927+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,43,conpress,I am going to name some institutions in this count...,1,2,211,2,213,,2
+2026-04-02T11:02:09.784690+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,43,eqwlth,Some people think that the government in Washingto...,1,3,322,2,324,,3
+2026-04-02T11:02:09.875677+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,44,eqwlth,Some people think that the government in Washingto...,1,2,309,2,311,,2
+2026-04-02T11:02:10.052879+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,44,affrmact,Some people say that because of past discriminatio...,1,2,216,1,217,,2
+2026-04-02T11:02:10.183086+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,44,confed,I am going to name some institutions in this count...,1,3,202,2,204,,3
+2026-04-02T11:02:10.231764+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,43,consci,I am going to name some institutions in this count...,1,1,212,2,214,,1
+2026-04-02T11:02:10.292864+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,43,confed,I am going to name some institutions in this count...,1,2,215,2,217,,2
+2026-04-02T11:02:10.458742+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,42,conpress,I am going to name some institutions in this count...,1,3,207,2,209,,3
+2026-04-02T11:02:10.468867+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,42,affrmact,Some people say that because of past discriminatio...,1,3,225,2,227,,3
+2026-04-02T11:02:10.785982+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,45,eqwlth,Some people think that the government in Washingto...,1,7,314,2,316,,7
+2026-04-02T11:02:10.892101+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,45,conpress,I am going to name some institutions in this count...,1,3,203,2,205,,3
+2026-04-02T11:02:10.979777+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,45,confed,I am going to name some institutions in this count...,1,2,207,1,208,,2
+2026-04-02T11:02:11.031804+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,44,conpress,I am going to name some institutions in this count...,1,3,198,2,200,,3
+2026-04-02T11:02:11.122114+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,45,consci,I am going to name some institutions in this count...,1,2,204,2,206,,2
+2026-04-02T11:02:11.351159+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,44,consci,I am going to name some institutions in this count...,1,1,199,2,201,,1
+2026-04-02T11:02:11.797617+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,46,consci,I am going to name some institutions in this count...,1,1,210,2,212,,1
+2026-04-02T11:02:11.997461+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,47,affrmact,Some people say that because of past discriminatio...,1,4,228,1,229,,4
+2026-04-02T11:02:12.156803+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,46,eqwlth,Some people think that the government in Washingto...,1,4,320,1,321,,4
+2026-04-02T11:02:14.022172+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,46,conpress,I am going to name some institutions in this count...,1,2,209,2,211,,2
+2026-04-02T11:02:14.640952+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,47,conpress,I am going to name some institutions in this count...,1,3,210,2,212,,3
+2026-04-02T11:02:15.586281+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,47,eqwlth,Some people think that the government in Washingto...,1,7,321,2,323,,7
+2026-04-02T11:02:15.855687+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,48,affrmact,Some people say that because of past discriminatio...,1,2,222,2,224,,2
+2026-04-02T11:02:16.045325+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,48,eqwlth,Some people think that the government in Washingto...,1,4,315,2,317,,4
+2026-04-02T11:02:16.823906+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,46,confed,I am going to name some institutions in this count...,1,2,213,2,215,,2
+2026-04-02T11:02:18.080699+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,48,consci,I am going to name some institutions in this count...,1,1,205,2,207,,1
+2026-04-02T11:02:18.166363+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,45,affrmact,Some people say that because of past discriminatio...,1,4,221,2,223,,4
+2026-04-02T11:02:18.478456+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,48,confed,I am going to name some institutions in this count...,1,2,208,1,209,,2
+2026-04-02T11:02:18.563285+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,48,conpress,I am going to name some institutions in this count...,1,3,204,2,206,,3
+2026-04-02T11:02:19.235832+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,47,confed,I am going to name some institutions in this count...,1,2,214,2,216,,2
+2026-04-02T11:02:19.311136+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,49,conpress,I am going to name some institutions in this count...,1,2,190,2,192,,2
+2026-04-02T11:02:19.933767+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,50,affrmact,Some people say that because of past discriminatio...,1,4,222,2,224,,4
+2026-04-02T11:02:20.334945+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,49,eqwlth,Some people think that the government in Washingto...,1,2,301,1,302,,2
+2026-04-02T11:02:20.427784+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,49,consci,I am going to name some institutions in this count...,1,1,191,2,193,,1
+2026-04-02T11:02:20.676652+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,49,confed,I am going to name some institutions in this count...,1,2,194,2,196,,2
+2026-04-02T11:02:20.683474+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,50,eqwlth,Some people think that the government in Washingto...,1,6,315,1,316,,6
+2026-04-02T11:02:20.793378+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,50,confed,I am going to name some institutions in this count...,1,3,208,2,210,,3
+2026-04-02T11:02:20.978146+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,49,affrmact,Some people say that because of past discriminatio...,1,1,208,2,210,,1
+2026-04-02T11:02:21.423785+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,47,consci,I am going to name some institutions in this count...,1,1,211,2,213,,1
+2026-04-02T11:02:21.499351+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,51,confed,I am going to name some institutions in this count...,1,3,207,2,209,,3
+2026-04-02T11:02:21.504759+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,50,consci,I am going to name some institutions in this count...,1,2,205,2,207,,2
+2026-04-02T11:02:21.739370+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,27,eqwlth,Some people think that the government in Washingto...,1,1,315,2,317,,1
+2026-04-02T11:02:21.744172+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,51,affrmact,Some people say that because of past discriminatio...,1,2,221,2,223,,2
+2026-04-02T11:02:22.197990+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,52,affrmact,Some people say that because of past discriminatio...,1,4,219,1,220,,4
+2026-04-02T11:02:22.353583+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,50,conpress,I am going to name some institutions in this count...,1,3,204,1,205,,3
+2026-04-02T11:02:22.382543+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,52,eqwlth,Some people think that the government in Washingto...,1,7,312,2,314,,7
+2026-04-02T11:02:22.434112+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,51,consci,I am going to name some institutions in this count...,1,1,204,2,206,,1
+2026-04-02T11:02:22.717831+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,51,eqwlth,Some people think that the government in Washingto...,1,1,314,2,316,,1
+2026-04-02T11:02:22.866280+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,53,eqwlth,Some people think that the government in Washingto...,1,3,319,2,321,,3
+2026-04-02T11:02:23.131035+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,52,confed,I am going to name some institutions in this count...,1,1,205,1,206,,1
+2026-04-02T11:02:23.282408+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,51,conpress,I am going to name some institutions in this count...,1,2,203,2,205,,2
+2026-04-02T11:02:23.325237+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,52,conpress,I am going to name some institutions in this count...,1,3,201,2,203,,3
+2026-04-02T11:02:23.596239+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,53,conpress,I am going to name some institutions in this count...,1,2,208,2,210,,2
+2026-04-02T11:02:23.686551+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,52,consci,I am going to name some institutions in this count...,1,2,202,2,204,,2
+2026-04-02T11:02:23.824140+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,54,eqwlth,Some people think that the government in Washingto...,1,1,313,2,315,,1
+2026-04-02T11:02:24.185297+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,53,affrmact,Some people say that because of past discriminatio...,1,2,226,2,228,,2
+2026-04-02T11:02:24.340925+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,54,consci,I am going to name some institutions in this count...,1,1,203,2,205,,1
+2026-04-02T11:02:24.348920+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,53,consci,I am going to name some institutions in this count...,1,1,209,1,210,,1
+2026-04-02T11:02:24.864863+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,55,affrmact,Some people say that because of past discriminatio...,1,2,229,2,231,,2
+2026-04-02T11:02:25.382648+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,53,confed,I am going to name some institutions in this count...,1,2,212,1,213,,2
+2026-04-02T11:02:25.723748+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,54,affrmact,Some people say that because of past discriminatio...,1,1,220,2,222,,1
+2026-04-02T11:02:26.094852+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,55,conpress,I am going to name some institutions in this count...,1,3,211,2,213,,3
+2026-04-02T11:02:26.157283+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,56,affrmact,Some people say that because of past discriminatio...,1,2,202,2,204,,2
+2026-04-02T11:02:26.633313+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,56,confed,I am going to name some institutions in this count...,1,2,188,2,190,,2
+2026-04-02T11:02:27.712416+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,54,confed,I am going to name some institutions in this count...,1,3,206,2,208,,3
+2026-04-02T11:02:28.295796+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,56,consci,I am going to name some institutions in this count...,1,1,185,1,186,,1
+2026-04-02T11:02:28.656629+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,56,conpress,I am going to name some institutions in this count...,1,2,184,2,186,,2
+2026-04-02T11:02:29.079953+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,57,eqwlth,Some people think that the government in Washingto...,1,4,283,2,285,,4
+2026-04-02T11:02:29.296138+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,54,conpress,I am going to name some institutions in this count...,1,3,202,2,204,,3
+2026-04-02T11:02:29.347465+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,55,confed,I am going to name some institutions in this count...,1,3,215,2,217,,3
+2026-04-02T11:02:29.748948+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,57,conpress,I am going to name some institutions in this count...,1,2,172,2,174,,2
+2026-04-02T11:02:29.848885+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,56,eqwlth,Some people think that the government in Washingto...,1,1,295,1,296,,1
+2026-04-02T11:02:30.270235+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,57,affrmact,Some people say that because of past discriminatio...,1,3,190,2,192,,3
+2026-04-02T11:02:31.101937+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,57,confed,I am going to name some institutions in this count...,1,3,176,2,178,,3
+2026-04-02T11:02:31.116748+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,58,confed,I am going to name some institutions in this count...,1,2,197,2,199,,2
+2026-04-02T11:02:31.134574+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,55,eqwlth,Some people think that the government in Washingto...,1,3,322,2,324,,3
+2026-04-02T11:02:31.742230+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,58,eqwlth,Some people think that the government in Washingto...,1,1,304,2,306,,1
+2026-04-02T11:02:31.806854+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,59,affrmact,Some people say that because of past discriminatio...,1,3,218,1,219,,3
+2026-04-02T11:02:31.858353+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,58,conpress,I am going to name some institutions in this count...,1,1,193,1,194,,1
+2026-04-02T11:02:32.126907+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,58,affrmact,Some people say that because of past discriminatio...,1,1,211,1,212,,1
+2026-04-02T11:02:32.231844+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,58,consci,I am going to name some institutions in this count...,1,1,194,2,196,,1
+2026-04-02T11:02:32.344899+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,59,conpress,I am going to name some institutions in this count...,1,2,200,2,202,,2
+2026-04-02T11:02:32.766297+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,60,eqwlth,Some people think that the government in Washingto...,1,1,321,2,323,,1
+2026-04-02T11:02:32.844283+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,55,consci,I am going to name some institutions in this count...,1,1,212,2,214,,1
+2026-04-02T11:02:33.226116+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,59,consci,I am going to name some institutions in this count...,1,1,201,2,203,,1
+2026-04-02T11:02:33.229308+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,60,confed,I am going to name some institutions in this count...,1,3,214,2,216,,3
+2026-04-02T11:02:33.366955+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,60,conpress,I am going to name some institutions in this count...,1,2,210,2,212,,2
+2026-04-02T11:02:33.656661+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,59,eqwlth,Some people think that the government in Washingto...,1,4,311,2,313,,4
+2026-04-02T11:02:33.841381+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,61,eqwlth,Some people think that the government in Washingto...,1,1,307,2,309,,1
+2026-04-02T11:02:33.881350+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,59,confed,I am going to name some institutions in this count...,1,2,204,2,206,,2
+2026-04-02T11:02:34.272461+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,61,conpress,I am going to name some institutions in this count...,1,1,196,2,198,,1
+2026-04-02T11:02:34.661073+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,60,consci,I am going to name some institutions in this count...,1,1,211,1,212,,1
+2026-04-02T11:02:34.915461+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,61,confed,I am going to name some institutions in this count...,1,3,200,2,202,,3
+2026-04-02T11:02:35.048905+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,61,consci,I am going to name some institutions in this count...,1,1,197,2,199,,1
+2026-04-02T11:02:35.087086+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,62,eqwlth,Some people think that the government in Washingto...,1,3,314,2,316,,3
+2026-04-02T11:02:35.461955+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,57,consci,I am going to name some institutions in this count...,1,1,173,2,175,,1
+2026-04-02T11:02:35.491766+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,62,conpress,I am going to name some institutions in this count...,1,2,203,2,205,,2
+2026-04-02T11:02:36.166126+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,63,eqwlth,Some people think that the government in Washingto...,1,7,312,1,313,,7
+2026-04-02T11:02:36.171578+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,62,confed,I am going to name some institutions in this count...,1,2,207,1,208,,2
+2026-04-02T11:02:36.732372+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,63,affrmact,Some people say that because of past discriminatio...,1,4,219,2,221,,4
+2026-04-02T11:02:36.908168+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,62,consci,I am going to name some institutions in this count...,1,1,204,2,206,,1
+2026-04-02T11:02:37.020403+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,62,affrmact,Some people say that because of past discriminatio...,1,2,221,2,223,,2
+2026-04-02T11:02:37.416079+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,63,confed,I am going to name some institutions in this count...,1,3,205,2,207,,3
+2026-04-02T11:02:37.843379+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,64,confed,I am going to name some institutions in this count...,1,3,200,2,202,,3
+2026-04-02T11:02:37.891190+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,60,affrmact,Some people say that because of past discriminatio...,1,1,228,2,230,,1
+2026-04-02T11:02:39.318646+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,63,consci,I am going to name some institutions in this count...,1,2,202,2,204,,2
+2026-04-02T11:02:39.332191+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,64,eqwlth,Some people think that the government in Washingto...,1,7,307,2,309,,7
+2026-04-02T11:02:39.850020+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,65,affrmact,Some people say that because of past discriminatio...,1,1,214,2,216,,1
+2026-04-02T11:02:40.091939+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,65,eqwlth,Some people think that the government in Washingto...,1,1,307,1,308,,1
+2026-04-02T11:02:40.278294+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,61,affrmact,Some people say that because of past discriminatio...,1,1,214,1,215,,1
+2026-04-02T11:02:40.615070+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,65,conpress,I am going to name some institutions in this count...,1,3,196,2,198,,3
+2026-04-02T11:02:40.825935+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,65,consci,I am going to name some institutions in this count...,1,1,197,2,199,,1
+2026-04-02T11:02:41.037709+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,63,conpress,I am going to name some institutions in this count...,1,3,201,1,202,,3
+2026-04-02T11:02:41.205598+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,65,confed,I am going to name some institutions in this count...,1,3,200,2,202,,3
+2026-04-02T11:02:41.417668+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,64,conpress,I am going to name some institutions in this count...,1,3,196,2,198,,3
+2026-04-02T11:02:41.491094+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,66,confed,I am going to name some institutions in this count...,1,2,204,2,206,,2
+2026-04-02T11:02:41.648309+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,64,consci,I am going to name some institutions in this count...,1,3,197,1,198,,3
+2026-04-02T11:02:42.162684+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,66,consci,I am going to name some institutions in this count...,1,1,201,1,202,,1
+2026-04-02T11:02:42.255045+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,67,affrmact,Some people say that because of past discriminatio...,1,1,201,2,203,,1
+2026-04-02T11:02:42.311654+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,66,conpress,I am going to name some institutions in this count...,1,2,200,2,202,,2
+2026-04-02T11:02:42.915280+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,64,affrmact,Some people say that because of past discriminatio...,1,4,214,2,216,,4
+2026-04-02T11:02:42.996513+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,46,affrmact,Some people say that because of past discriminatio...,1,3,227,2,229,,3
+2026-04-02T11:02:43.077649+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,66,eqwlth,Some people think that the government in Washingto...,1,3,311,2,313,,3
+2026-04-02T11:02:43.231379+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,66,affrmact,Some people say that because of past discriminatio...,1,2,218,2,220,,2
+2026-04-02T11:02:43.623571+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,67,consci,I am going to name some institutions in this count...,1,1,184,2,186,,1
+2026-04-02T11:02:43.640535+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,68,affrmact,Some people say that because of past discriminatio...,1,2,219,2,221,,2
+2026-04-02T11:02:43.684615+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,67,eqwlth,Some people think that the government in Washingto...,1,1,294,2,296,,1
+2026-04-02T11:02:43.861625+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,68,confed,I am going to name some institutions in this count...,1,2,205,1,206,,2
+2026-04-02T11:02:43.956706+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,68,conpress,I am going to name some institutions in this count...,1,2,201,2,203,,2
+2026-04-02T11:02:44.080077+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,69,affrmact,Some people say that because of past discriminatio...,1,1,197,2,199,,1
+2026-04-02T11:02:44.276508+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,69,confed,I am going to name some institutions in this count...,1,3,183,2,185,,3
+2026-04-02T11:02:44.439046+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,69,conpress,I am going to name some institutions in this count...,1,2,179,2,181,,2
+2026-04-02T11:02:44.569468+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,67,conpress,I am going to name some institutions in this count...,1,2,183,1,184,,2
+2026-04-02T11:02:44.611019+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,68,eqwlth,Some people think that the government in Washingto...,1,3,312,1,313,,3
+2026-04-02T11:02:44.760545+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,67,confed,I am going to name some institutions in this count...,1,2,187,2,189,,2
+2026-04-02T11:02:45.141389+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,70,confed,I am going to name some institutions in this count...,1,3,196,2,198,,3
+2026-04-02T11:02:45.287880+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,68,consci,I am going to name some institutions in this count...,1,1,202,2,204,,1
+2026-04-02T11:02:45.640411+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,69,eqwlth,Some people think that the government in Washingto...,1,1,290,2,292,,1
+2026-04-02T11:02:45.913195+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,70,eqwlth,Some people think that the government in Washingto...,1,5,303,2,305,,5
+2026-04-02T11:02:45.992582+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,70,consci,I am going to name some institutions in this count...,1,2,193,1,194,,2
+2026-04-02T11:02:46.520733+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,71,consci,I am going to name some institutions in this count...,1,1,209,2,211,,1
+2026-04-02T11:02:46.871642+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,71,confed,I am going to name some institutions in this count...,1,2,212,2,214,,2
+2026-04-02T11:02:46.991191+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,70,conpress,I am going to name some institutions in this count...,1,3,192,1,193,,3
+2026-04-02T11:02:47.194332+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,71,eqwlth,Some people think that the government in Washingto...,1,4,319,2,321,,4
+2026-04-02T11:02:47.205801+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,71,affrmact,Some people say that because of past discriminatio...,1,2,226,2,228,,2
+2026-04-02T11:02:47.210609+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,71,conpress,I am going to name some institutions in this count...,1,3,208,2,210,,3
+2026-04-02T11:02:47.246395+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,69,consci,I am going to name some institutions in this count...,1,1,180,1,181,,1
+2026-04-02T11:02:47.639937+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,72,affrmact,Some people say that because of past discriminatio...,1,3,224,2,226,,3
+2026-04-02T11:02:47.852041+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,73,eqwlth,Some people think that the government in Washingto...,1,6,316,2,318,,6
+2026-04-02T11:02:47.945479+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,72,consci,I am going to name some institutions in this count...,1,2,207,1,208,,2
+2026-04-02T11:02:48.020149+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,72,eqwlth,Some people think that the government in Washingto...,1,5,317,2,319,,5
+2026-04-02T11:02:48.106086+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,72,confed,I am going to name some institutions in this count...,1,3,210,2,212,,3
+2026-04-02T11:02:48.274685+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,72,conpress,I am going to name some institutions in this count...,1,3,206,2,208,,3
+2026-04-02T11:02:48.370289+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,74,affrmact,Some people say that because of past discriminatio...,1,1,223,2,225,,1
+2026-04-02T11:02:48.375358+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,73,conpress,I am going to name some institutions in this count...,1,3,205,2,207,,3
+2026-04-02T11:02:48.878493+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,74,confed,I am going to name some institutions in this count...,1,3,209,2,211,,3
+2026-04-02T11:02:49.057790+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,74,conpress,I am going to name some institutions in this count...,1,2,205,1,206,,2
+2026-04-02T11:02:49.318452+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,75,affrmact,Some people say that because of past discriminatio...,1,3,230,2,232,,3
+2026-04-02T11:02:49.748592+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,75,confed,I am going to name some institutions in this count...,1,3,216,2,218,,3
+2026-04-02T11:02:50.011415+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,70,affrmact,Some people say that because of past discriminatio...,1,3,210,2,212,,3
+2026-04-02T11:02:50.299240+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,73,confed,I am going to name some institutions in this count...,1,3,209,1,210,,3
+2026-04-02T11:02:50.685879+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,75,consci,I am going to name some institutions in this count...,1,1,213,1,214,,1
+2026-04-02T11:02:50.943906+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,73,consci,I am going to name some institutions in this count...,1,2,206,1,207,,2
+2026-04-02T11:02:51.044696+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,74,eqwlth,Some people think that the government in Washingto...,1,1,316,1,317,,1
+2026-04-02T11:02:51.482663+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,76,affrmact,Some people say that because of past discriminatio...,1,1,226,2,228,,1
+2026-04-02T11:02:51.698246+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,76,eqwlth,Some people think that the government in Washingto...,1,1,319,2,321,,1
+2026-04-02T11:02:51.857513+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,76,confed,I am going to name some institutions in this count...,1,3,212,2,214,,3
+2026-04-02T11:02:51.988624+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,75,eqwlth,Some people think that the government in Washingto...,1,3,323,2,325,,3
+2026-04-02T11:02:52.240685+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,77,affrmact,Some people say that because of past discriminatio...,1,3,218,2,220,,3
+2026-04-02T11:02:52.478015+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,77,confed,I am going to name some institutions in this count...,1,2,204,2,206,,2
+2026-04-02T11:02:53.141542+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,73,affrmact,Some people say that because of past discriminatio...,1,4,223,1,224,,4
+2026-04-02T11:02:53.187795+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,75,conpress,I am going to name some institutions in this count...,1,3,212,2,214,,3
+2026-04-02T11:02:53.371506+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,77,conpress,I am going to name some institutions in this count...,1,3,200,2,202,,3
+2026-04-02T11:02:53.416362+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,76,consci,I am going to name some institutions in this count...,1,1,209,1,210,,1
+2026-04-02T11:02:53.591474+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,77,eqwlth,Some people think that the government in Washingto...,1,5,311,2,313,,5
+2026-04-02T11:02:54.178168+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,77,consci,I am going to name some institutions in this count...,1,1,201,1,202,,1
+2026-04-02T11:02:54.642312+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,78,conpress,I am going to name some institutions in this count...,1,2,201,2,203,,2
+2026-04-02T11:02:54.682839+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,79,affrmact,Some people say that because of past discriminatio...,1,4,203,2,205,,4
+2026-04-02T11:02:55.029897+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,78,affrmact,Some people say that because of past discriminatio...,1,1,219,1,220,,1
+2026-04-02T11:02:55.293663+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,78,eqwlth,Some people think that the government in Washingto...,1,1,312,2,314,,1
+2026-04-02T11:02:55.897286+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,79,confed,I am going to name some institutions in this count...,1,3,189,2,191,,3
+2026-04-02T11:02:55.950583+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,76,conpress,I am going to name some institutions in this count...,1,3,208,2,210,,3
+2026-04-02T11:02:56.606990+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,80,eqwlth,Some people think that the government in Washingto...,1,1,315,1,316,,1
+2026-04-02T11:02:56.619175+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,79,eqwlth,Some people think that the government in Washingto...,1,7,296,2,298,,7
+2026-04-02T11:02:56.623984+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,80,affrmact,Some people say that because of past discriminatio...,1,1,222,1,223,,1
+2026-04-02T11:02:57.123841+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,79,conpress,I am going to name some institutions in this count...,1,3,185,2,187,,3
+2026-04-02T11:02:57.407225+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,79,consci,I am going to name some institutions in this count...,1,2,186,2,188,,2
+2026-04-02T11:02:57.602782+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,81,affrmact,Some people say that because of past discriminatio...,1,4,217,2,219,,4
+2026-04-02T11:02:57.856113+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,78,consci,I am going to name some institutions in this count...,1,1,202,2,204,,1
+2026-04-02T11:02:57.861197+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,78,confed,I am going to name some institutions in this count...,1,3,205,2,207,,3
+2026-04-02T11:02:58.313196+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,81,confed,I am going to name some institutions in this count...,1,3,203,2,205,,3
+2026-04-02T11:02:58.383314+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,81,conpress,I am going to name some institutions in this count...,1,3,199,2,201,,3
+2026-04-02T11:02:58.433211+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,81,consci,I am going to name some institutions in this count...,1,3,200,2,202,,3
+2026-04-02T11:02:58.731985+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,82,affrmact,Some people say that because of past discriminatio...,1,4,224,2,226,,4
+2026-04-02T11:02:58.905836+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,80,confed,I am going to name some institutions in this count...,1,3,208,1,209,,3
+2026-04-02T11:02:59.099628+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,82,conpress,I am going to name some institutions in this count...,1,3,206,2,208,,3
+2026-04-02T11:02:59.588442+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,82,eqwlth,Some people think that the government in Washingto...,1,7,317,2,319,,7
+2026-04-02T11:02:59.766744+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,82,confed,I am going to name some institutions in this count...,1,3,210,1,211,,3
+2026-04-02T11:02:59.890709+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,81,eqwlth,Some people think that the government in Washingto...,1,7,310,2,312,,7
+2026-04-02T11:03:00.020108+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,83,eqwlth,Some people think that the government in Washingto...,1,1,302,2,304,,1
+2026-04-02T11:03:00.194003+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,83,confed,I am going to name some institutions in this count...,1,2,195,2,197,,2
+2026-04-02T11:03:00.539600+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,83,consci,I am going to name some institutions in this count...,1,1,192,2,194,,1
+2026-04-02T11:03:00.610946+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,84,affrmact,Some people say that because of past discriminatio...,1,3,226,2,228,,3
+2026-04-02T11:03:00.797500+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,82,consci,I am going to name some institutions in this count...,1,3,207,2,209,,3
+2026-04-02T11:03:00.855296+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,83,conpress,I am going to name some institutions in this count...,1,2,191,2,193,,2
+2026-04-02T11:03:01.076340+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,84,eqwlth,Some people think that the government in Washingto...,1,1,319,2,321,,1
+2026-04-02T11:03:01.629996+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,84,consci,I am going to name some institutions in this count...,1,2,209,1,210,,2
+2026-04-02T11:03:01.735957+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,84,confed,I am going to name some institutions in this count...,1,3,212,2,214,,3
+2026-04-02T11:03:02.045707+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,85,eqwlth,Some people think that the government in Washingto...,1,4,292,2,294,,4
+2026-04-02T11:03:02.206376+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,84,conpress,I am going to name some institutions in this count...,1,3,208,2,210,,3
+2026-04-02T11:03:02.388339+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,80,consci,I am going to name some institutions in this count...,1,1,205,2,207,,1
+2026-04-02T11:03:02.474453+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,85,affrmact,Some people say that because of past discriminatio...,1,3,199,1,200,,3
+2026-04-02T11:03:02.529596+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,80,conpress,I am going to name some institutions in this count...,1,2,204,2,206,,2
+2026-04-02T11:03:02.696931+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,85,conpress,I am going to name some institutions in this count...,1,2,181,1,182,,2
+2026-04-02T11:03:02.823625+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,86,affrmact,Some people say that because of past discriminatio...,1,2,225,2,227,,2
+2026-04-02T11:03:02.831128+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,85,consci,I am going to name some institutions in this count...,1,1,182,2,184,,1
+2026-04-02T11:03:02.930918+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,86,eqwlth,Some people think that the government in Washingto...,1,1,318,2,320,,1
+2026-04-02T11:03:03.073894+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,86,confed,I am going to name some institutions in this count...,1,2,211,2,213,,2
+2026-04-02T11:03:03.772305+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,85,confed,I am going to name some institutions in this count...,1,2,185,1,186,,2
+2026-04-02T11:03:04.168794+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,86,consci,I am going to name some institutions in this count...,1,1,208,2,210,,1
+2026-04-02T11:03:04.316925+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,87,confed,I am going to name some institutions in this count...,1,3,204,2,206,,3
+2026-04-02T11:03:04.665413+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,87,eqwlth,Some people think that the government in Washingto...,1,5,311,2,313,,5
+2026-04-02T11:03:04.904483+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,87,affrmact,Some people say that because of past discriminatio...,1,3,218,2,220,,3
+2026-04-02T11:03:04.936558+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,83,affrmact,Some people say that because of past discriminatio...,1,1,209,1,210,,1
+2026-04-02T11:03:05.071808+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,87,conpress,I am going to name some institutions in this count...,1,3,200,2,202,,3
+2026-04-02T11:03:05.603044+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,88,consci,I am going to name some institutions in this count...,1,1,198,2,200,,1
+2026-04-02T11:03:05.972337+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,87,consci,I am going to name some institutions in this count...,1,2,201,2,203,,2
+2026-04-02T11:03:06.236695+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,88,conpress,I am going to name some institutions in this count...,1,2,197,1,198,,2
+2026-04-02T11:03:06.255958+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,89,affrmact,Some people say that because of past discriminatio...,1,3,221,2,223,,3
+2026-04-02T11:03:06.503440+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,86,conpress,I am going to name some institutions in this count...,1,2,207,1,208,,2
+2026-04-02T11:03:06.537132+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,89,eqwlth,Some people think that the government in Washingto...,1,5,314,2,316,,5
+2026-04-02T11:03:06.854372+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,88,eqwlth,Some people think that the government in Washingto...,1,1,308,2,310,,1
+2026-04-02T11:03:07.014836+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,90,affrmact,Some people say that because of past discriminatio...,1,1,221,2,223,,1
+2026-04-02T11:03:07.091095+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,89,confed,I am going to name some institutions in this count...,1,3,207,2,209,,3
+2026-04-02T11:03:07.512768+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,90,eqwlth,Some people think that the government in Washingto...,1,1,314,1,315,,1
+2026-04-02T11:03:07.651062+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,90,confed,I am going to name some institutions in this count...,1,3,207,2,209,,3
+2026-04-02T11:03:07.771974+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,90,conpress,I am going to name some institutions in this count...,1,1,203,2,205,,1
+2026-04-02T11:03:07.795537+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,89,consci,I am going to name some institutions in this count...,1,2,204,2,206,,2
+2026-04-02T11:03:07.986002+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,90,consci,I am going to name some institutions in this count...,1,1,204,2,206,,1
+2026-04-02T11:03:08.184017+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,88,confed,I am going to name some institutions in this count...,1,2,201,1,202,,2
+2026-04-02T11:03:08.346467+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,89,conpress,I am going to name some institutions in this count...,1,3,203,2,205,,3
+2026-04-02T11:03:08.428415+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,91,conpress,I am going to name some institutions in this count...,1,2,203,2,205,,2
+2026-04-02T11:03:08.475422+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,91,confed,I am going to name some institutions in this count...,1,2,207,2,209,,2
+2026-04-02T11:03:08.782051+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,91,consci,I am going to name some institutions in this count...,1,1,204,2,206,,1
+2026-04-02T11:03:08.832886+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,91,affrmact,Some people say that because of past discriminatio...,1,2,221,2,223,,2
+2026-04-02T11:03:09.037835+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,88,affrmact,Some people say that because of past discriminatio...,1,2,215,2,217,,2
+2026-04-02T11:03:09.099906+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,92,confed,I am going to name some institutions in this count...,1,3,201,2,203,,3
+2026-04-02T11:03:09.106550+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,92,eqwlth,Some people think that the government in Washingto...,1,7,308,1,309,,7
+2026-04-02T11:03:09.295870+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,92,consci,I am going to name some institutions in this count...,1,2,198,2,200,,2
+2026-04-02T11:03:09.943980+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,93,affrmact,Some people say that because of past discriminatio...,1,3,224,2,226,,3
+2026-04-02T11:03:09.951383+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,93,confed,I am going to name some institutions in this count...,1,2,210,2,212,,2
+2026-04-02T11:03:10.605110+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,93,consci,I am going to name some institutions in this count...,1,2,207,2,209,,2
+2026-04-02T11:03:11.049698+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,94,affrmact,Some people say that because of past discriminatio...,1,3,202,2,204,,3
+2026-04-02T11:03:11.207312+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,93,eqwlth,Some people think that the government in Washingto...,1,3,317,2,319,,3
+2026-04-02T11:03:11.492441+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,94,confed,I am going to name some institutions in this count...,1,3,188,2,190,,3
+2026-04-02T11:03:12.783411+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,93,conpress,I am going to name some institutions in this count...,1,2,206,2,208,,2
+2026-04-02T11:03:12.949502+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,91,eqwlth,Some people think that the government in Washingto...,1,1,314,2,316,,1
+2026-04-02T11:03:13.010293+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,92,conpress,I am going to name some institutions in this count...,1,3,197,1,198,,3
+2026-04-02T11:03:13.572980+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,94,eqwlth,Some people think that the government in Washingto...,1,3,295,1,296,,3
+2026-04-02T11:03:13.719105+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,95,eqwlth,Some people think that the government in Washingto...,1,1,310,2,312,,1
+2026-04-02T11:03:13.833692+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,95,affrmact,Some people say that because of past discriminatio...,1,2,217,2,219,,2
+2026-04-02T11:03:13.886572+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,94,consci,I am going to name some institutions in this count...,1,1,185,2,187,,1
+2026-04-02T11:03:14.103794+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,94,conpress,I am going to name some institutions in this count...,1,2,184,1,185,,2
+2026-04-02T11:03:14.250890+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,95,consci,I am going to name some institutions in this count...,1,1,200,2,202,,1
+2026-04-02T11:03:14.389167+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,95,confed,I am going to name some institutions in this count...,1,3,203,2,205,,3
+2026-04-02T11:03:14.498508+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,96,affrmact,Some people say that because of past discriminatio...,1,2,228,2,230,,2
+2026-04-02T11:03:14.538944+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,96,eqwlth,Some people think that the government in Washingto...,1,4,321,1,322,,4
+2026-04-02T11:03:14.813245+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,96,confed,I am going to name some institutions in this count...,1,3,214,2,216,,3
+2026-04-02T11:03:14.987342+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,97,eqwlth,Some people think that the government in Washingto...,1,1,313,2,315,,1
+2026-04-02T11:03:14.993117+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,96,consci,I am going to name some institutions in this count...,1,1,211,2,213,,1
+2026-04-02T11:03:15.540024+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,92,affrmact,Some people say that because of past discriminatio...,1,4,215,2,217,,4
+2026-04-02T11:03:16.206197+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,98,affrmact,Some people say that because of past discriminatio...,1,4,193,1,194,,4
+2026-04-02T11:03:16.407915+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,95,conpress,I am going to name some institutions in this count...,1,2,199,1,200,,2
+2026-04-02T11:03:16.673678+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,97,affrmact,Some people say that because of past discriminatio...,1,1,220,1,221,,1
+2026-04-02T11:03:17.197242+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,97,confed,I am going to name some institutions in this count...,1,3,206,1,207,,3
+2026-04-02T11:03:17.558735+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,98,confed,I am going to name some institutions in this count...,1,2,179,2,181,,2
+2026-04-02T11:03:17.571456+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,97,consci,I am going to name some institutions in this count...,1,1,203,2,205,,1
+2026-04-02T11:03:17.743688+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,96,conpress,I am going to name some institutions in this count...,1,3,210,2,212,,3
+2026-04-02T11:03:17.759601+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,98,conpress,I am going to name some institutions in this count...,1,3,175,2,177,,3
+2026-04-02T11:03:17.915689+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,98,eqwlth,Some people think that the government in Washingto...,1,5,286,1,287,,5
+2026-04-02T11:03:18.178452+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,99,conpress,I am going to name some institutions in this count...,1,3,210,2,212,,3
+2026-04-02T11:03:18.195169+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,99,eqwlth,Some people think that the government in Washingto...,1,5,321,2,323,,5
+2026-04-02T11:03:18.973060+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,97,conpress,I am going to name some institutions in this count...,1,3,202,2,204,,3
+2026-04-02T11:03:19.398486+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,100,affrmact,Some people say that because of past discriminatio...,1,2,226,2,228,,2
+2026-04-02T11:03:19.783745+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,99,confed,I am going to name some institutions in this count...,1,3,214,2,216,,3
+2026-04-02T11:03:20.371955+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,100,eqwlth,Some people think that the government in Washingto...,1,2,319,1,320,,2
+2026-04-02T11:03:20.458048+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,100,consci,I am going to name some institutions in this count...,1,1,209,2,211,,1
+2026-04-02T11:03:20.748884+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,99,consci,I am going to name some institutions in this count...,1,2,211,1,212,,2
+2026-04-02T11:03:20.891286+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,100,confed,I am going to name some institutions in this count...,1,3,212,2,214,,3
+2026-04-02T11:03:21.033354+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,74,consci,I am going to name some institutions in this count...,1,1,206,2,208,,1
+2026-04-02T11:03:22.675582+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,100,conpress,I am going to name some institutions in this count...,1,3,208,1,209,,3
+2026-04-02T11:03:23.785965+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,98,consci,I am going to name some institutions in this count...,1,1,176,2,178,,1
+2026-04-02T11:03:24.013923+00:00,qwen/qwen3-235b-a22b-2507,gss2024_personas,99,affrmact,Some people say that because of past discriminatio...,1,3,228,2,230,,3

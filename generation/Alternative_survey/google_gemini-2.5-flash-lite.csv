@@ -1,0 +1,305 @@
+timestamp,model,persona_id,variable,question_short,run,answer,prompt_tokens,completion_tokens,total_tokens,error,raw_response
+2026-04-01T20:26:28.852684+00:00,google/gemini-2.5-flash-lite,1,dummy_abortion,Please tell me whether or not you think it should ...,1,1.0,167,1,168,,1
+2026-04-01T20:26:29.212614+00:00,google/gemini-2.5-flash-lite,1,dummy_gunlaw,Would you favor or oppose a law which would requir...,1,1.0,159,1,160,,1
+2026-04-01T20:26:29.557807+00:00,google/gemini-2.5-flash-lite,1,dummy_trust,"Generally speaking, would you say that most people...",1,2.0,168,1,169,,2
+2026-04-01T20:26:29.932073+00:00,google/gemini-2.5-flash-lite,2,dummy_abortion,Please tell me whether or not you think it should ...,1,1.0,170,1,171,,1
+2026-04-01T20:26:30.306734+00:00,google/gemini-2.5-flash-lite,2,dummy_gunlaw,Would you favor or oppose a law which would requir...,1,1.0,162,1,163,,1
+2026-04-01T20:26:31.122231+00:00,google/gemini-2.5-flash-lite,2,dummy_trust,"Generally speaking, would you say that most people...",1,1.0,171,1,172,,1
+2026-04-01T20:26:31.481684+00:00,google/gemini-2.5-flash-lite,3,dummy_abortion,Please tell me whether or not you think it should ...,1,1.0,169,1,170,,1
+2026-04-01T20:26:31.878625+00:00,google/gemini-2.5-flash-lite,3,dummy_gunlaw,Would you favor or oppose a law which would requir...,1,1.0,161,1,162,,1
+2026-04-01T20:26:32.712100+00:00,google/gemini-2.5-flash-lite,3,dummy_trust,"Generally speaking, would you say that most people...",1,2.0,170,1,171,,2
+2026-04-01T20:26:33.037256+00:00,google/gemini-2.5-flash-lite,4,dummy_abortion,Please tell me whether or not you think it should ...,1,1.0,180,1,181,,1
+2026-04-01T20:26:33.433335+00:00,google/gemini-2.5-flash-lite,4,dummy_gunlaw,Would you favor or oppose a law which would requir...,1,2.0,172,1,173,,2
+2026-04-01T20:26:33.871287+00:00,google/gemini-2.5-flash-lite,4,dummy_trust,"Generally speaking, would you say that most people...",1,2.0,181,1,182,,2
+2026-04-01T20:26:34.282451+00:00,google/gemini-2.5-flash-lite,5,dummy_abortion,Please tell me whether or not you think it should ...,1,1.0,177,1,178,,1
+2026-04-01T20:26:34.696106+00:00,google/gemini-2.5-flash-lite,5,dummy_gunlaw,Would you favor or oppose a law which would requir...,1,2.0,169,1,170,,2
+2026-04-01T20:26:35.075457+00:00,google/gemini-2.5-flash-lite,5,dummy_trust,"Generally speaking, would you say that most people...",1,2.0,178,1,179,,2
+2026-04-01T20:26:35.640232+00:00,google/gemini-2.5-flash-lite,6,dummy_abortion,Please tell me whether or not you think it should ...,1,2.0,167,1,168,,2
+2026-04-01T20:26:36.042597+00:00,google/gemini-2.5-flash-lite,6,dummy_gunlaw,Would you favor or oppose a law which would requir...,1,2.0,159,1,160,,2
+2026-04-01T20:26:36.431294+00:00,google/gemini-2.5-flash-lite,6,dummy_trust,"Generally speaking, would you say that most people...",1,2.0,168,1,169,,2
+2026-04-01T20:26:36.771374+00:00,google/gemini-2.5-flash-lite,7,dummy_abortion,Please tell me whether or not you think it should ...,1,1.0,178,1,179,,1
+2026-04-01T20:26:37.091762+00:00,google/gemini-2.5-flash-lite,7,dummy_gunlaw,Would you favor or oppose a law which would requir...,1,1.0,170,1,171,,1
+2026-04-01T20:26:37.471062+00:00,google/gemini-2.5-flash-lite,7,dummy_trust,"Generally speaking, would you say that most people...",1,2.0,179,1,180,,2
+2026-04-01T20:26:37.818061+00:00,google/gemini-2.5-flash-lite,8,dummy_abortion,Please tell me whether or not you think it should ...,1,1.0,176,1,177,,1
+2026-04-01T20:26:38.251029+00:00,google/gemini-2.5-flash-lite,8,dummy_gunlaw,Would you favor or oppose a law which would requir...,1,1.0,168,1,169,,1
+2026-04-01T20:26:38.636376+00:00,google/gemini-2.5-flash-lite,8,dummy_trust,"Generally speaking, would you say that most people...",1,2.0,177,1,178,,2
+2026-04-01T20:26:38.985752+00:00,google/gemini-2.5-flash-lite,9,dummy_abortion,Please tell me whether or not you think it should ...,1,1.0,173,1,174,,1
+2026-04-01T20:26:39.299041+00:00,google/gemini-2.5-flash-lite,9,dummy_gunlaw,Would you favor or oppose a law which would requir...,1,1.0,165,1,166,,1
+2026-04-01T20:26:39.730527+00:00,google/gemini-2.5-flash-lite,9,dummy_trust,"Generally speaking, would you say that most people...",1,2.0,174,1,175,,2
+2026-04-01T20:26:40.072405+00:00,google/gemini-2.5-flash-lite,10,dummy_abortion,Please tell me whether or not you think it should ...,1,1.0,172,1,173,,1
+2026-04-01T20:26:40.433095+00:00,google/gemini-2.5-flash-lite,10,dummy_gunlaw,Would you favor or oppose a law which would requir...,1,1.0,164,1,165,,1
+2026-04-01T20:26:40.832227+00:00,google/gemini-2.5-flash-lite,10,dummy_trust,"Generally speaking, would you say that most people...",1,1.0,173,1,174,,1
+2026-04-01T20:26:41.201596+00:00,google/gemini-2.5-flash-lite,11,dummy_abortion,Please tell me whether or not you think it should ...,1,1.0,182,1,183,,1
+2026-04-01T20:26:42.053056+00:00,google/gemini-2.5-flash-lite,11,dummy_gunlaw,Would you favor or oppose a law which would requir...,1,1.0,174,1,175,,1
+2026-04-01T20:26:42.866027+00:00,google/gemini-2.5-flash-lite,11,dummy_trust,"Generally speaking, would you say that most people...",1,2.0,183,1,184,,2
+2026-04-01T20:26:43.214491+00:00,google/gemini-2.5-flash-lite,12,dummy_abortion,Please tell me whether or not you think it should ...,1,1.0,171,1,172,,1
+2026-04-01T20:26:43.573404+00:00,google/gemini-2.5-flash-lite,12,dummy_gunlaw,Would you favor or oppose a law which would requir...,1,2.0,163,1,164,,2
+2026-04-01T20:26:43.925090+00:00,google/gemini-2.5-flash-lite,12,dummy_trust,"Generally speaking, would you say that most people...",1,2.0,172,1,173,,2
+2026-04-01T20:26:44.250267+00:00,google/gemini-2.5-flash-lite,13,dummy_abortion,Please tell me whether or not you think it should ...,1,1.0,170,1,171,,1
+2026-04-01T20:26:44.564010+00:00,google/gemini-2.5-flash-lite,13,dummy_gunlaw,Would you favor or oppose a law which would requir...,1,2.0,162,1,163,,2
+2026-04-01T20:26:45.447983+00:00,google/gemini-2.5-flash-lite,13,dummy_trust,"Generally speaking, would you say that most people...",1,2.0,171,1,172,,2
+2026-04-01T20:26:45.835802+00:00,google/gemini-2.5-flash-lite,14,dummy_abortion,Please tell me whether or not you think it should ...,1,1.0,170,1,171,,1
+2026-04-01T20:26:46.644618+00:00,google/gemini-2.5-flash-lite,14,dummy_gunlaw,Would you favor or oppose a law which would requir...,1,1.0,162,1,163,,1
+2026-04-01T20:26:47.083376+00:00,google/gemini-2.5-flash-lite,14,dummy_trust,"Generally speaking, would you say that most people...",1,2.0,171,1,172,,2
+2026-04-01T20:26:47.424519+00:00,google/gemini-2.5-flash-lite,15,dummy_abortion,Please tell me whether or not you think it should ...,1,1.0,168,1,169,,1
+2026-04-01T20:26:47.746526+00:00,google/gemini-2.5-flash-lite,15,dummy_gunlaw,Would you favor or oppose a law which would requir...,1,1.0,160,1,161,,1
+2026-04-01T20:26:48.203406+00:00,google/gemini-2.5-flash-lite,15,dummy_trust,"Generally speaking, would you say that most people...",1,2.0,169,1,170,,2
+2026-04-01T20:26:48.574067+00:00,google/gemini-2.5-flash-lite,16,dummy_abortion,Please tell me whether or not you think it should ...,1,1.0,183,1,184,,1
+2026-04-01T20:26:48.944739+00:00,google/gemini-2.5-flash-lite,16,dummy_gunlaw,Would you favor or oppose a law which would requir...,1,1.0,175,1,176,,1
+2026-04-01T20:26:49.292012+00:00,google/gemini-2.5-flash-lite,16,dummy_trust,"Generally speaking, would you say that most people...",1,2.0,184,1,185,,2
+2026-04-01T20:26:49.731766+00:00,google/gemini-2.5-flash-lite,17,dummy_abortion,Please tell me whether or not you think it should ...,1,1.0,182,1,183,,1
+2026-04-01T20:26:50.078780+00:00,google/gemini-2.5-flash-lite,17,dummy_gunlaw,Would you favor or oppose a law which would requir...,1,2.0,174,1,175,,2
+2026-04-01T20:26:50.521286+00:00,google/gemini-2.5-flash-lite,17,dummy_trust,"Generally speaking, would you say that most people...",1,2.0,183,1,184,,2
+2026-04-01T20:26:50.925886+00:00,google/gemini-2.5-flash-lite,18,dummy_abortion,Please tell me whether or not you think it should ...,1,1.0,183,1,184,,1
+2026-04-01T20:26:51.811564+00:00,google/gemini-2.5-flash-lite,18,dummy_gunlaw,Would you favor or oppose a law which would requir...,1,1.0,175,1,176,,1
+2026-04-01T20:26:52.188602+00:00,google/gemini-2.5-flash-lite,18,dummy_trust,"Generally speaking, would you say that most people...",1,2.0,184,1,185,,2
+2026-04-01T20:26:53.015208+00:00,google/gemini-2.5-flash-lite,19,dummy_abortion,Please tell me whether or not you think it should ...,1,1.0,173,1,174,,1
+2026-04-01T20:26:53.835713+00:00,google/gemini-2.5-flash-lite,19,dummy_gunlaw,Would you favor or oppose a law which would requir...,1,1.0,165,1,166,,1
+2026-04-01T20:26:54.223208+00:00,google/gemini-2.5-flash-lite,19,dummy_trust,"Generally speaking, would you say that most people...",1,2.0,174,1,175,,2
+2026-04-01T20:26:55.042296+00:00,google/gemini-2.5-flash-lite,20,dummy_abortion,Please tell me whether or not you think it should ...,1,1.0,174,1,175,,1
+2026-04-01T20:26:55.372326+00:00,google/gemini-2.5-flash-lite,20,dummy_gunlaw,Would you favor or oppose a law which would requir...,1,1.0,166,1,167,,1
+2026-04-01T20:26:55.862419+00:00,google/gemini-2.5-flash-lite,20,dummy_trust,"Generally speaking, would you say that most people...",1,2.0,175,1,176,,2
+2026-04-01T20:26:56.384625+00:00,google/gemini-2.5-flash-lite,21,dummy_abortion,Please tell me whether or not you think it should ...,1,1.0,182,1,183,,1
+2026-04-01T20:26:56.708289+00:00,google/gemini-2.5-flash-lite,21,dummy_gunlaw,Would you favor or oppose a law which would requir...,1,1.0,174,1,175,,1
+2026-04-01T20:26:57.493845+00:00,google/gemini-2.5-flash-lite,21,dummy_trust,"Generally speaking, would you say that most people...",1,2.0,183,1,184,,2
+2026-04-01T20:26:57.829460+00:00,google/gemini-2.5-flash-lite,22,dummy_abortion,Please tell me whether or not you think it should ...,1,1.0,170,1,171,,1
+2026-04-01T20:26:58.318101+00:00,google/gemini-2.5-flash-lite,22,dummy_gunlaw,Would you favor or oppose a law which would requir...,1,1.0,162,1,163,,1
+2026-04-01T20:26:58.676757+00:00,google/gemini-2.5-flash-lite,22,dummy_trust,"Generally speaking, would you say that most people...",1,2.0,171,1,172,,2
+2026-04-01T20:26:58.998403+00:00,google/gemini-2.5-flash-lite,23,dummy_abortion,Please tell me whether or not you think it should ...,1,1.0,171,1,172,,1
+2026-04-01T20:26:59.435377+00:00,google/gemini-2.5-flash-lite,23,dummy_gunlaw,Would you favor or oppose a law which would requir...,1,1.0,163,1,164,,1
+2026-04-01T20:26:59.915764+00:00,google/gemini-2.5-flash-lite,23,dummy_trust,"Generally speaking, would you say that most people...",1,2.0,172,1,173,,2
+2026-04-01T20:27:01.683493+00:00,google/gemini-2.5-flash-lite,24,dummy_abortion,Please tell me whether or not you think it should ...,1,1.0,169,1,170,,1
+2026-04-01T20:27:02.107660+00:00,google/gemini-2.5-flash-lite,24,dummy_gunlaw,Would you favor or oppose a law which would requir...,1,2.0,161,1,162,,2
+2026-04-01T20:27:02.512678+00:00,google/gemini-2.5-flash-lite,24,dummy_trust,"Generally speaking, would you say that most people...",1,2.0,170,1,171,,2
+2026-04-01T20:27:02.894550+00:00,google/gemini-2.5-flash-lite,25,dummy_abortion,Please tell me whether or not you think it should ...,1,1.0,171,1,172,,1
+2026-04-01T20:27:03.341491+00:00,google/gemini-2.5-flash-lite,25,dummy_gunlaw,Would you favor or oppose a law which would requir...,1,1.0,163,1,164,,1
+2026-04-01T20:27:03.690249+00:00,google/gemini-2.5-flash-lite,25,dummy_trust,"Generally speaking, would you say that most people...",1,2.0,172,1,173,,2
+2026-04-01T20:27:04.054763+00:00,google/gemini-2.5-flash-lite,26,dummy_abortion,Please tell me whether or not you think it should ...,1,1.0,169,1,170,,1
+2026-04-01T20:27:04.388189+00:00,google/gemini-2.5-flash-lite,26,dummy_gunlaw,Would you favor or oppose a law which would requir...,1,1.0,161,1,162,,1
+2026-04-01T20:27:04.785988+00:00,google/gemini-2.5-flash-lite,26,dummy_trust,"Generally speaking, would you say that most people...",1,2.0,170,1,171,,2
+2026-04-01T20:27:05.155396+00:00,google/gemini-2.5-flash-lite,27,dummy_abortion,Please tell me whether or not you think it should ...,1,1.0,176,1,177,,1
+2026-04-01T20:27:05.541818+00:00,google/gemini-2.5-flash-lite,27,dummy_gunlaw,Would you favor or oppose a law which would requir...,1,1.0,168,1,169,,1
+2026-04-01T20:27:05.910850+00:00,google/gemini-2.5-flash-lite,27,dummy_trust,"Generally speaking, would you say that most people...",1,2.0,177,1,178,,2
+2026-04-01T20:27:06.233395+00:00,google/gemini-2.5-flash-lite,28,dummy_abortion,Please tell me whether or not you think it should ...,1,1.0,170,1,171,,1
+2026-04-01T20:27:06.628269+00:00,google/gemini-2.5-flash-lite,28,dummy_gunlaw,Would you favor or oppose a law which would requir...,1,1.0,162,1,163,,1
+2026-04-01T20:27:07.836209+00:00,google/gemini-2.5-flash-lite,28,dummy_trust,"Generally speaking, would you say that most people...",1,2.0,171,1,172,,2
+2026-04-01T20:27:08.197629+00:00,google/gemini-2.5-flash-lite,29,dummy_abortion,Please tell me whether or not you think it should ...,1,1.0,177,1,178,,1
+2026-04-01T20:27:08.574032+00:00,google/gemini-2.5-flash-lite,29,dummy_gunlaw,Would you favor or oppose a law which would requir...,1,1.0,169,1,170,,1
+2026-04-01T20:27:08.955820+00:00,google/gemini-2.5-flash-lite,29,dummy_trust,"Generally speaking, would you say that most people...",1,2.0,178,1,179,,2
+2026-04-01T20:27:09.408825+00:00,google/gemini-2.5-flash-lite,30,dummy_abortion,Please tell me whether or not you think it should ...,1,1.0,175,1,176,,1
+2026-04-01T20:27:09.843384+00:00,google/gemini-2.5-flash-lite,30,dummy_gunlaw,Would you favor or oppose a law which would requir...,1,1.0,167,1,168,,1
+2026-04-01T20:27:10.146249+00:00,google/gemini-2.5-flash-lite,30,dummy_trust,"Generally speaking, would you say that most people...",1,2.0,176,1,177,,2
+2026-04-01T20:27:10.508197+00:00,google/gemini-2.5-flash-lite,31,dummy_abortion,Please tell me whether or not you think it should ...,1,1.0,169,1,170,,1
+2026-04-01T20:27:10.910990+00:00,google/gemini-2.5-flash-lite,31,dummy_gunlaw,Would you favor or oppose a law which would requir...,1,1.0,161,1,162,,1
+2026-04-01T20:27:11.317552+00:00,google/gemini-2.5-flash-lite,31,dummy_trust,"Generally speaking, would you say that most people...",1,2.0,170,1,171,,2
+2026-04-01T20:27:12.390104+00:00,google/gemini-2.5-flash-lite,32,dummy_abortion,Please tell me whether or not you think it should ...,1,1.0,171,1,172,,1
+2026-04-01T20:27:12.876795+00:00,google/gemini-2.5-flash-lite,32,dummy_gunlaw,Would you favor or oppose a law which would requir...,1,2.0,163,1,164,,2
+2026-04-01T20:27:13.240156+00:00,google/gemini-2.5-flash-lite,32,dummy_trust,"Generally speaking, would you say that most people...",1,2.0,172,1,173,,2
+2026-04-01T20:27:13.621810+00:00,google/gemini-2.5-flash-lite,33,dummy_abortion,Please tell me whether or not you think it should ...,1,1.0,169,1,170,,1
+2026-04-01T20:27:14.268597+00:00,google/gemini-2.5-flash-lite,33,dummy_gunlaw,Would you favor or oppose a law which would requir...,1,,161,50,211,"Parse error: The provided information contains a contradiction: ""I am a strong Republican"" and ""I am extremely liberal."" These are opposing political ideologies. To provide a meaningful answer, I need clarification on which to prioritize or if both statements are intended to be represented.","The provided information contains a contradiction: ""I am a strong Republican"" and ""I am extremely liberal."" These are opposing political ideologies. To provide a meaningful answer, I need clarification on which to prioritize or if both statements are intended to be represented."
+2026-04-01T20:27:14.585782+00:00,google/gemini-2.5-flash-lite,33,dummy_trust,"Generally speaking, would you say that most people...",1,2.0,170,1,171,,2
+2026-04-01T20:27:15.020264+00:00,google/gemini-2.5-flash-lite,34,dummy_abortion,Please tell me whether or not you think it should ...,1,1.0,170,1,171,,1
+2026-04-01T20:27:15.437268+00:00,google/gemini-2.5-flash-lite,34,dummy_gunlaw,Would you favor or oppose a law which would requir...,1,1.0,162,1,163,,1
+2026-04-01T20:27:16.149989+00:00,google/gemini-2.5-flash-lite,34,dummy_trust,"Generally speaking, would you say that most people...",1,3.0,171,1,172,,3
+2026-04-01T20:27:16.613328+00:00,google/gemini-2.5-flash-lite,35,dummy_abortion,Please tell me whether or not you think it should ...,1,1.0,169,1,170,,1
+2026-04-01T20:27:48.053227+00:00,google/gemini-2.5-flash-lite,35,dummy_gunlaw,Would you favor or oppose a law which would requir...,1,1.0,161,1,162,,1
+2026-04-01T20:27:48.472956+00:00,google/gemini-2.5-flash-lite,35,dummy_trust,"Generally speaking, would you say that most people...",1,2.0,170,1,171,,2
+2026-04-01T20:27:49.581034+00:00,google/gemini-2.5-flash-lite,36,dummy_abortion,Please tell me whether or not you think it should ...,1,1.0,180,1,181,,1
+2026-04-01T20:27:49.983296+00:00,google/gemini-2.5-flash-lite,36,dummy_gunlaw,Would you favor or oppose a law which would requir...,1,1.0,172,1,173,,1
+2026-04-01T20:27:50.938179+00:00,google/gemini-2.5-flash-lite,36,dummy_trust,"Generally speaking, would you say that most people...",1,2.0,181,1,182,,2
+2026-04-01T20:27:51.340844+00:00,google/gemini-2.5-flash-lite,37,dummy_abortion,Please tell me whether or not you think it should ...,1,1.0,174,1,175,,1
+2026-04-01T20:27:51.681429+00:00,google/gemini-2.5-flash-lite,37,dummy_gunlaw,Would you favor or oppose a law which would requir...,1,1.0,166,1,167,,1
+2026-04-01T20:27:52.013789+00:00,google/gemini-2.5-flash-lite,37,dummy_trust,"Generally speaking, would you say that most people...",1,2.0,175,1,176,,2
+2026-04-01T20:27:53.377843+00:00,google/gemini-2.5-flash-lite,38,dummy_abortion,Please tell me whether or not you think it should ...,1,1.0,180,1,181,,1
+2026-04-01T20:27:53.722511+00:00,google/gemini-2.5-flash-lite,38,dummy_gunlaw,Would you favor or oppose a law which would requir...,1,2.0,172,1,173,,2
+2026-04-01T20:27:54.103067+00:00,google/gemini-2.5-flash-lite,38,dummy_trust,"Generally speaking, would you say that most people...",1,2.0,181,1,182,,2
+2026-04-01T20:27:54.488063+00:00,google/gemini-2.5-flash-lite,39,dummy_abortion,Please tell me whether or not you think it should ...,1,1.0,175,1,176,,1
+2026-04-01T20:27:54.863595+00:00,google/gemini-2.5-flash-lite,39,dummy_gunlaw,Would you favor or oppose a law which would requir...,1,1.0,167,1,168,,1
+2026-04-01T20:27:55.326282+00:00,google/gemini-2.5-flash-lite,39,dummy_trust,"Generally speaking, would you say that most people...",1,2.0,176,1,177,,2
+2026-04-01T20:27:55.718954+00:00,google/gemini-2.5-flash-lite,40,dummy_abortion,Please tell me whether or not you think it should ...,1,1.0,177,1,178,,1
+2026-04-01T20:27:56.073671+00:00,google/gemini-2.5-flash-lite,40,dummy_gunlaw,Would you favor or oppose a law which would requir...,1,1.0,169,1,170,,1
+2026-04-01T20:27:56.895051+00:00,google/gemini-2.5-flash-lite,40,dummy_trust,"Generally speaking, would you say that most people...",1,2.0,178,1,179,,2
+2026-04-01T20:27:57.245257+00:00,google/gemini-2.5-flash-lite,41,dummy_abortion,Please tell me whether or not you think it should ...,1,1.0,175,1,176,,1
+2026-04-01T20:27:57.626445+00:00,google/gemini-2.5-flash-lite,41,dummy_gunlaw,Would you favor or oppose a law which would requir...,1,1.0,167,1,168,,1
+2026-04-01T20:27:58.041072+00:00,google/gemini-2.5-flash-lite,41,dummy_trust,"Generally speaking, would you say that most people...",1,2.0,176,1,177,,2
+2026-04-01T20:27:58.460797+00:00,google/gemini-2.5-flash-lite,42,dummy_abortion,Please tell me whether or not you think it should ...,1,1.0,171,1,172,,1
+2026-04-01T20:27:58.915927+00:00,google/gemini-2.5-flash-lite,42,dummy_gunlaw,Would you favor or oppose a law which would requir...,1,1.0,163,1,164,,1
+2026-04-01T20:27:59.285564+00:00,google/gemini-2.5-flash-lite,42,dummy_trust,"Generally speaking, would you say that most people...",1,2.0,172,1,173,,2
+2026-04-01T20:27:59.745654+00:00,google/gemini-2.5-flash-lite,43,dummy_abortion,Please tell me whether or not you think it should ...,1,1.0,171,1,172,,1
+2026-04-01T20:28:00.147668+00:00,google/gemini-2.5-flash-lite,43,dummy_gunlaw,Would you favor or oppose a law which would requir...,1,1.0,163,1,164,,1
+2026-04-01T20:28:00.845761+00:00,google/gemini-2.5-flash-lite,43,dummy_trust,"Generally speaking, would you say that most people...",1,2.0,172,1,173,,2
+2026-04-01T20:28:01.682877+00:00,google/gemini-2.5-flash-lite,44,dummy_abortion,Please tell me whether or not you think it should ...,1,1.0,169,1,170,,1
+2026-04-01T20:28:02.102130+00:00,google/gemini-2.5-flash-lite,44,dummy_gunlaw,Would you favor or oppose a law which would requir...,1,1.0,161,1,162,,1
+2026-04-01T20:28:02.507461+00:00,google/gemini-2.5-flash-lite,44,dummy_trust,"Generally speaking, would you say that most people...",1,2.0,170,1,171,,2
+2026-04-01T20:28:04.054070+00:00,google/gemini-2.5-flash-lite,45,dummy_abortion,Please tell me whether or not you think it should ...,1,1.0,171,1,172,,1
+2026-04-01T20:28:04.396087+00:00,google/gemini-2.5-flash-lite,45,dummy_gunlaw,Would you favor or oppose a law which would requir...,1,1.0,163,1,164,,1
+2026-04-01T20:28:04.750760+00:00,google/gemini-2.5-flash-lite,45,dummy_trust,"Generally speaking, would you say that most people...",1,2.0,172,1,173,,2
+2026-04-01T20:28:05.160389+00:00,google/gemini-2.5-flash-lite,46,dummy_abortion,Please tell me whether or not you think it should ...,1,1.0,179,1,180,,1
+2026-04-01T20:28:05.555663+00:00,google/gemini-2.5-flash-lite,46,dummy_gunlaw,Would you favor or oppose a law which would requir...,1,1.0,171,1,172,,1
+2026-04-01T20:28:06.016386+00:00,google/gemini-2.5-flash-lite,46,dummy_trust,"Generally speaking, would you say that most people...",1,3.0,180,1,181,,3
+2026-04-01T20:28:06.418138+00:00,google/gemini-2.5-flash-lite,47,dummy_abortion,Please tell me whether or not you think it should ...,1,1.0,169,1,170,,1
+2026-04-01T20:28:06.888191+00:00,google/gemini-2.5-flash-lite,47,dummy_gunlaw,Would you favor or oppose a law which would requir...,1,2.0,161,1,162,,2
+2026-04-01T20:28:07.273533+00:00,google/gemini-2.5-flash-lite,47,dummy_trust,"Generally speaking, would you say that most people...",1,2.0,170,1,171,,2
+2026-04-01T20:28:07.630703+00:00,google/gemini-2.5-flash-lite,48,dummy_abortion,Please tell me whether or not you think it should ...,1,1.0,181,1,182,,1
+2026-04-01T20:28:08.010197+00:00,google/gemini-2.5-flash-lite,48,dummy_gunlaw,Would you favor or oppose a law which would requir...,1,1.0,173,1,174,,1
+2026-04-01T20:28:08.852044+00:00,google/gemini-2.5-flash-lite,48,dummy_trust,"Generally speaking, would you say that most people...",1,2.0,182,1,183,,2
+2026-04-01T20:28:09.212909+00:00,google/gemini-2.5-flash-lite,49,dummy_abortion,Please tell me whether or not you think it should ...,1,1.0,173,1,174,,1
+2026-04-01T20:28:09.700665+00:00,google/gemini-2.5-flash-lite,49,dummy_gunlaw,Would you favor or oppose a law which would requir...,1,1.0,165,1,166,,1
+2026-04-01T20:28:10.062088+00:00,google/gemini-2.5-flash-lite,49,dummy_trust,"Generally speaking, would you say that most people...",1,2.0,174,1,175,,2
+2026-04-01T20:28:10.483413+00:00,google/gemini-2.5-flash-lite,50,dummy_abortion,Please tell me whether or not you think it should ...,1,1.0,175,1,176,,1
+2026-04-01T20:28:10.894362+00:00,google/gemini-2.5-flash-lite,50,dummy_gunlaw,Would you favor or oppose a law which would requir...,1,2.0,167,1,168,,2
+2026-04-01T20:28:11.195367+00:00,google/gemini-2.5-flash-lite,50,dummy_trust,"Generally speaking, would you say that most people...",1,2.0,176,1,177,,2
+2026-04-01T20:28:11.559738+00:00,google/gemini-2.5-flash-lite,51,dummy_abortion,Please tell me whether or not you think it should ...,1,2.0,170,1,171,,2
+2026-04-01T20:28:12.418000+00:00,google/gemini-2.5-flash-lite,51,dummy_gunlaw,Would you favor or oppose a law which would requir...,1,2.0,162,1,163,,2
+2026-04-01T20:28:12.761084+00:00,google/gemini-2.5-flash-lite,51,dummy_trust,"Generally speaking, would you say that most people...",1,2.0,171,1,172,,2
+2026-04-01T20:28:13.231322+00:00,google/gemini-2.5-flash-lite,52,dummy_abortion,Please tell me whether or not you think it should ...,1,1.0,170,1,171,,1
+2026-04-01T20:28:13.640712+00:00,google/gemini-2.5-flash-lite,52,dummy_gunlaw,Would you favor or oppose a law which would requir...,1,2.0,162,1,163,,2
+2026-04-01T20:28:14.028976+00:00,google/gemini-2.5-flash-lite,52,dummy_trust,"Generally speaking, would you say that most people...",1,2.0,171,1,172,,2
+2026-04-01T20:28:14.414763+00:00,google/gemini-2.5-flash-lite,53,dummy_abortion,Please tell me whether or not you think it should ...,1,1.0,171,1,172,,1
+2026-04-01T20:28:14.923999+00:00,google/gemini-2.5-flash-lite,53,dummy_gunlaw,Would you favor or oppose a law which would requir...,1,1.0,163,1,164,,1
+2026-04-01T20:28:15.431300+00:00,google/gemini-2.5-flash-lite,53,dummy_trust,"Generally speaking, would you say that most people...",1,2.0,172,1,173,,2
+2026-04-01T20:28:15.810914+00:00,google/gemini-2.5-flash-lite,54,dummy_abortion,Please tell me whether or not you think it should ...,1,1.0,175,1,176,,1
+2026-04-01T20:28:16.201187+00:00,google/gemini-2.5-flash-lite,54,dummy_gunlaw,Would you favor or oppose a law which would requir...,1,1.0,167,1,168,,1
+2026-04-01T20:28:16.531872+00:00,google/gemini-2.5-flash-lite,54,dummy_trust,"Generally speaking, would you say that most people...",1,2.0,176,1,177,,2
+2026-04-01T20:28:16.834380+00:00,google/gemini-2.5-flash-lite,55,dummy_abortion,Please tell me whether or not you think it should ...,1,1.0,178,1,179,,1
+2026-04-01T20:28:17.157155+00:00,google/gemini-2.5-flash-lite,55,dummy_gunlaw,Would you favor or oppose a law which would requir...,1,2.0,170,1,171,,2
+2026-04-01T20:28:17.497966+00:00,google/gemini-2.5-flash-lite,55,dummy_trust,"Generally speaking, would you say that most people...",1,2.0,179,1,180,,2
+2026-04-01T20:28:17.940971+00:00,google/gemini-2.5-flash-lite,56,dummy_abortion,Please tell me whether or not you think it should ...,1,1.0,174,1,175,,1
+2026-04-01T20:28:18.281704+00:00,google/gemini-2.5-flash-lite,56,dummy_gunlaw,Would you favor or oppose a law which would requir...,1,2.0,166,1,167,,2
+2026-04-01T20:28:19.127475+00:00,google/gemini-2.5-flash-lite,56,dummy_trust,"Generally speaking, would you say that most people...",1,2.0,175,1,176,,2
+2026-04-01T20:28:19.571929+00:00,google/gemini-2.5-flash-lite,57,dummy_abortion,Please tell me whether or not you think it should ...,1,1.0,179,1,180,,1
+2026-04-01T20:28:19.964891+00:00,google/gemini-2.5-flash-lite,57,dummy_gunlaw,Would you favor or oppose a law which would requir...,1,2.0,171,1,172,,2
+2026-04-01T20:28:20.782048+00:00,google/gemini-2.5-flash-lite,57,dummy_trust,"Generally speaking, would you say that most people...",1,2.0,180,1,181,,2
+2026-04-01T20:28:21.247941+00:00,google/gemini-2.5-flash-lite,58,dummy_abortion,Please tell me whether or not you think it should ...,1,1.0,173,1,174,,1
+2026-04-01T20:28:21.588309+00:00,google/gemini-2.5-flash-lite,58,dummy_gunlaw,Would you favor or oppose a law which would requir...,1,1.0,165,1,166,,1
+2026-04-01T20:28:21.924754+00:00,google/gemini-2.5-flash-lite,58,dummy_trust,"Generally speaking, would you say that most people...",1,2.0,174,1,175,,2
+2026-04-01T20:28:22.349720+00:00,google/gemini-2.5-flash-lite,59,dummy_abortion,Please tell me whether or not you think it should ...,1,1.0,172,1,173,,1
+2026-04-01T20:28:22.702068+00:00,google/gemini-2.5-flash-lite,59,dummy_gunlaw,Would you favor or oppose a law which would requir...,1,1.0,164,1,165,,1
+2026-04-01T20:28:23.069076+00:00,google/gemini-2.5-flash-lite,59,dummy_trust,"Generally speaking, would you say that most people...",1,2.0,173,1,174,,2
+2026-04-01T20:28:23.430334+00:00,google/gemini-2.5-flash-lite,60,dummy_abortion,Please tell me whether or not you think it should ...,1,1.0,170,1,171,,1
+2026-04-01T20:28:23.762820+00:00,google/gemini-2.5-flash-lite,60,dummy_gunlaw,Would you favor or oppose a law which would requir...,1,2.0,162,1,163,,2
+2026-04-01T20:28:24.103099+00:00,google/gemini-2.5-flash-lite,60,dummy_trust,"Generally speaking, would you say that most people...",1,2.0,171,1,172,,2
+2026-04-01T20:28:24.981984+00:00,google/gemini-2.5-flash-lite,61,dummy_abortion,Please tell me whether or not you think it should ...,1,1.0,167,1,168,,1
+2026-04-01T20:28:25.399856+00:00,google/gemini-2.5-flash-lite,61,dummy_gunlaw,Would you favor or oppose a law which would requir...,1,2.0,159,1,160,,2
+2026-04-01T20:28:25.867541+00:00,google/gemini-2.5-flash-lite,61,dummy_trust,"Generally speaking, would you say that most people...",1,2.0,168,1,169,,2
+2026-04-01T20:28:26.231593+00:00,google/gemini-2.5-flash-lite,62,dummy_abortion,Please tell me whether or not you think it should ...,1,1.0,177,1,178,,1
+2026-04-01T20:28:26.643429+00:00,google/gemini-2.5-flash-lite,62,dummy_gunlaw,Would you favor or oppose a law which would requir...,1,1.0,169,1,170,,1
+2026-04-01T20:28:58.558906+00:00,google/gemini-2.5-flash-lite,62,dummy_trust,"Generally speaking, would you say that most people...",1,3.0,178,1,179,,3
+2026-04-01T20:28:58.894254+00:00,google/gemini-2.5-flash-lite,63,dummy_abortion,Please tell me whether or not you think it should ...,1,1.0,169,1,170,,1
+2026-04-01T20:28:59.263157+00:00,google/gemini-2.5-flash-lite,63,dummy_gunlaw,Would you favor or oppose a law which would requir...,1,1.0,161,1,162,,1
+2026-04-01T20:29:00.166077+00:00,google/gemini-2.5-flash-lite,63,dummy_trust,"Generally speaking, would you say that most people...",1,3.0,170,1,171,,3
+2026-04-01T20:29:00.624227+00:00,google/gemini-2.5-flash-lite,64,dummy_abortion,Please tell me whether or not you think it should ...,1,1.0,175,1,176,,1
+2026-04-01T20:29:00.922995+00:00,google/gemini-2.5-flash-lite,64,dummy_gunlaw,Would you favor or oppose a law which would requir...,1,1.0,167,1,168,,1
+2026-04-01T20:29:01.834849+00:00,google/gemini-2.5-flash-lite,64,dummy_trust,"Generally speaking, would you say that most people...",1,2.0,176,1,177,,2
+2026-04-01T20:29:02.665534+00:00,google/gemini-2.5-flash-lite,65,dummy_abortion,Please tell me whether or not you think it should ...,1,1.0,172,1,173,,1
+2026-04-01T20:29:03.524280+00:00,google/gemini-2.5-flash-lite,65,dummy_gunlaw,Would you favor or oppose a law which would requir...,1,1.0,164,1,165,,1
+2026-04-01T20:29:04.341311+00:00,google/gemini-2.5-flash-lite,65,dummy_trust,"Generally speaking, would you say that most people...",1,2.0,173,1,174,,2
+2026-04-01T20:29:04.684203+00:00,google/gemini-2.5-flash-lite,66,dummy_abortion,Please tell me whether or not you think it should ...,1,1.0,166,1,167,,1
+2026-04-01T20:29:05.520480+00:00,google/gemini-2.5-flash-lite,66,dummy_gunlaw,Would you favor or oppose a law which would requir...,1,2.0,158,1,159,,2
+2026-04-01T20:29:05.836426+00:00,google/gemini-2.5-flash-lite,66,dummy_trust,"Generally speaking, would you say that most people...",1,2.0,168,1,169,,2
+2026-04-01T20:29:06.792088+00:00,google/gemini-2.5-flash-lite,67,dummy_abortion,Please tell me whether or not you think it should ...,1,1.0,182,1,183,,1
+2026-04-01T20:29:07.182629+00:00,google/gemini-2.5-flash-lite,67,dummy_gunlaw,Would you favor or oppose a law which would requir...,1,2.0,174,1,175,,2
+2026-04-01T20:29:08.031812+00:00,google/gemini-2.5-flash-lite,67,dummy_trust,"Generally speaking, would you say that most people...",1,2.0,183,1,184,,2
+2026-04-01T20:29:08.947206+00:00,google/gemini-2.5-flash-lite,68,dummy_abortion,Please tell me whether or not you think it should ...,1,1.0,180,1,181,,1
+2026-04-01T20:29:09.361762+00:00,google/gemini-2.5-flash-lite,68,dummy_gunlaw,Would you favor or oppose a law which would requir...,1,1.0,172,1,173,,1
+2026-04-01T20:29:10.145007+00:00,google/gemini-2.5-flash-lite,68,dummy_trust,"Generally speaking, would you say that most people...",1,2.0,181,1,182,,2
+2026-04-01T20:29:10.994829+00:00,google/gemini-2.5-flash-lite,69,dummy_abortion,Please tell me whether or not you think it should ...,1,1.0,173,1,174,,1
+2026-04-01T20:29:11.329296+00:00,google/gemini-2.5-flash-lite,69,dummy_gunlaw,Would you favor or oppose a law which would requir...,1,1.0,165,1,166,,1
+2026-04-01T20:29:11.728492+00:00,google/gemini-2.5-flash-lite,69,dummy_trust,"Generally speaking, would you say that most people...",1,2.0,174,1,175,,2
+2026-04-01T20:29:12.142153+00:00,google/gemini-2.5-flash-lite,70,dummy_abortion,Please tell me whether or not you think it should ...,1,1.0,171,1,172,,1
+2026-04-01T20:29:12.980816+00:00,google/gemini-2.5-flash-lite,70,dummy_gunlaw,Would you favor or oppose a law which would requir...,1,1.0,163,1,164,,1
+2026-04-01T20:29:13.294061+00:00,google/gemini-2.5-flash-lite,70,dummy_trust,"Generally speaking, would you say that most people...",1,2.0,172,1,173,,2
+2026-04-01T20:29:14.173511+00:00,google/gemini-2.5-flash-lite,71,dummy_abortion,Please tell me whether or not you think it should ...,1,1.0,183,1,184,,1
+2026-04-01T20:29:14.553660+00:00,google/gemini-2.5-flash-lite,71,dummy_gunlaw,Would you favor or oppose a law which would requir...,1,1.0,175,1,176,,1
+2026-04-01T20:29:14.949158+00:00,google/gemini-2.5-flash-lite,71,dummy_trust,"Generally speaking, would you say that most people...",1,2.0,184,1,185,,2
+2026-04-01T20:29:15.315191+00:00,google/gemini-2.5-flash-lite,72,dummy_abortion,Please tell me whether or not you think it should ...,1,1.0,169,1,170,,1
+2026-04-01T20:29:15.714228+00:00,google/gemini-2.5-flash-lite,72,dummy_gunlaw,Would you favor or oppose a law which would requir...,1,2.0,161,1,162,,2
+2026-04-01T20:29:16.157278+00:00,google/gemini-2.5-flash-lite,72,dummy_trust,"Generally speaking, would you say that most people...",1,2.0,170,1,171,,2
+2026-04-01T20:29:16.497082+00:00,google/gemini-2.5-flash-lite,73,dummy_abortion,Please tell me whether or not you think it should ...,1,1.0,165,1,166,,1
+2026-04-01T20:29:17.220455+00:00,google/gemini-2.5-flash-lite,73,dummy_gunlaw,Would you favor or oppose a law which would requir...,1,,157,50,207,"Parse error: There's a contradiction in the provided persona: ""I am a strong Republican"" and ""I am liberal"". These political stances are generally opposing.
+
+However, to answer the question about gun permits, gun rights are a complex issue with differing views","There's a contradiction in the provided persona: ""I am a strong Republican"" and ""I am liberal"". These political stances are generally opposing.
+
+However, to answer the question about gun permits, gun rights are a complex issue with differing views"
+2026-04-01T20:29:17.566284+00:00,google/gemini-2.5-flash-lite,73,dummy_trust,"Generally speaking, would you say that most people...",1,2.0,166,1,167,,2
+2026-04-01T20:29:17.880334+00:00,google/gemini-2.5-flash-lite,74,dummy_abortion,Please tell me whether or not you think it should ...,1,1.0,171,1,172,,1
+2026-04-01T20:29:18.738885+00:00,google/gemini-2.5-flash-lite,74,dummy_gunlaw,Would you favor or oppose a law which would requir...,1,2.0,163,1,164,,2
+2026-04-01T20:29:19.207218+00:00,google/gemini-2.5-flash-lite,74,dummy_trust,"Generally speaking, would you say that most people...",1,2.0,172,1,173,,2
+2026-04-01T20:29:19.686350+00:00,google/gemini-2.5-flash-lite,75,dummy_abortion,Please tell me whether or not you think it should ...,1,1.0,171,1,172,,1
+2026-04-01T20:29:20.043143+00:00,google/gemini-2.5-flash-lite,75,dummy_gunlaw,Would you favor or oppose a law which would requir...,1,1.0,163,1,164,,1
+2026-04-01T20:29:20.412030+00:00,google/gemini-2.5-flash-lite,75,dummy_trust,"Generally speaking, would you say that most people...",1,2.0,172,1,173,,2
+2026-04-01T20:29:21.366003+00:00,google/gemini-2.5-flash-lite,76,dummy_abortion,Please tell me whether or not you think it should ...,1,1.0,170,1,171,,1
+2026-04-01T20:29:22.193173+00:00,google/gemini-2.5-flash-lite,76,dummy_gunlaw,Would you favor or oppose a law which would requir...,1,1.0,162,1,163,,1
+2026-04-01T20:29:23.099892+00:00,google/gemini-2.5-flash-lite,76,dummy_trust,"Generally speaking, would you say that most people...",1,2.0,171,1,172,,2
+2026-04-01T20:29:23.476466+00:00,google/gemini-2.5-flash-lite,77,dummy_abortion,Please tell me whether or not you think it should ...,1,1.0,182,1,183,,1
+2026-04-01T20:29:23.888839+00:00,google/gemini-2.5-flash-lite,77,dummy_gunlaw,Would you favor or oppose a law which would requir...,1,1.0,174,1,175,,1
+2026-04-01T20:29:24.262307+00:00,google/gemini-2.5-flash-lite,77,dummy_trust,"Generally speaking, would you say that most people...",1,2.0,183,1,184,,2
+2026-04-01T20:29:24.654437+00:00,google/gemini-2.5-flash-lite,78,dummy_abortion,Please tell me whether or not you think it should ...,1,1.0,170,1,171,,1
+2026-04-01T20:29:24.999240+00:00,google/gemini-2.5-flash-lite,78,dummy_gunlaw,Would you favor or oppose a law which would requir...,1,1.0,162,1,163,,1
+2026-04-01T20:29:25.903449+00:00,google/gemini-2.5-flash-lite,78,dummy_trust,"Generally speaking, would you say that most people...",1,2.0,171,1,172,,2
+2026-04-01T20:29:26.227424+00:00,google/gemini-2.5-flash-lite,79,dummy_abortion,Please tell me whether or not you think it should ...,1,1.0,173,1,174,,1
+2026-04-01T20:29:26.543199+00:00,google/gemini-2.5-flash-lite,79,dummy_gunlaw,Would you favor or oppose a law which would requir...,1,2.0,165,1,166,,2
+2026-04-01T20:29:27.511687+00:00,google/gemini-2.5-flash-lite,79,dummy_trust,"Generally speaking, would you say that most people...",1,2.0,174,1,175,,2
+2026-04-01T20:29:27.849011+00:00,google/gemini-2.5-flash-lite,80,dummy_abortion,Please tell me whether or not you think it should ...,1,1.0,177,1,178,,1
+2026-04-01T20:29:28.162567+00:00,google/gemini-2.5-flash-lite,80,dummy_gunlaw,Would you favor or oppose a law which would requir...,1,2.0,169,1,170,,2
+2026-04-01T20:29:28.577734+00:00,google/gemini-2.5-flash-lite,80,dummy_trust,"Generally speaking, would you say that most people...",1,2.0,178,1,179,,2
+2026-04-01T20:29:28.941112+00:00,google/gemini-2.5-flash-lite,81,dummy_abortion,Please tell me whether or not you think it should ...,1,1.0,177,1,178,,1
+2026-04-01T20:29:29.801263+00:00,google/gemini-2.5-flash-lite,81,dummy_gunlaw,Would you favor or oppose a law which would requir...,1,1.0,169,1,170,,1
+2026-04-01T20:29:30.175472+00:00,google/gemini-2.5-flash-lite,81,dummy_trust,"Generally speaking, would you say that most people...",1,2.0,178,1,179,,2
+2026-04-01T20:29:30.639941+00:00,google/gemini-2.5-flash-lite,82,dummy_abortion,Please tell me whether or not you think it should ...,1,1.0,178,1,179,,1
+2026-04-01T20:29:30.949239+00:00,google/gemini-2.5-flash-lite,82,dummy_gunlaw,Would you favor or oppose a law which would requir...,1,1.0,170,1,171,,1
+2026-04-01T20:29:31.298223+00:00,google/gemini-2.5-flash-lite,82,dummy_trust,"Generally speaking, would you say that most people...",1,2.0,179,1,180,,2
+2026-04-01T20:29:31.709320+00:00,google/gemini-2.5-flash-lite,83,dummy_abortion,Please tell me whether or not you think it should ...,1,1.0,173,1,174,,1
+2026-04-01T20:29:32.080630+00:00,google/gemini-2.5-flash-lite,83,dummy_gunlaw,Would you favor or oppose a law which would requir...,1,1.0,165,1,166,,1
+2026-04-01T20:29:32.455965+00:00,google/gemini-2.5-flash-lite,83,dummy_trust,"Generally speaking, would you say that most people...",1,2.0,174,1,175,,2
+2026-04-01T20:29:32.852109+00:00,google/gemini-2.5-flash-lite,84,dummy_abortion,Please tell me whether or not you think it should ...,1,1.0,167,1,168,,1
+2026-04-01T20:29:33.195899+00:00,google/gemini-2.5-flash-lite,84,dummy_gunlaw,Would you favor or oppose a law which would requir...,1,1.0,159,1,160,,1
+2026-04-01T20:29:33.563963+00:00,google/gemini-2.5-flash-lite,84,dummy_trust,"Generally speaking, would you say that most people...",1,2.0,168,1,169,,2
+2026-04-01T20:29:33.909847+00:00,google/gemini-2.5-flash-lite,85,dummy_abortion,Please tell me whether or not you think it should ...,1,1.0,171,1,172,,1
+2026-04-01T20:29:34.254512+00:00,google/gemini-2.5-flash-lite,85,dummy_gunlaw,Would you favor or oppose a law which would requir...,1,1.0,163,1,164,,1
+2026-04-01T20:29:34.662734+00:00,google/gemini-2.5-flash-lite,85,dummy_trust,"Generally speaking, would you say that most people...",1,2.0,172,1,173,,2
+2026-04-01T20:29:35.577326+00:00,google/gemini-2.5-flash-lite,86,dummy_abortion,Please tell me whether or not you think it should ...,1,1.0,173,1,174,,1
+2026-04-01T20:29:35.978979+00:00,google/gemini-2.5-flash-lite,86,dummy_gunlaw,Would you favor or oppose a law which would requir...,1,1.0,165,1,166,,1
+2026-04-01T20:29:36.291792+00:00,google/gemini-2.5-flash-lite,86,dummy_trust,"Generally speaking, would you say that most people...",1,2.0,174,1,175,,2
+2026-04-01T20:29:36.707819+00:00,google/gemini-2.5-flash-lite,87,dummy_abortion,Please tell me whether or not you think it should ...,1,1.0,172,1,173,,1
+2026-04-01T20:29:37.049275+00:00,google/gemini-2.5-flash-lite,87,dummy_gunlaw,Would you favor or oppose a law which would requir...,1,1.0,164,1,165,,1
+2026-04-01T20:29:37.404674+00:00,google/gemini-2.5-flash-lite,87,dummy_trust,"Generally speaking, would you say that most people...",1,2.0,173,1,174,,2
+2026-04-01T20:29:37.829138+00:00,google/gemini-2.5-flash-lite,88,dummy_abortion,Please tell me whether or not you think it should ...,1,1.0,176,1,177,,1
+2026-04-01T20:29:38.199924+00:00,google/gemini-2.5-flash-lite,88,dummy_gunlaw,Would you favor or oppose a law which would requir...,1,1.0,168,1,169,,1
+2026-04-01T20:29:38.577955+00:00,google/gemini-2.5-flash-lite,88,dummy_trust,"Generally speaking, would you say that most people...",1,2.0,177,1,178,,2
+2026-04-01T20:29:38.906953+00:00,google/gemini-2.5-flash-lite,89,dummy_abortion,Please tell me whether or not you think it should ...,1,1.0,167,1,168,,1
+2026-04-01T20:29:39.327260+00:00,google/gemini-2.5-flash-lite,89,dummy_gunlaw,Would you favor or oppose a law which would requir...,1,2.0,159,1,160,,2
+2026-04-01T20:29:39.713099+00:00,google/gemini-2.5-flash-lite,89,dummy_trust,"Generally speaking, would you say that most people...",1,2.0,168,1,169,,2
+2026-04-01T20:29:40.483025+00:00,google/gemini-2.5-flash-lite,90,dummy_abortion,Please tell me whether or not you think it should ...,1,1.0,186,1,187,,1
+2026-04-01T20:29:40.806559+00:00,google/gemini-2.5-flash-lite,90,dummy_gunlaw,Would you favor or oppose a law which would requir...,1,1.0,178,1,179,,1
+2026-04-01T20:29:41.101960+00:00,google/gemini-2.5-flash-lite,90,dummy_trust,"Generally speaking, would you say that most people...",1,2.0,187,1,188,,2
+2026-04-01T20:29:41.909202+00:00,google/gemini-2.5-flash-lite,91,dummy_abortion,Please tell me whether or not you think it should ...,1,1.0,172,1,173,,1
+2026-04-01T20:29:42.259831+00:00,google/gemini-2.5-flash-lite,91,dummy_gunlaw,Would you favor or oppose a law which would requir...,1,1.0,164,1,165,,1
+2026-04-01T20:29:42.638062+00:00,google/gemini-2.5-flash-lite,91,dummy_trust,"Generally speaking, would you say that most people...",1,2.0,173,1,174,,2
+2026-04-01T20:29:43.156314+00:00,google/gemini-2.5-flash-lite,92,dummy_abortion,Please tell me whether or not you think it should ...,1,1.0,181,1,182,,1
+2026-04-01T20:29:43.597415+00:00,google/gemini-2.5-flash-lite,92,dummy_gunlaw,Would you favor or oppose a law which would requir...,1,1.0,173,1,174,,1
+2026-04-01T20:29:43.948253+00:00,google/gemini-2.5-flash-lite,92,dummy_trust,"Generally speaking, would you say that most people...",1,3.0,182,1,183,,3
+2026-04-01T20:29:44.280647+00:00,google/gemini-2.5-flash-lite,93,dummy_abortion,Please tell me whether or not you think it should ...,1,1.0,170,1,171,,1
+2026-04-01T20:29:44.703657+00:00,google/gemini-2.5-flash-lite,93,dummy_gunlaw,Would you favor or oppose a law which would requir...,1,2.0,162,1,163,,2
+2026-04-01T20:29:45.069326+00:00,google/gemini-2.5-flash-lite,93,dummy_trust,"Generally speaking, would you say that most people...",1,2.0,171,1,172,,2
+2026-04-01T20:29:45.478591+00:00,google/gemini-2.5-flash-lite,94,dummy_abortion,Please tell me whether or not you think it should ...,1,1.0,173,1,174,,1
+2026-04-01T20:29:46.028401+00:00,google/gemini-2.5-flash-lite,94,dummy_gunlaw,Would you favor or oppose a law which would requir...,1,1.0,165,1,166,,1
+2026-04-01T20:29:46.519203+00:00,google/gemini-2.5-flash-lite,94,dummy_trust,"Generally speaking, would you say that most people...",1,2.0,174,1,175,,2
+2026-04-01T20:29:47.012632+00:00,google/gemini-2.5-flash-lite,95,dummy_abortion,Please tell me whether or not you think it should ...,1,1.0,176,1,177,,1
+2026-04-01T20:29:47.387521+00:00,google/gemini-2.5-flash-lite,95,dummy_gunlaw,Would you favor or oppose a law which would requir...,1,1.0,168,1,169,,1
+2026-04-01T20:29:47.726852+00:00,google/gemini-2.5-flash-lite,95,dummy_trust,"Generally speaking, would you say that most people...",1,2.0,177,1,178,,2
+2026-04-01T20:29:48.050367+00:00,google/gemini-2.5-flash-lite,96,dummy_abortion,Please tell me whether or not you think it should ...,1,1.0,169,1,170,,1
+2026-04-01T20:29:48.424747+00:00,google/gemini-2.5-flash-lite,96,dummy_gunlaw,Would you favor or oppose a law which would requir...,1,2.0,161,1,162,,2
+2026-04-01T20:29:48.774837+00:00,google/gemini-2.5-flash-lite,96,dummy_trust,"Generally speaking, would you say that most people...",1,2.0,170,1,171,,2
+2026-04-01T20:29:49.168559+00:00,google/gemini-2.5-flash-lite,97,dummy_abortion,Please tell me whether or not you think it should ...,1,1.0,167,1,168,,1
+2026-04-01T20:29:49.515314+00:00,google/gemini-2.5-flash-lite,97,dummy_gunlaw,Would you favor or oppose a law which would requir...,1,1.0,159,1,160,,1
+2026-04-01T20:29:49.879236+00:00,google/gemini-2.5-flash-lite,97,dummy_trust,"Generally speaking, would you say that most people...",1,3.0,168,1,169,,3
+2026-04-01T20:29:50.204799+00:00,google/gemini-2.5-flash-lite,98,dummy_abortion,Please tell me whether or not you think it should ...,1,1.0,171,1,172,,1
+2026-04-01T20:29:50.547443+00:00,google/gemini-2.5-flash-lite,98,dummy_gunlaw,Would you favor or oppose a law which would requir...,1,1.0,163,1,164,,1
+2026-04-01T20:29:50.970377+00:00,google/gemini-2.5-flash-lite,98,dummy_trust,"Generally speaking, would you say that most people...",1,2.0,173,1,174,,2
+2026-04-01T20:29:51.302861+00:00,google/gemini-2.5-flash-lite,99,dummy_abortion,Please tell me whether or not you think it should ...,1,1.0,172,1,173,,1
+2026-04-01T20:29:51.788522+00:00,google/gemini-2.5-flash-lite,99,dummy_gunlaw,Would you favor or oppose a law which would requir...,1,2.0,164,1,165,,2
+2026-04-01T20:29:52.127786+00:00,google/gemini-2.5-flash-lite,99,dummy_trust,"Generally speaking, would you say that most people...",1,2.0,173,1,174,,2
+2026-04-01T20:29:52.979062+00:00,google/gemini-2.5-flash-lite,100,dummy_abortion,Please tell me whether or not you think it should ...,1,1.0,172,1,173,,1
+2026-04-01T20:29:53.854105+00:00,google/gemini-2.5-flash-lite,100,dummy_gunlaw,Would you favor or oppose a law which would requir...,1,1.0,164,1,165,,1
+2026-04-01T20:29:54.188806+00:00,google/gemini-2.5-flash-lite,100,dummy_trust,"Generally speaking, would you say that most people...",1,2.0,173,1,174,,2

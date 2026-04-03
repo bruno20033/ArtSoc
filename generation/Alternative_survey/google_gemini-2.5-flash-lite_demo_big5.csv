@@ -1,0 +1,501 @@
+timestamp,model,condition,persona_id,variable,question_short,run,answer,prompt_tokens,completion_tokens,total_tokens,error,raw_response
+2026-04-01T21:05:07.382438+00:00,google/gemini-2.5-flash-lite,demo_big5,1,GAAIS_5_P,I am impressed by what Artificial Intelligence can...,1,4,159,1,160,,4
+2026-04-01T21:05:07.710896+00:00,google/gemini-2.5-flash-lite,demo_big5,1,GAAIS_7_P,Artificial Intelligence can have positive impacts ...,1,4,161,1,162,,4
+2026-04-01T21:05:08.154692+00:00,google/gemini-2.5-flash-lite,demo_big5,1,GAAIS_17_P,Artificial Intelligence is exciting....,1,5,154,1,155,,5
+2026-04-01T21:05:08.588351+00:00,google/gemini-2.5-flash-lite,demo_big5,1,R_GAAIS_3_N,I find Artificial Intelligence sinister....,1,2,155,1,156,,2
+2026-04-01T21:05:08.908665+00:00,google/gemini-2.5-flash-lite,demo_big5,1,R_GAAIS_8_N,Artificial Intelligence might take control of peop...,1,2,157,1,158,,2
+2026-04-01T21:05:10.995056+00:00,google/gemini-2.5-flash-lite,demo_big5,2,GAAIS_5_P,I am impressed by what Artificial Intelligence can...,1,4,161,1,162,,4
+2026-04-01T21:05:11.391395+00:00,google/gemini-2.5-flash-lite,demo_big5,2,GAAIS_7_P,Artificial Intelligence can have positive impacts ...,1,4,163,1,164,,4
+2026-04-01T21:05:11.807397+00:00,google/gemini-2.5-flash-lite,demo_big5,2,GAAIS_17_P,Artificial Intelligence is exciting....,1,5,156,1,157,,5
+2026-04-01T21:05:12.208047+00:00,google/gemini-2.5-flash-lite,demo_big5,2,R_GAAIS_3_N,I find Artificial Intelligence sinister....,1,3,157,1,158,,3
+2026-04-01T21:05:12.544927+00:00,google/gemini-2.5-flash-lite,demo_big5,2,R_GAAIS_8_N,Artificial Intelligence might take control of peop...,1,4,159,1,160,,4
+2026-04-01T21:05:13.045513+00:00,google/gemini-2.5-flash-lite,demo_big5,3,GAAIS_5_P,I am impressed by what Artificial Intelligence can...,1,5,159,1,160,,5
+2026-04-01T21:05:13.489591+00:00,google/gemini-2.5-flash-lite,demo_big5,3,GAAIS_7_P,Artificial Intelligence can have positive impacts ...,1,5,161,1,162,,5
+2026-04-01T21:05:13.830634+00:00,google/gemini-2.5-flash-lite,demo_big5,3,GAAIS_17_P,Artificial Intelligence is exciting....,1,5,154,1,155,,5
+2026-04-01T21:05:45.655598+00:00,google/gemini-2.5-flash-lite,demo_big5,3,R_GAAIS_3_N,I find Artificial Intelligence sinister....,1,2,155,1,156,,2
+2026-04-01T21:05:46.122619+00:00,google/gemini-2.5-flash-lite,demo_big5,3,R_GAAIS_8_N,Artificial Intelligence might take control of peop...,1,2,157,1,158,,2
+2026-04-01T21:05:46.513446+00:00,google/gemini-2.5-flash-lite,demo_big5,4,GAAIS_5_P,I am impressed by what Artificial Intelligence can...,1,5,160,1,161,,5
+2026-04-01T21:05:47.006609+00:00,google/gemini-2.5-flash-lite,demo_big5,4,GAAIS_7_P,Artificial Intelligence can have positive impacts ...,1,5,162,1,163,,5
+2026-04-01T21:05:47.428231+00:00,google/gemini-2.5-flash-lite,demo_big5,4,GAAIS_17_P,Artificial Intelligence is exciting....,1,5,155,1,156,,5
+2026-04-01T21:05:47.772211+00:00,google/gemini-2.5-flash-lite,demo_big5,4,R_GAAIS_3_N,I find Artificial Intelligence sinister....,1,2,156,1,157,,2
+2026-04-01T21:05:48.189486+00:00,google/gemini-2.5-flash-lite,demo_big5,4,R_GAAIS_8_N,Artificial Intelligence might take control of peop...,1,2,158,1,159,,2
+2026-04-01T21:05:48.600778+00:00,google/gemini-2.5-flash-lite,demo_big5,5,GAAIS_5_P,I am impressed by what Artificial Intelligence can...,1,5,160,1,161,,5
+2026-04-01T21:05:48.965897+00:00,google/gemini-2.5-flash-lite,demo_big5,5,GAAIS_7_P,Artificial Intelligence can have positive impacts ...,1,4,162,1,163,,4
+2026-04-01T21:05:49.321748+00:00,google/gemini-2.5-flash-lite,demo_big5,5,GAAIS_17_P,Artificial Intelligence is exciting....,1,5,155,1,156,,5
+2026-04-01T21:05:49.710295+00:00,google/gemini-2.5-flash-lite,demo_big5,5,R_GAAIS_3_N,I find Artificial Intelligence sinister....,1,3,156,1,157,,3
+2026-04-01T21:05:50.020730+00:00,google/gemini-2.5-flash-lite,demo_big5,5,R_GAAIS_8_N,Artificial Intelligence might take control of peop...,1,3,158,1,159,,3
+2026-04-01T21:05:50.358239+00:00,google/gemini-2.5-flash-lite,demo_big5,6,GAAIS_5_P,I am impressed by what Artificial Intelligence can...,1,4,162,1,163,,4
+2026-04-01T21:05:50.727601+00:00,google/gemini-2.5-flash-lite,demo_big5,6,GAAIS_7_P,Artificial Intelligence can have positive impacts ...,1,4,164,1,165,,4
+2026-04-01T21:05:51.108305+00:00,google/gemini-2.5-flash-lite,demo_big5,6,GAAIS_17_P,Artificial Intelligence is exciting....,1,5,157,1,158,,5
+2026-04-01T21:05:51.618298+00:00,google/gemini-2.5-flash-lite,demo_big5,6,R_GAAIS_3_N,I find Artificial Intelligence sinister....,1,5,158,1,159,,5
+2026-04-01T21:05:52.171661+00:00,google/gemini-2.5-flash-lite,demo_big5,6,R_GAAIS_8_N,Artificial Intelligence might take control of peop...,1,4,160,1,161,,4
+2026-04-01T21:05:53.062991+00:00,google/gemini-2.5-flash-lite,demo_big5,7,GAAIS_5_P,I am impressed by what Artificial Intelligence can...,1,5,160,1,161,,5
+2026-04-01T21:05:53.774507+00:00,google/gemini-2.5-flash-lite,demo_big5,7,GAAIS_7_P,Artificial Intelligence can have positive impacts ...,1,5,162,1,163,,5
+2026-04-01T21:05:54.598583+00:00,google/gemini-2.5-flash-lite,demo_big5,7,GAAIS_17_P,Artificial Intelligence is exciting....,1,5,155,1,156,,5
+2026-04-01T21:05:55.008097+00:00,google/gemini-2.5-flash-lite,demo_big5,7,R_GAAIS_3_N,I find Artificial Intelligence sinister....,1,2,156,1,157,,2
+2026-04-01T21:05:55.353530+00:00,google/gemini-2.5-flash-lite,demo_big5,7,R_GAAIS_8_N,Artificial Intelligence might take control of peop...,1,2,158,1,159,,2
+2026-04-01T21:05:55.793460+00:00,google/gemini-2.5-flash-lite,demo_big5,8,GAAIS_5_P,I am impressed by what Artificial Intelligence can...,1,4,161,1,162,,4
+2026-04-01T21:05:56.156514+00:00,google/gemini-2.5-flash-lite,demo_big5,8,GAAIS_7_P,Artificial Intelligence can have positive impacts ...,1,4,163,1,164,,4
+2026-04-01T21:05:56.513337+00:00,google/gemini-2.5-flash-lite,demo_big5,8,GAAIS_17_P,Artificial Intelligence is exciting....,1,5,156,1,157,,5
+2026-04-01T21:05:56.935891+00:00,google/gemini-2.5-flash-lite,demo_big5,8,R_GAAIS_3_N,I find Artificial Intelligence sinister....,1,4,157,1,158,,4
+2026-04-01T21:05:57.402245+00:00,google/gemini-2.5-flash-lite,demo_big5,8,R_GAAIS_8_N,Artificial Intelligence might take control of peop...,1,5,159,1,160,,5
+2026-04-01T21:05:57.742154+00:00,google/gemini-2.5-flash-lite,demo_big5,9,GAAIS_5_P,I am impressed by what Artificial Intelligence can...,1,2,162,1,163,,2
+2026-04-01T21:06:00.391144+00:00,google/gemini-2.5-flash-lite,demo_big5,9,GAAIS_7_P,Artificial Intelligence can have positive impacts ...,1,2,164,1,165,,2
+2026-04-01T21:06:00.809126+00:00,google/gemini-2.5-flash-lite,demo_big5,9,GAAIS_17_P,Artificial Intelligence is exciting....,1,2,157,1,158,,2
+2026-04-01T21:06:01.223427+00:00,google/gemini-2.5-flash-lite,demo_big5,9,R_GAAIS_3_N,I find Artificial Intelligence sinister....,1,5,158,1,159,,5
+2026-04-01T21:06:01.614884+00:00,google/gemini-2.5-flash-lite,demo_big5,9,R_GAAIS_8_N,Artificial Intelligence might take control of peop...,1,5,160,1,161,,5
+2026-04-01T21:06:02.320492+00:00,google/gemini-2.5-flash-lite,demo_big5,10,GAAIS_5_P,I am impressed by what Artificial Intelligence can...,1,5,160,1,161,,5
+2026-04-01T21:06:03.170379+00:00,google/gemini-2.5-flash-lite,demo_big5,10,GAAIS_7_P,Artificial Intelligence can have positive impacts ...,1,5,162,1,163,,5
+2026-04-01T21:06:03.626585+00:00,google/gemini-2.5-flash-lite,demo_big5,10,GAAIS_17_P,Artificial Intelligence is exciting....,1,5,155,1,156,,5
+2026-04-01T21:06:04.506172+00:00,google/gemini-2.5-flash-lite,demo_big5,10,R_GAAIS_3_N,I find Artificial Intelligence sinister....,1,4,156,1,157,,4
+2026-04-01T21:06:04.920931+00:00,google/gemini-2.5-flash-lite,demo_big5,10,R_GAAIS_8_N,Artificial Intelligence might take control of peop...,1,5,158,1,159,,5
+2026-04-01T21:06:05.853159+00:00,google/gemini-2.5-flash-lite,demo_big5,11,GAAIS_5_P,I am impressed by what Artificial Intelligence can...,1,5,162,1,163,,5
+2026-04-01T21:06:06.173139+00:00,google/gemini-2.5-flash-lite,demo_big5,11,GAAIS_7_P,Artificial Intelligence can have positive impacts ...,1,4,164,1,165,,4
+2026-04-01T21:06:07.044769+00:00,google/gemini-2.5-flash-lite,demo_big5,11,GAAIS_17_P,Artificial Intelligence is exciting....,1,5,157,1,158,,5
+2026-04-01T21:06:07.415097+00:00,google/gemini-2.5-flash-lite,demo_big5,11,R_GAAIS_3_N,I find Artificial Intelligence sinister....,1,4,158,1,159,,4
+2026-04-01T21:06:07.806677+00:00,google/gemini-2.5-flash-lite,demo_big5,11,R_GAAIS_8_N,Artificial Intelligence might take control of peop...,1,5,160,1,161,,5
+2026-04-01T21:06:08.180312+00:00,google/gemini-2.5-flash-lite,demo_big5,12,GAAIS_5_P,I am impressed by what Artificial Intelligence can...,1,4,162,1,163,,4
+2026-04-01T21:06:08.575543+00:00,google/gemini-2.5-flash-lite,demo_big5,12,GAAIS_7_P,Artificial Intelligence can have positive impacts ...,1,4,164,1,165,,4
+2026-04-01T21:06:08.945208+00:00,google/gemini-2.5-flash-lite,demo_big5,12,GAAIS_17_P,Artificial Intelligence is exciting....,1,4,157,1,158,,4
+2026-04-01T21:06:09.992634+00:00,google/gemini-2.5-flash-lite,demo_big5,12,R_GAAIS_3_N,I find Artificial Intelligence sinister....,1,3,158,1,159,,3
+2026-04-01T21:06:10.326389+00:00,google/gemini-2.5-flash-lite,demo_big5,12,R_GAAIS_8_N,Artificial Intelligence might take control of peop...,1,4,160,1,161,,4
+2026-04-01T21:06:10.733748+00:00,google/gemini-2.5-flash-lite,demo_big5,13,GAAIS_5_P,I am impressed by what Artificial Intelligence can...,1,5,161,1,162,,5
+2026-04-01T21:06:11.081694+00:00,google/gemini-2.5-flash-lite,demo_big5,13,GAAIS_7_P,Artificial Intelligence can have positive impacts ...,1,4,163,1,164,,4
+2026-04-01T21:06:11.407598+00:00,google/gemini-2.5-flash-lite,demo_big5,13,GAAIS_17_P,Artificial Intelligence is exciting....,1,5,156,1,157,,5
+2026-04-01T21:06:12.272035+00:00,google/gemini-2.5-flash-lite,demo_big5,13,R_GAAIS_3_N,I find Artificial Intelligence sinister....,1,2,157,1,158,,2
+2026-04-01T21:06:12.586438+00:00,google/gemini-2.5-flash-lite,demo_big5,13,R_GAAIS_8_N,Artificial Intelligence might take control of peop...,1,2,159,1,160,,2
+2026-04-01T21:06:12.934550+00:00,google/gemini-2.5-flash-lite,demo_big5,14,GAAIS_5_P,I am impressed by what Artificial Intelligence can...,1,5,161,1,162,,5
+2026-04-01T21:06:13.339441+00:00,google/gemini-2.5-flash-lite,demo_big5,14,GAAIS_7_P,Artificial Intelligence can have positive impacts ...,1,5,163,1,164,,5
+2026-04-01T21:06:13.724711+00:00,google/gemini-2.5-flash-lite,demo_big5,14,GAAIS_17_P,Artificial Intelligence is exciting....,1,5,156,1,157,,5
+2026-04-01T21:06:14.097836+00:00,google/gemini-2.5-flash-lite,demo_big5,14,R_GAAIS_3_N,I find Artificial Intelligence sinister....,1,2,157,1,158,,2
+2026-04-01T21:06:15.021543+00:00,google/gemini-2.5-flash-lite,demo_big5,14,R_GAAIS_8_N,Artificial Intelligence might take control of peop...,1,2,159,1,160,,2
+2026-04-01T21:06:15.420724+00:00,google/gemini-2.5-flash-lite,demo_big5,15,GAAIS_5_P,I am impressed by what Artificial Intelligence can...,1,5,162,1,163,,5
+2026-04-01T21:06:15.832197+00:00,google/gemini-2.5-flash-lite,demo_big5,15,GAAIS_7_P,Artificial Intelligence can have positive impacts ...,1,5,164,1,165,,5
+2026-04-01T21:06:16.275009+00:00,google/gemini-2.5-flash-lite,demo_big5,15,GAAIS_17_P,Artificial Intelligence is exciting....,1,5,157,1,158,,5
+2026-04-01T21:06:16.902528+00:00,google/gemini-2.5-flash-lite,demo_big5,15,R_GAAIS_3_N,I find Artificial Intelligence sinister....,1,2,158,1,159,,2
+2026-04-01T21:06:17.324832+00:00,google/gemini-2.5-flash-lite,demo_big5,15,R_GAAIS_8_N,Artificial Intelligence might take control of peop...,1,3,160,1,161,,3
+2026-04-01T21:06:17.702823+00:00,google/gemini-2.5-flash-lite,demo_big5,16,GAAIS_5_P,I am impressed by what Artificial Intelligence can...,1,5,165,1,166,,5
+2026-04-01T21:06:18.107894+00:00,google/gemini-2.5-flash-lite,demo_big5,16,GAAIS_7_P,Artificial Intelligence can have positive impacts ...,1,5,167,1,168,,5
+2026-04-01T21:06:18.609795+00:00,google/gemini-2.5-flash-lite,demo_big5,16,GAAIS_17_P,Artificial Intelligence is exciting....,1,5,160,1,161,,5
+2026-04-01T21:06:18.984685+00:00,google/gemini-2.5-flash-lite,demo_big5,16,R_GAAIS_3_N,I find Artificial Intelligence sinister....,1,5,161,1,162,,5
+2026-04-01T21:06:19.320740+00:00,google/gemini-2.5-flash-lite,demo_big5,16,R_GAAIS_8_N,Artificial Intelligence might take control of peop...,1,5,163,1,164,,5
+2026-04-01T21:06:19.826482+00:00,google/gemini-2.5-flash-lite,demo_big5,17,GAAIS_5_P,I am impressed by what Artificial Intelligence can...,1,5,161,1,162,,5
+2026-04-01T21:06:20.182221+00:00,google/gemini-2.5-flash-lite,demo_big5,17,GAAIS_7_P,Artificial Intelligence can have positive impacts ...,1,5,163,1,164,,5
+2026-04-01T21:06:21.082514+00:00,google/gemini-2.5-flash-lite,demo_big5,17,GAAIS_17_P,Artificial Intelligence is exciting....,1,5,156,1,157,,5
+2026-04-01T21:06:21.412727+00:00,google/gemini-2.5-flash-lite,demo_big5,17,R_GAAIS_3_N,I find Artificial Intelligence sinister....,1,3,157,1,158,,3
+2026-04-01T21:06:21.765928+00:00,google/gemini-2.5-flash-lite,demo_big5,17,R_GAAIS_8_N,Artificial Intelligence might take control of peop...,1,2,159,1,160,,2
+2026-04-01T21:06:22.197201+00:00,google/gemini-2.5-flash-lite,demo_big5,18,GAAIS_5_P,I am impressed by what Artificial Intelligence can...,1,5,160,1,161,,5
+2026-04-01T21:06:22.585763+00:00,google/gemini-2.5-flash-lite,demo_big5,18,GAAIS_7_P,Artificial Intelligence can have positive impacts ...,1,5,162,1,163,,5
+2026-04-01T21:06:23.187267+00:00,google/gemini-2.5-flash-lite,demo_big5,18,GAAIS_17_P,Artificial Intelligence is exciting....,1,5,155,1,156,,5
+2026-04-01T21:06:23.567781+00:00,google/gemini-2.5-flash-lite,demo_big5,18,R_GAAIS_3_N,I find Artificial Intelligence sinister....,1,4,156,1,157,,4
+2026-04-01T21:06:23.923782+00:00,google/gemini-2.5-flash-lite,demo_big5,18,R_GAAIS_8_N,Artificial Intelligence might take control of peop...,1,4,158,1,159,,4
+2026-04-01T21:06:24.254904+00:00,google/gemini-2.5-flash-lite,demo_big5,19,GAAIS_5_P,I am impressed by what Artificial Intelligence can...,1,5,162,1,163,,5
+2026-04-01T21:06:24.721905+00:00,google/gemini-2.5-flash-lite,demo_big5,19,GAAIS_7_P,Artificial Intelligence can have positive impacts ...,1,5,164,1,165,,5
+2026-04-01T21:06:25.113486+00:00,google/gemini-2.5-flash-lite,demo_big5,19,GAAIS_17_P,Artificial Intelligence is exciting....,1,5,157,1,158,,5
+2026-04-01T21:06:25.517976+00:00,google/gemini-2.5-flash-lite,demo_big5,19,R_GAAIS_3_N,I find Artificial Intelligence sinister....,1,3,158,1,159,,3
+2026-04-01T21:06:25.920613+00:00,google/gemini-2.5-flash-lite,demo_big5,19,R_GAAIS_8_N,Artificial Intelligence might take control of peop...,1,5,160,1,161,,5
+2026-04-01T21:06:26.308187+00:00,google/gemini-2.5-flash-lite,demo_big5,20,GAAIS_5_P,I am impressed by what Artificial Intelligence can...,1,5,162,1,163,,5
+2026-04-01T21:06:26.706334+00:00,google/gemini-2.5-flash-lite,demo_big5,20,GAAIS_7_P,Artificial Intelligence can have positive impacts ...,1,5,164,1,165,,5
+2026-04-01T21:06:27.102937+00:00,google/gemini-2.5-flash-lite,demo_big5,20,GAAIS_17_P,Artificial Intelligence is exciting....,1,5,157,1,158,,5
+2026-04-01T21:06:27.447538+00:00,google/gemini-2.5-flash-lite,demo_big5,20,R_GAAIS_3_N,I find Artificial Intelligence sinister....,1,4,158,1,159,,4
+2026-04-01T21:06:27.857367+00:00,google/gemini-2.5-flash-lite,demo_big5,20,R_GAAIS_8_N,Artificial Intelligence might take control of peop...,1,4,160,1,161,,4
+2026-04-01T21:06:28.996842+00:00,google/gemini-2.5-flash-lite,demo_big5,21,GAAIS_5_P,I am impressed by what Artificial Intelligence can...,1,5,161,1,162,,5
+2026-04-01T21:06:29.372950+00:00,google/gemini-2.5-flash-lite,demo_big5,21,GAAIS_7_P,Artificial Intelligence can have positive impacts ...,1,4,163,1,164,,4
+2026-04-01T21:06:29.722722+00:00,google/gemini-2.5-flash-lite,demo_big5,21,GAAIS_17_P,Artificial Intelligence is exciting....,1,5,156,1,157,,5
+2026-04-01T21:06:30.167410+00:00,google/gemini-2.5-flash-lite,demo_big5,21,R_GAAIS_3_N,I find Artificial Intelligence sinister....,1,3,157,1,158,,3
+2026-04-01T21:06:31.121147+00:00,google/gemini-2.5-flash-lite,demo_big5,21,R_GAAIS_8_N,Artificial Intelligence might take control of peop...,1,4,159,1,160,,4
+2026-04-01T21:06:31.458495+00:00,google/gemini-2.5-flash-lite,demo_big5,22,GAAIS_5_P,I am impressed by what Artificial Intelligence can...,1,5,161,1,162,,5
+2026-04-01T21:06:31.849433+00:00,google/gemini-2.5-flash-lite,demo_big5,22,GAAIS_7_P,Artificial Intelligence can have positive impacts ...,1,5,163,1,164,,5
+2026-04-01T21:06:32.266805+00:00,google/gemini-2.5-flash-lite,demo_big5,22,GAAIS_17_P,Artificial Intelligence is exciting....,1,5,156,1,157,,5
+2026-04-01T21:06:32.648174+00:00,google/gemini-2.5-flash-lite,demo_big5,22,R_GAAIS_3_N,I find Artificial Intelligence sinister....,1,4,157,1,158,,4
+2026-04-01T21:06:33.075904+00:00,google/gemini-2.5-flash-lite,demo_big5,22,R_GAAIS_8_N,Artificial Intelligence might take control of peop...,1,5,159,1,160,,5
+2026-04-01T21:06:33.524438+00:00,google/gemini-2.5-flash-lite,demo_big5,23,GAAIS_5_P,I am impressed by what Artificial Intelligence can...,1,5,160,1,161,,5
+2026-04-01T21:06:33.885348+00:00,google/gemini-2.5-flash-lite,demo_big5,23,GAAIS_7_P,Artificial Intelligence can have positive impacts ...,1,4,162,1,163,,4
+2026-04-01T21:07:05.436512+00:00,google/gemini-2.5-flash-lite,demo_big5,23,GAAIS_17_P,Artificial Intelligence is exciting....,1,4,155,1,156,,4
+2026-04-01T21:07:05.794728+00:00,google/gemini-2.5-flash-lite,demo_big5,23,R_GAAIS_3_N,I find Artificial Intelligence sinister....,1,4,156,1,157,,4
+2026-04-01T21:07:06.126884+00:00,google/gemini-2.5-flash-lite,demo_big5,23,R_GAAIS_8_N,Artificial Intelligence might take control of peop...,1,5,158,1,159,,5
+2026-04-01T21:07:06.544722+00:00,google/gemini-2.5-flash-lite,demo_big5,24,GAAIS_5_P,I am impressed by what Artificial Intelligence can...,1,5,159,1,160,,5
+2026-04-01T21:07:06.866491+00:00,google/gemini-2.5-flash-lite,demo_big5,24,GAAIS_7_P,Artificial Intelligence can have positive impacts ...,1,4,161,1,162,,4
+2026-04-01T21:07:07.290740+00:00,google/gemini-2.5-flash-lite,demo_big5,24,GAAIS_17_P,Artificial Intelligence is exciting....,1,5,154,1,155,,5
+2026-04-01T21:07:08.159607+00:00,google/gemini-2.5-flash-lite,demo_big5,24,R_GAAIS_3_N,I find Artificial Intelligence sinister....,1,4,155,1,156,,4
+2026-04-01T21:07:08.546061+00:00,google/gemini-2.5-flash-lite,demo_big5,24,R_GAAIS_8_N,Artificial Intelligence might take control of peop...,1,5,157,1,158,,5
+2026-04-01T21:07:08.888207+00:00,google/gemini-2.5-flash-lite,demo_big5,25,GAAIS_5_P,I am impressed by what Artificial Intelligence can...,1,4,162,1,163,,4
+2026-04-01T21:07:09.266107+00:00,google/gemini-2.5-flash-lite,demo_big5,25,GAAIS_7_P,Artificial Intelligence can have positive impacts ...,1,5,164,1,165,,5
+2026-04-01T21:07:09.670873+00:00,google/gemini-2.5-flash-lite,demo_big5,25,GAAIS_17_P,Artificial Intelligence is exciting....,1,5,157,1,158,,5
+2026-04-01T21:07:09.993438+00:00,google/gemini-2.5-flash-lite,demo_big5,25,R_GAAIS_3_N,I find Artificial Intelligence sinister....,1,2,158,1,159,,2
+2026-04-01T21:07:10.362550+00:00,google/gemini-2.5-flash-lite,demo_big5,25,R_GAAIS_8_N,Artificial Intelligence might take control of peop...,1,3,160,1,161,,3
+2026-04-01T21:07:10.733674+00:00,google/gemini-2.5-flash-lite,demo_big5,26,GAAIS_5_P,I am impressed by what Artificial Intelligence can...,1,5,162,1,163,,5
+2026-04-01T21:07:11.081553+00:00,google/gemini-2.5-flash-lite,demo_big5,26,GAAIS_7_P,Artificial Intelligence can have positive impacts ...,1,5,164,1,165,,5
+2026-04-01T21:07:11.427427+00:00,google/gemini-2.5-flash-lite,demo_big5,26,GAAIS_17_P,Artificial Intelligence is exciting....,1,5,157,1,158,,5
+2026-04-01T21:07:11.799195+00:00,google/gemini-2.5-flash-lite,demo_big5,26,R_GAAIS_3_N,I find Artificial Intelligence sinister....,1,1,158,1,159,,1
+2026-04-01T21:07:12.151088+00:00,google/gemini-2.5-flash-lite,demo_big5,26,R_GAAIS_8_N,Artificial Intelligence might take control of peop...,1,4,160,1,161,,4
+2026-04-01T21:07:12.557386+00:00,google/gemini-2.5-flash-lite,demo_big5,27,GAAIS_5_P,I am impressed by what Artificial Intelligence can...,1,5,162,1,163,,5
+2026-04-01T21:07:12.952959+00:00,google/gemini-2.5-flash-lite,demo_big5,27,GAAIS_7_P,Artificial Intelligence can have positive impacts ...,1,4,164,1,165,,4
+2026-04-01T21:07:13.370628+00:00,google/gemini-2.5-flash-lite,demo_big5,27,GAAIS_17_P,Artificial Intelligence is exciting....,1,5,157,1,158,,5
+2026-04-01T21:07:16.841503+00:00,google/gemini-2.5-flash-lite,demo_big5,27,R_GAAIS_3_N,I find Artificial Intelligence sinister....,1,2,158,1,159,,2
+2026-04-01T21:07:17.170113+00:00,google/gemini-2.5-flash-lite,demo_big5,27,R_GAAIS_8_N,Artificial Intelligence might take control of peop...,1,5,160,1,161,,5
+2026-04-01T21:07:17.506945+00:00,google/gemini-2.5-flash-lite,demo_big5,28,GAAIS_5_P,I am impressed by what Artificial Intelligence can...,1,5,161,1,162,,5
+2026-04-01T21:07:18.359098+00:00,google/gemini-2.5-flash-lite,demo_big5,28,GAAIS_7_P,Artificial Intelligence can have positive impacts ...,1,4,163,1,164,,4
+2026-04-01T21:07:18.932927+00:00,google/gemini-2.5-flash-lite,demo_big5,28,GAAIS_17_P,Artificial Intelligence is exciting....,1,5,156,1,157,,5
+2026-04-01T21:07:19.411929+00:00,google/gemini-2.5-flash-lite,demo_big5,28,R_GAAIS_3_N,I find Artificial Intelligence sinister....,1,4,157,1,158,,4
+2026-04-01T21:07:19.843119+00:00,google/gemini-2.5-flash-lite,demo_big5,28,R_GAAIS_8_N,Artificial Intelligence might take control of peop...,1,5,159,1,160,,5
+2026-04-01T21:07:20.190269+00:00,google/gemini-2.5-flash-lite,demo_big5,29,GAAIS_5_P,I am impressed by what Artificial Intelligence can...,1,5,160,1,161,,5
+2026-04-01T21:07:20.609388+00:00,google/gemini-2.5-flash-lite,demo_big5,29,GAAIS_7_P,Artificial Intelligence can have positive impacts ...,1,5,162,1,163,,5
+2026-04-01T21:07:20.989652+00:00,google/gemini-2.5-flash-lite,demo_big5,29,GAAIS_17_P,Artificial Intelligence is exciting....,1,5,155,1,156,,5
+2026-04-01T21:07:21.364245+00:00,google/gemini-2.5-flash-lite,demo_big5,29,R_GAAIS_3_N,I find Artificial Intelligence sinister....,1,4,156,1,157,,4
+2026-04-01T21:07:21.752038+00:00,google/gemini-2.5-flash-lite,demo_big5,29,R_GAAIS_8_N,Artificial Intelligence might take control of peop...,1,4,158,1,159,,4
+2026-04-01T21:07:22.091506+00:00,google/gemini-2.5-flash-lite,demo_big5,30,GAAIS_5_P,I am impressed by what Artificial Intelligence can...,1,4,162,1,163,,4
+2026-04-01T21:07:22.472738+00:00,google/gemini-2.5-flash-lite,demo_big5,30,GAAIS_7_P,Artificial Intelligence can have positive impacts ...,1,4,164,1,165,,4
+2026-04-01T21:07:22.942293+00:00,google/gemini-2.5-flash-lite,demo_big5,30,GAAIS_17_P,Artificial Intelligence is exciting....,1,5,157,1,158,,5
+2026-04-01T21:07:23.408892+00:00,google/gemini-2.5-flash-lite,demo_big5,30,R_GAAIS_3_N,I find Artificial Intelligence sinister....,1,4,158,1,159,,4
+2026-04-01T21:07:23.789797+00:00,google/gemini-2.5-flash-lite,demo_big5,30,R_GAAIS_8_N,Artificial Intelligence might take control of peop...,1,5,160,1,161,,5
+2026-04-01T21:07:24.141965+00:00,google/gemini-2.5-flash-lite,demo_big5,31,GAAIS_5_P,I am impressed by what Artificial Intelligence can...,1,5,162,1,163,,5
+2026-04-01T21:07:25.000955+00:00,google/gemini-2.5-flash-lite,demo_big5,31,GAAIS_7_P,Artificial Intelligence can have positive impacts ...,1,5,164,1,165,,5
+2026-04-01T21:07:25.382675+00:00,google/gemini-2.5-flash-lite,demo_big5,31,GAAIS_17_P,Artificial Intelligence is exciting....,1,5,157,1,158,,5
+2026-04-01T21:07:25.714676+00:00,google/gemini-2.5-flash-lite,demo_big5,31,R_GAAIS_3_N,I find Artificial Intelligence sinister....,1,2,158,1,159,,2
+2026-04-01T21:07:26.067169+00:00,google/gemini-2.5-flash-lite,demo_big5,31,R_GAAIS_8_N,Artificial Intelligence might take control of peop...,1,3,160,1,161,,3
+2026-04-01T21:07:26.425813+00:00,google/gemini-2.5-flash-lite,demo_big5,32,GAAIS_5_P,I am impressed by what Artificial Intelligence can...,1,4,160,1,161,,4
+2026-04-01T21:07:26.867167+00:00,google/gemini-2.5-flash-lite,demo_big5,32,GAAIS_7_P,Artificial Intelligence can have positive impacts ...,1,5,162,1,163,,5
+2026-04-01T21:07:27.247651+00:00,google/gemini-2.5-flash-lite,demo_big5,32,GAAIS_17_P,Artificial Intelligence is exciting....,1,5,155,1,156,,5
+2026-04-01T21:07:27.667398+00:00,google/gemini-2.5-flash-lite,demo_big5,32,R_GAAIS_3_N,I find Artificial Intelligence sinister....,1,2,156,1,157,,2
+2026-04-01T21:07:28.063817+00:00,google/gemini-2.5-flash-lite,demo_big5,32,R_GAAIS_8_N,Artificial Intelligence might take control of peop...,1,2,158,1,159,,2
+2026-04-01T21:07:28.459212+00:00,google/gemini-2.5-flash-lite,demo_big5,33,GAAIS_5_P,I am impressed by what Artificial Intelligence can...,1,5,161,1,162,,5
+2026-04-01T21:07:28.856241+00:00,google/gemini-2.5-flash-lite,demo_big5,33,GAAIS_7_P,Artificial Intelligence can have positive impacts ...,1,5,163,1,164,,5
+2026-04-01T21:07:29.185888+00:00,google/gemini-2.5-flash-lite,demo_big5,33,GAAIS_17_P,Artificial Intelligence is exciting....,1,5,156,1,157,,5
+2026-04-01T21:07:29.578472+00:00,google/gemini-2.5-flash-lite,demo_big5,33,R_GAAIS_3_N,I find Artificial Intelligence sinister....,1,1,157,1,158,,1
+2026-04-01T21:07:29.978892+00:00,google/gemini-2.5-flash-lite,demo_big5,33,R_GAAIS_8_N,Artificial Intelligence might take control of peop...,1,3,159,1,160,,3
+2026-04-01T21:07:30.351749+00:00,google/gemini-2.5-flash-lite,demo_big5,34,GAAIS_5_P,I am impressed by what Artificial Intelligence can...,1,5,162,1,163,,5
+2026-04-01T21:07:30.733458+00:00,google/gemini-2.5-flash-lite,demo_big5,34,GAAIS_7_P,Artificial Intelligence can have positive impacts ...,1,5,164,1,165,,5
+2026-04-01T21:07:31.062157+00:00,google/gemini-2.5-flash-lite,demo_big5,34,GAAIS_17_P,Artificial Intelligence is exciting....,1,4,157,1,158,,4
+2026-04-01T21:07:31.442602+00:00,google/gemini-2.5-flash-lite,demo_big5,34,R_GAAIS_3_N,I find Artificial Intelligence sinister....,1,4,158,1,159,,4
+2026-04-01T21:07:31.901357+00:00,google/gemini-2.5-flash-lite,demo_big5,34,R_GAAIS_8_N,Artificial Intelligence might take control of peop...,1,5,160,1,161,,5
+2026-04-01T21:07:33.158743+00:00,google/gemini-2.5-flash-lite,demo_big5,35,GAAIS_5_P,I am impressed by what Artificial Intelligence can...,1,5,161,1,162,,5
+2026-04-01T21:08:04.615049+00:00,google/gemini-2.5-flash-lite,demo_big5,35,GAAIS_7_P,Artificial Intelligence can have positive impacts ...,1,5,163,1,164,,5
+2026-04-01T21:08:04.996561+00:00,google/gemini-2.5-flash-lite,demo_big5,35,GAAIS_17_P,Artificial Intelligence is exciting....,1,5,156,1,157,,5
+2026-04-01T21:08:05.368749+00:00,google/gemini-2.5-flash-lite,demo_big5,35,R_GAAIS_3_N,I find Artificial Intelligence sinister....,1,2,157,1,158,,2
+2026-04-01T21:08:05.719285+00:00,google/gemini-2.5-flash-lite,demo_big5,35,R_GAAIS_8_N,Artificial Intelligence might take control of peop...,1,3,159,1,160,,3
+2026-04-01T21:08:06.086465+00:00,google/gemini-2.5-flash-lite,demo_big5,36,GAAIS_5_P,I am impressed by what Artificial Intelligence can...,1,5,161,1,162,,5
+2026-04-01T21:08:06.515359+00:00,google/gemini-2.5-flash-lite,demo_big5,36,GAAIS_7_P,Artificial Intelligence can have positive impacts ...,1,5,163,1,164,,5
+2026-04-01T21:08:06.863199+00:00,google/gemini-2.5-flash-lite,demo_big5,36,GAAIS_17_P,Artificial Intelligence is exciting....,1,5,156,1,157,,5
+2026-04-01T21:08:07.233643+00:00,google/gemini-2.5-flash-lite,demo_big5,36,R_GAAIS_3_N,I find Artificial Intelligence sinister....,1,2,157,1,158,,2
+2026-04-01T21:08:07.990671+00:00,google/gemini-2.5-flash-lite,demo_big5,36,R_GAAIS_8_N,Artificial Intelligence might take control of peop...,1,3,159,1,160,,3
+2026-04-01T21:08:08.334056+00:00,google/gemini-2.5-flash-lite,demo_big5,37,GAAIS_5_P,I am impressed by what Artificial Intelligence can...,1,5,160,1,161,,5
+2026-04-01T21:08:08.670975+00:00,google/gemini-2.5-flash-lite,demo_big5,37,GAAIS_7_P,Artificial Intelligence can have positive impacts ...,1,5,162,1,163,,5
+2026-04-01T21:08:09.015096+00:00,google/gemini-2.5-flash-lite,demo_big5,37,GAAIS_17_P,Artificial Intelligence is exciting....,1,5,155,1,156,,5
+2026-04-01T21:08:09.341232+00:00,google/gemini-2.5-flash-lite,demo_big5,37,R_GAAIS_3_N,I find Artificial Intelligence sinister....,1,4,156,1,157,,4
+2026-04-01T21:08:09.675057+00:00,google/gemini-2.5-flash-lite,demo_big5,37,R_GAAIS_8_N,Artificial Intelligence might take control of peop...,1,5,158,1,159,,5
+2026-04-01T21:08:10.050534+00:00,google/gemini-2.5-flash-lite,demo_big5,38,GAAIS_5_P,I am impressed by what Artificial Intelligence can...,1,4,160,1,161,,4
+2026-04-01T21:08:10.368994+00:00,google/gemini-2.5-flash-lite,demo_big5,38,GAAIS_7_P,Artificial Intelligence can have positive impacts ...,1,4,162,1,163,,4
+2026-04-01T21:08:10.833109+00:00,google/gemini-2.5-flash-lite,demo_big5,38,GAAIS_17_P,Artificial Intelligence is exciting....,1,4,155,1,156,,4
+2026-04-01T21:08:11.223708+00:00,google/gemini-2.5-flash-lite,demo_big5,38,R_GAAIS_3_N,I find Artificial Intelligence sinister....,1,4,156,1,157,,4
+2026-04-01T21:08:11.596948+00:00,google/gemini-2.5-flash-lite,demo_big5,38,R_GAAIS_8_N,Artificial Intelligence might take control of peop...,1,5,158,1,159,,5
+2026-04-01T21:08:11.956376+00:00,google/gemini-2.5-flash-lite,demo_big5,39,GAAIS_5_P,I am impressed by what Artificial Intelligence can...,1,5,162,1,163,,5
+2026-04-01T21:08:12.388393+00:00,google/gemini-2.5-flash-lite,demo_big5,39,GAAIS_7_P,Artificial Intelligence can have positive impacts ...,1,5,164,1,165,,5
+2026-04-01T21:08:12.735972+00:00,google/gemini-2.5-flash-lite,demo_big5,39,GAAIS_17_P,Artificial Intelligence is exciting....,1,5,157,1,158,,5
+2026-04-01T21:08:13.112634+00:00,google/gemini-2.5-flash-lite,demo_big5,39,R_GAAIS_3_N,I find Artificial Intelligence sinister....,1,2,158,1,159,,2
+2026-04-01T21:08:13.456853+00:00,google/gemini-2.5-flash-lite,demo_big5,39,R_GAAIS_8_N,Artificial Intelligence might take control of peop...,1,4,160,1,161,,4
+2026-04-01T21:08:13.862753+00:00,google/gemini-2.5-flash-lite,demo_big5,40,GAAIS_5_P,I am impressed by what Artificial Intelligence can...,1,5,159,1,160,,5
+2026-04-01T21:08:14.298270+00:00,google/gemini-2.5-flash-lite,demo_big5,40,GAAIS_7_P,Artificial Intelligence can have positive impacts ...,1,4,161,1,162,,4
+2026-04-01T21:08:14.691498+00:00,google/gemini-2.5-flash-lite,demo_big5,40,GAAIS_17_P,Artificial Intelligence is exciting....,1,5,154,1,155,,5
+2026-04-01T21:08:15.077546+00:00,google/gemini-2.5-flash-lite,demo_big5,40,R_GAAIS_3_N,I find Artificial Intelligence sinister....,1,3,155,1,156,,3
+2026-04-01T21:08:15.381516+00:00,google/gemini-2.5-flash-lite,demo_big5,40,R_GAAIS_8_N,Artificial Intelligence might take control of peop...,1,3,157,1,158,,3
+2026-04-01T21:08:15.733404+00:00,google/gemini-2.5-flash-lite,demo_big5,41,GAAIS_5_P,I am impressed by what Artificial Intelligence can...,1,5,161,1,162,,5
+2026-04-01T21:08:16.079923+00:00,google/gemini-2.5-flash-lite,demo_big5,41,GAAIS_7_P,Artificial Intelligence can have positive impacts ...,1,5,163,1,164,,5
+2026-04-01T21:08:16.882970+00:00,google/gemini-2.5-flash-lite,demo_big5,41,GAAIS_17_P,Artificial Intelligence is exciting....,1,5,156,1,157,,5
+2026-04-01T21:08:17.268866+00:00,google/gemini-2.5-flash-lite,demo_big5,41,R_GAAIS_3_N,I find Artificial Intelligence sinister....,1,1,157,1,158,,1
+2026-04-01T21:08:17.672422+00:00,google/gemini-2.5-flash-lite,demo_big5,41,R_GAAIS_8_N,Artificial Intelligence might take control of peop...,1,2,159,1,160,,2
+2026-04-01T21:08:18.137927+00:00,google/gemini-2.5-flash-lite,demo_big5,42,GAAIS_5_P,I am impressed by what Artificial Intelligence can...,1,5,160,1,161,,5
+2026-04-01T21:08:18.505111+00:00,google/gemini-2.5-flash-lite,demo_big5,42,GAAIS_7_P,Artificial Intelligence can have positive impacts ...,1,5,162,1,163,,5
+2026-04-01T21:08:18.829482+00:00,google/gemini-2.5-flash-lite,demo_big5,42,GAAIS_17_P,Artificial Intelligence is exciting....,1,5,155,1,156,,5
+2026-04-01T21:08:19.250235+00:00,google/gemini-2.5-flash-lite,demo_big5,42,R_GAAIS_3_N,I find Artificial Intelligence sinister....,1,2,156,1,157,,2
+2026-04-01T21:08:19.640657+00:00,google/gemini-2.5-flash-lite,demo_big5,42,R_GAAIS_8_N,Artificial Intelligence might take control of peop...,1,3,158,1,159,,3
+2026-04-01T21:08:20.496980+00:00,google/gemini-2.5-flash-lite,demo_big5,43,GAAIS_5_P,I am impressed by what Artificial Intelligence can...,1,5,163,1,164,,5
+2026-04-01T21:08:20.834378+00:00,google/gemini-2.5-flash-lite,demo_big5,43,GAAIS_7_P,Artificial Intelligence can have positive impacts ...,1,5,165,1,166,,5
+2026-04-01T21:08:21.437093+00:00,google/gemini-2.5-flash-lite,demo_big5,43,GAAIS_17_P,Artificial Intelligence is exciting....,1,5,158,1,159,,5
+2026-04-01T21:08:22.368776+00:00,google/gemini-2.5-flash-lite,demo_big5,43,R_GAAIS_3_N,I find Artificial Intelligence sinister....,1,2,159,1,160,,2
+2026-04-01T21:08:22.719331+00:00,google/gemini-2.5-flash-lite,demo_big5,43,R_GAAIS_8_N,Artificial Intelligence might take control of peop...,1,2,161,1,162,,2
+2026-04-01T21:08:23.130863+00:00,google/gemini-2.5-flash-lite,demo_big5,44,GAAIS_5_P,I am impressed by what Artificial Intelligence can...,1,5,163,1,164,,5
+2026-04-01T21:08:23.492179+00:00,google/gemini-2.5-flash-lite,demo_big5,44,GAAIS_7_P,Artificial Intelligence can have positive impacts ...,1,5,165,1,166,,5
+2026-04-01T21:08:23.897985+00:00,google/gemini-2.5-flash-lite,demo_big5,44,GAAIS_17_P,Artificial Intelligence is exciting....,1,5,158,1,159,,5
+2026-04-01T21:08:55.306760+00:00,google/gemini-2.5-flash-lite,demo_big5,44,R_GAAIS_3_N,I find Artificial Intelligence sinister....,1,2,159,1,160,,2
+2026-04-01T21:09:27.227365+00:00,google/gemini-2.5-flash-lite,demo_big5,44,R_GAAIS_8_N,Artificial Intelligence might take control of peop...,1,2,161,1,162,,2
+2026-04-01T21:09:27.644123+00:00,google/gemini-2.5-flash-lite,demo_big5,45,GAAIS_5_P,I am impressed by what Artificial Intelligence can...,1,5,160,1,161,,5
+2026-04-01T21:09:27.991743+00:00,google/gemini-2.5-flash-lite,demo_big5,45,GAAIS_7_P,Artificial Intelligence can have positive impacts ...,1,5,162,1,163,,5
+2026-04-01T21:09:28.456760+00:00,google/gemini-2.5-flash-lite,demo_big5,45,GAAIS_17_P,Artificial Intelligence is exciting....,1,5,155,1,156,,5
+2026-04-01T21:09:28.842196+00:00,google/gemini-2.5-flash-lite,demo_big5,45,R_GAAIS_3_N,I find Artificial Intelligence sinister....,1,4,156,1,157,,4
+2026-04-01T21:09:29.296336+00:00,google/gemini-2.5-flash-lite,demo_big5,45,R_GAAIS_8_N,Artificial Intelligence might take control of peop...,1,5,158,1,159,,5
+2026-04-01T21:09:29.692317+00:00,google/gemini-2.5-flash-lite,demo_big5,46,GAAIS_5_P,I am impressed by what Artificial Intelligence can...,1,5,161,1,162,,5
+2026-04-01T21:09:30.067019+00:00,google/gemini-2.5-flash-lite,demo_big5,46,GAAIS_7_P,Artificial Intelligence can have positive impacts ...,1,5,163,1,164,,5
+2026-04-01T21:09:30.436249+00:00,google/gemini-2.5-flash-lite,demo_big5,46,GAAIS_17_P,Artificial Intelligence is exciting....,1,4,156,1,157,,4
+2026-04-01T21:09:30.809695+00:00,google/gemini-2.5-flash-lite,demo_big5,46,R_GAAIS_3_N,I find Artificial Intelligence sinister....,1,4,157,1,158,,4
+2026-04-01T21:09:31.297596+00:00,google/gemini-2.5-flash-lite,demo_big5,46,R_GAAIS_8_N,Artificial Intelligence might take control of peop...,1,4,159,1,160,,4
+2026-04-01T21:09:31.641513+00:00,google/gemini-2.5-flash-lite,demo_big5,47,GAAIS_5_P,I am impressed by what Artificial Intelligence can...,1,5,160,1,161,,5
+2026-04-01T21:09:32.535894+00:00,google/gemini-2.5-flash-lite,demo_big5,47,GAAIS_7_P,Artificial Intelligence can have positive impacts ...,1,4,162,1,163,,4
+2026-04-01T21:09:32.934045+00:00,google/gemini-2.5-flash-lite,demo_big5,47,GAAIS_17_P,Artificial Intelligence is exciting....,1,5,155,1,156,,5
+2026-04-01T21:09:33.344275+00:00,google/gemini-2.5-flash-lite,demo_big5,47,R_GAAIS_3_N,I find Artificial Intelligence sinister....,1,3,156,1,157,,3
+2026-04-01T21:09:33.682475+00:00,google/gemini-2.5-flash-lite,demo_big5,47,R_GAAIS_8_N,Artificial Intelligence might take control of peop...,1,4,158,1,159,,4
+2026-04-01T21:09:34.048563+00:00,google/gemini-2.5-flash-lite,demo_big5,48,GAAIS_5_P,I am impressed by what Artificial Intelligence can...,1,5,162,1,163,,5
+2026-04-01T21:09:35.017953+00:00,google/gemini-2.5-flash-lite,demo_big5,48,GAAIS_7_P,Artificial Intelligence can have positive impacts ...,1,4,164,1,165,,4
+2026-04-01T21:09:35.349280+00:00,google/gemini-2.5-flash-lite,demo_big5,48,GAAIS_17_P,Artificial Intelligence is exciting....,1,5,157,1,158,,5
+2026-04-01T21:09:35.859032+00:00,google/gemini-2.5-flash-lite,demo_big5,48,R_GAAIS_3_N,I find Artificial Intelligence sinister....,1,4,158,1,159,,4
+2026-04-01T21:09:36.261167+00:00,google/gemini-2.5-flash-lite,demo_big5,48,R_GAAIS_8_N,Artificial Intelligence might take control of peop...,1,5,160,1,161,,5
+2026-04-01T21:09:36.609149+00:00,google/gemini-2.5-flash-lite,demo_big5,49,GAAIS_5_P,I am impressed by what Artificial Intelligence can...,1,4,160,1,161,,4
+2026-04-01T21:09:36.957650+00:00,google/gemini-2.5-flash-lite,demo_big5,49,GAAIS_7_P,Artificial Intelligence can have positive impacts ...,1,4,162,1,163,,4
+2026-04-01T21:09:37.333142+00:00,google/gemini-2.5-flash-lite,demo_big5,49,GAAIS_17_P,Artificial Intelligence is exciting....,1,4,155,1,156,,4
+2026-04-01T21:09:37.867543+00:00,google/gemini-2.5-flash-lite,demo_big5,49,R_GAAIS_3_N,I find Artificial Intelligence sinister....,1,4,156,1,157,,4
+2026-04-01T21:09:38.214449+00:00,google/gemini-2.5-flash-lite,demo_big5,49,R_GAAIS_8_N,Artificial Intelligence might take control of peop...,1,4,158,1,159,,4
+2026-04-01T21:09:38.552034+00:00,google/gemini-2.5-flash-lite,demo_big5,50,GAAIS_5_P,I am impressed by what Artificial Intelligence can...,1,4,160,1,161,,4
+2026-04-01T21:09:39.044961+00:00,google/gemini-2.5-flash-lite,demo_big5,50,GAAIS_7_P,Artificial Intelligence can have positive impacts ...,1,2,162,1,163,,2
+2026-04-01T21:09:39.393147+00:00,google/gemini-2.5-flash-lite,demo_big5,50,GAAIS_17_P,Artificial Intelligence is exciting....,1,4,155,1,156,,4
+2026-04-01T21:09:40.112427+00:00,google/gemini-2.5-flash-lite,demo_big5,50,R_GAAIS_3_N,I find Artificial Intelligence sinister....,1,4,156,1,157,,4
+2026-04-01T21:09:40.464924+00:00,google/gemini-2.5-flash-lite,demo_big5,50,R_GAAIS_8_N,Artificial Intelligence might take control of peop...,1,2,158,1,159,,2
+2026-04-01T21:09:40.879914+00:00,google/gemini-2.5-flash-lite,demo_big5,51,GAAIS_5_P,I am impressed by what Artificial Intelligence can...,1,5,161,1,162,,5
+2026-04-01T21:09:41.834231+00:00,google/gemini-2.5-flash-lite,demo_big5,51,GAAIS_7_P,Artificial Intelligence can have positive impacts ...,1,4,163,1,164,,4
+2026-04-01T21:09:42.214853+00:00,google/gemini-2.5-flash-lite,demo_big5,51,GAAIS_17_P,Artificial Intelligence is exciting....,1,5,156,1,157,,5
+2026-04-01T21:09:43.083004+00:00,google/gemini-2.5-flash-lite,demo_big5,51,R_GAAIS_3_N,I find Artificial Intelligence sinister....,1,5,157,1,158,,5
+2026-04-01T21:09:43.915577+00:00,google/gemini-2.5-flash-lite,demo_big5,51,R_GAAIS_8_N,Artificial Intelligence might take control of peop...,1,4,159,1,160,,4
+2026-04-01T21:09:44.299829+00:00,google/gemini-2.5-flash-lite,demo_big5,52,GAAIS_5_P,I am impressed by what Artificial Intelligence can...,1,5,161,1,162,,5
+2026-04-01T21:09:44.705934+00:00,google/gemini-2.5-flash-lite,demo_big5,52,GAAIS_7_P,Artificial Intelligence can have positive impacts ...,1,5,163,1,164,,5
+2026-04-01T21:09:45.023071+00:00,google/gemini-2.5-flash-lite,demo_big5,52,GAAIS_17_P,Artificial Intelligence is exciting....,1,5,156,1,157,,5
+2026-04-01T21:09:45.322785+00:00,google/gemini-2.5-flash-lite,demo_big5,52,R_GAAIS_3_N,I find Artificial Intelligence sinister....,1,5,157,1,158,,5
+2026-04-01T21:09:45.766211+00:00,google/gemini-2.5-flash-lite,demo_big5,52,R_GAAIS_8_N,Artificial Intelligence might take control of peop...,1,2,159,1,160,,2
+2026-04-01T21:09:46.703338+00:00,google/gemini-2.5-flash-lite,demo_big5,53,GAAIS_5_P,I am impressed by what Artificial Intelligence can...,1,5,162,1,163,,5
+2026-04-01T21:09:47.490771+00:00,google/gemini-2.5-flash-lite,demo_big5,53,GAAIS_7_P,Artificial Intelligence can have positive impacts ...,1,5,164,1,165,,5
+2026-04-01T21:09:47.883664+00:00,google/gemini-2.5-flash-lite,demo_big5,53,GAAIS_17_P,Artificial Intelligence is exciting....,1,5,157,1,158,,5
+2026-04-01T21:09:48.244611+00:00,google/gemini-2.5-flash-lite,demo_big5,53,R_GAAIS_3_N,I find Artificial Intelligence sinister....,1,1,158,1,159,,1
+2026-04-01T21:09:48.698528+00:00,google/gemini-2.5-flash-lite,demo_big5,53,R_GAAIS_8_N,Artificial Intelligence might take control of peop...,1,3,160,1,161,,3
+2026-04-01T21:09:49.043603+00:00,google/gemini-2.5-flash-lite,demo_big5,54,GAAIS_5_P,I am impressed by what Artificial Intelligence can...,1,5,162,1,163,,5
+2026-04-01T21:09:49.486607+00:00,google/gemini-2.5-flash-lite,demo_big5,54,GAAIS_7_P,Artificial Intelligence can have positive impacts ...,1,4,164,1,165,,4
+2026-04-01T21:09:50.056286+00:00,google/gemini-2.5-flash-lite,demo_big5,54,GAAIS_17_P,Artificial Intelligence is exciting....,1,5,157,1,158,,5
+2026-04-01T21:09:50.498659+00:00,google/gemini-2.5-flash-lite,demo_big5,54,R_GAAIS_3_N,I find Artificial Intelligence sinister....,1,3,158,1,159,,3
+2026-04-01T21:09:50.921008+00:00,google/gemini-2.5-flash-lite,demo_big5,54,R_GAAIS_8_N,Artificial Intelligence might take control of peop...,1,4,160,1,161,,4
+2026-04-01T21:09:51.536132+00:00,google/gemini-2.5-flash-lite,demo_big5,55,GAAIS_5_P,I am impressed by what Artificial Intelligence can...,1,5,162,1,163,,5
+2026-04-01T21:09:51.944189+00:00,google/gemini-2.5-flash-lite,demo_big5,55,GAAIS_7_P,Artificial Intelligence can have positive impacts ...,1,5,164,1,165,,5
+2026-04-01T21:09:52.298845+00:00,google/gemini-2.5-flash-lite,demo_big5,55,GAAIS_17_P,Artificial Intelligence is exciting....,1,5,157,1,158,,5
+2026-04-01T21:09:52.694243+00:00,google/gemini-2.5-flash-lite,demo_big5,55,R_GAAIS_3_N,I find Artificial Intelligence sinister....,1,2,158,1,159,,2
+2026-04-01T21:09:53.098291+00:00,google/gemini-2.5-flash-lite,demo_big5,55,R_GAAIS_8_N,Artificial Intelligence might take control of peop...,1,5,160,1,161,,5
+2026-04-01T21:10:24.479760+00:00,google/gemini-2.5-flash-lite,demo_big5,56,GAAIS_5_P,I am impressed by what Artificial Intelligence can...,1,5,162,1,163,,5
+2026-04-01T21:10:25.336064+00:00,google/gemini-2.5-flash-lite,demo_big5,56,GAAIS_7_P,Artificial Intelligence can have positive impacts ...,1,5,164,1,165,,5
+2026-04-01T21:10:25.705568+00:00,google/gemini-2.5-flash-lite,demo_big5,56,GAAIS_17_P,Artificial Intelligence is exciting....,1,5,157,1,158,,5
+2026-04-01T21:10:26.111865+00:00,google/gemini-2.5-flash-lite,demo_big5,56,R_GAAIS_3_N,I find Artificial Intelligence sinister....,1,3,158,1,159,,3
+2026-04-01T21:10:26.555862+00:00,google/gemini-2.5-flash-lite,demo_big5,56,R_GAAIS_8_N,Artificial Intelligence might take control of peop...,1,5,160,1,161,,5
+2026-04-01T21:10:26.999180+00:00,google/gemini-2.5-flash-lite,demo_big5,57,GAAIS_5_P,I am impressed by what Artificial Intelligence can...,1,5,161,1,162,,5
+2026-04-01T21:10:27.381551+00:00,google/gemini-2.5-flash-lite,demo_big5,57,GAAIS_7_P,Artificial Intelligence can have positive impacts ...,1,4,163,1,164,,4
+2026-04-01T21:10:27.862919+00:00,google/gemini-2.5-flash-lite,demo_big5,57,GAAIS_17_P,Artificial Intelligence is exciting....,1,5,156,1,157,,5
+2026-04-01T21:10:28.241022+00:00,google/gemini-2.5-flash-lite,demo_big5,57,R_GAAIS_3_N,I find Artificial Intelligence sinister....,1,4,157,1,158,,4
+2026-04-01T21:10:28.586754+00:00,google/gemini-2.5-flash-lite,demo_big5,57,R_GAAIS_8_N,Artificial Intelligence might take control of peop...,1,5,159,1,160,,5
+2026-04-01T21:10:28.947958+00:00,google/gemini-2.5-flash-lite,demo_big5,58,GAAIS_5_P,I am impressed by what Artificial Intelligence can...,1,5,161,1,162,,5
+2026-04-01T21:10:29.357972+00:00,google/gemini-2.5-flash-lite,demo_big5,58,GAAIS_7_P,Artificial Intelligence can have positive impacts ...,1,4,163,1,164,,4
+2026-04-01T21:11:00.749452+00:00,google/gemini-2.5-flash-lite,demo_big5,58,GAAIS_17_P,Artificial Intelligence is exciting....,1,4,156,1,157,,4
+2026-04-01T21:11:01.058970+00:00,google/gemini-2.5-flash-lite,demo_big5,58,R_GAAIS_3_N,I find Artificial Intelligence sinister....,1,4,157,1,158,,4
+2026-04-01T21:11:01.417381+00:00,google/gemini-2.5-flash-lite,demo_big5,58,R_GAAIS_8_N,Artificial Intelligence might take control of peop...,1,4,159,1,160,,4
+2026-04-01T21:11:01.753307+00:00,google/gemini-2.5-flash-lite,demo_big5,59,GAAIS_5_P,I am impressed by what Artificial Intelligence can...,1,5,160,1,161,,5
+2026-04-01T21:11:02.101787+00:00,google/gemini-2.5-flash-lite,demo_big5,59,GAAIS_7_P,Artificial Intelligence can have positive impacts ...,1,4,162,1,163,,4
+2026-04-01T21:11:02.455358+00:00,google/gemini-2.5-flash-lite,demo_big5,59,GAAIS_17_P,Artificial Intelligence is exciting....,1,5,155,1,156,,5
+2026-04-01T21:11:02.798476+00:00,google/gemini-2.5-flash-lite,demo_big5,59,R_GAAIS_3_N,I find Artificial Intelligence sinister....,1,2,156,1,157,,2
+2026-04-01T21:11:03.136774+00:00,google/gemini-2.5-flash-lite,demo_big5,59,R_GAAIS_8_N,Artificial Intelligence might take control of peop...,1,2,158,1,159,,2
+2026-04-01T21:11:03.953558+00:00,google/gemini-2.5-flash-lite,demo_big5,60,GAAIS_5_P,I am impressed by what Artificial Intelligence can...,1,5,161,1,162,,5
+2026-04-01T21:11:04.279188+00:00,google/gemini-2.5-flash-lite,demo_big5,60,GAAIS_7_P,Artificial Intelligence can have positive impacts ...,1,5,163,1,164,,5
+2026-04-01T21:11:04.704274+00:00,google/gemini-2.5-flash-lite,demo_big5,60,GAAIS_17_P,Artificial Intelligence is exciting....,1,5,156,1,157,,5
+2026-04-01T21:11:05.033457+00:00,google/gemini-2.5-flash-lite,demo_big5,60,R_GAAIS_3_N,I find Artificial Intelligence sinister....,1,2,157,1,158,,2
+2026-04-01T21:11:05.839975+00:00,google/gemini-2.5-flash-lite,demo_big5,60,R_GAAIS_8_N,Artificial Intelligence might take control of peop...,1,3,159,1,160,,3
+2026-04-01T21:11:06.249346+00:00,google/gemini-2.5-flash-lite,demo_big5,61,GAAIS_5_P,I am impressed by what Artificial Intelligence can...,1,5,159,1,160,,5
+2026-04-01T21:11:06.662825+00:00,google/gemini-2.5-flash-lite,demo_big5,61,GAAIS_7_P,Artificial Intelligence can have positive impacts ...,1,4,161,1,162,,4
+2026-04-01T21:11:06.984233+00:00,google/gemini-2.5-flash-lite,demo_big5,61,GAAIS_17_P,Artificial Intelligence is exciting....,1,5,154,1,155,,5
+2026-04-01T21:11:07.318578+00:00,google/gemini-2.5-flash-lite,demo_big5,61,R_GAAIS_3_N,I find Artificial Intelligence sinister....,1,5,155,1,156,,5
+2026-04-01T21:11:07.800797+00:00,google/gemini-2.5-flash-lite,demo_big5,61,R_GAAIS_8_N,Artificial Intelligence might take control of peop...,1,5,157,1,158,,5
+2026-04-01T21:11:08.105945+00:00,google/gemini-2.5-flash-lite,demo_big5,62,GAAIS_5_P,I am impressed by what Artificial Intelligence can...,1,5,162,1,163,,5
+2026-04-01T21:11:08.442249+00:00,google/gemini-2.5-flash-lite,demo_big5,62,GAAIS_7_P,Artificial Intelligence can have positive impacts ...,1,4,164,1,165,,4
+2026-04-01T21:11:08.882429+00:00,google/gemini-2.5-flash-lite,demo_big5,62,GAAIS_17_P,Artificial Intelligence is exciting....,1,5,157,1,158,,5
+2026-04-01T21:11:09.276957+00:00,google/gemini-2.5-flash-lite,demo_big5,62,R_GAAIS_3_N,I find Artificial Intelligence sinister....,1,2,158,1,159,,2
+2026-04-01T21:11:09.667640+00:00,google/gemini-2.5-flash-lite,demo_big5,62,R_GAAIS_8_N,Artificial Intelligence might take control of peop...,1,3,160,1,161,,3
+2026-04-01T21:11:10.033224+00:00,google/gemini-2.5-flash-lite,demo_big5,63,GAAIS_5_P,I am impressed by what Artificial Intelligence can...,1,5,160,1,161,,5
+2026-04-01T21:11:10.526519+00:00,google/gemini-2.5-flash-lite,demo_big5,63,GAAIS_7_P,Artificial Intelligence can have positive impacts ...,1,4,162,1,163,,4
+2026-04-01T21:11:11.115563+00:00,google/gemini-2.5-flash-lite,demo_big5,63,GAAIS_17_P,Artificial Intelligence is exciting....,1,5,155,1,156,,5
+2026-04-01T21:11:12.030236+00:00,google/gemini-2.5-flash-lite,demo_big5,63,R_GAAIS_3_N,I find Artificial Intelligence sinister....,1,2,156,1,157,,2
+2026-04-01T21:11:12.406952+00:00,google/gemini-2.5-flash-lite,demo_big5,63,R_GAAIS_8_N,Artificial Intelligence might take control of peop...,1,3,158,1,159,,3
+2026-04-01T21:11:13.304925+00:00,google/gemini-2.5-flash-lite,demo_big5,64,GAAIS_5_P,I am impressed by what Artificial Intelligence can...,1,5,160,1,161,,5
+2026-04-01T21:11:13.682169+00:00,google/gemini-2.5-flash-lite,demo_big5,64,GAAIS_7_P,Artificial Intelligence can have positive impacts ...,1,5,162,1,163,,5
+2026-04-01T21:11:14.142083+00:00,google/gemini-2.5-flash-lite,demo_big5,64,GAAIS_17_P,Artificial Intelligence is exciting....,1,4,155,1,156,,4
+2026-04-01T21:11:45.660935+00:00,google/gemini-2.5-flash-lite,demo_big5,64,R_GAAIS_3_N,I find Artificial Intelligence sinister....,1,4,156,1,157,,4
+2026-04-01T21:11:46.257499+00:00,google/gemini-2.5-flash-lite,demo_big5,64,R_GAAIS_8_N,Artificial Intelligence might take control of peop...,1,4,158,1,159,,4
+2026-04-01T21:11:46.674497+00:00,google/gemini-2.5-flash-lite,demo_big5,65,GAAIS_5_P,I am impressed by what Artificial Intelligence can...,1,5,161,1,162,,5
+2026-04-01T21:11:47.115840+00:00,google/gemini-2.5-flash-lite,demo_big5,65,GAAIS_7_P,Artificial Intelligence can have positive impacts ...,1,5,163,1,164,,5
+2026-04-01T21:11:47.457063+00:00,google/gemini-2.5-flash-lite,demo_big5,65,GAAIS_17_P,Artificial Intelligence is exciting....,1,5,156,1,157,,5
+2026-04-01T21:11:47.799874+00:00,google/gemini-2.5-flash-lite,demo_big5,65,R_GAAIS_3_N,I find Artificial Intelligence sinister....,1,1,157,1,158,,1
+2026-04-01T21:11:48.204860+00:00,google/gemini-2.5-flash-lite,demo_big5,65,R_GAAIS_8_N,Artificial Intelligence might take control of peop...,1,3,159,1,160,,3
+2026-04-01T21:11:48.951921+00:00,google/gemini-2.5-flash-lite,demo_big5,66,GAAIS_5_P,I am impressed by what Artificial Intelligence can...,1,5,161,1,162,,5
+2026-04-01T21:11:49.344078+00:00,google/gemini-2.5-flash-lite,demo_big5,66,GAAIS_7_P,Artificial Intelligence can have positive impacts ...,1,5,163,1,164,,5
+2026-04-01T21:11:49.776331+00:00,google/gemini-2.5-flash-lite,demo_big5,66,GAAIS_17_P,Artificial Intelligence is exciting....,1,5,156,1,157,,5
+2026-04-01T21:11:50.102587+00:00,google/gemini-2.5-flash-lite,demo_big5,66,R_GAAIS_3_N,I find Artificial Intelligence sinister....,1,1,157,1,158,,1
+2026-04-01T21:11:50.497711+00:00,google/gemini-2.5-flash-lite,demo_big5,66,R_GAAIS_8_N,Artificial Intelligence might take control of peop...,1,2,159,1,160,,2
+2026-04-01T21:11:50.856649+00:00,google/gemini-2.5-flash-lite,demo_big5,67,GAAIS_5_P,I am impressed by what Artificial Intelligence can...,1,5,161,1,162,,5
+2026-04-01T21:11:51.370614+00:00,google/gemini-2.5-flash-lite,demo_big5,67,GAAIS_7_P,Artificial Intelligence can have positive impacts ...,1,4,163,1,164,,4
+2026-04-01T21:11:51.787471+00:00,google/gemini-2.5-flash-lite,demo_big5,67,GAAIS_17_P,Artificial Intelligence is exciting....,1,5,156,1,157,,5
+2026-04-01T21:11:52.155246+00:00,google/gemini-2.5-flash-lite,demo_big5,67,R_GAAIS_3_N,I find Artificial Intelligence sinister....,1,4,157,1,158,,4
+2026-04-01T21:11:52.614204+00:00,google/gemini-2.5-flash-lite,demo_big5,67,R_GAAIS_8_N,Artificial Intelligence might take control of peop...,1,4,159,1,160,,4
+2026-04-01T21:11:52.971202+00:00,google/gemini-2.5-flash-lite,demo_big5,68,GAAIS_5_P,I am impressed by what Artificial Intelligence can...,1,5,159,1,160,,5
+2026-04-01T21:11:53.807054+00:00,google/gemini-2.5-flash-lite,demo_big5,68,GAAIS_7_P,Artificial Intelligence can have positive impacts ...,1,4,161,1,162,,4
+2026-04-01T21:11:54.952638+00:00,google/gemini-2.5-flash-lite,demo_big5,68,GAAIS_17_P,Artificial Intelligence is exciting....,1,5,154,1,155,,5
+2026-04-01T21:11:55.343209+00:00,google/gemini-2.5-flash-lite,demo_big5,68,R_GAAIS_3_N,I find Artificial Intelligence sinister....,1,2,155,1,156,,2
+2026-04-01T21:11:55.736925+00:00,google/gemini-2.5-flash-lite,demo_big5,68,R_GAAIS_8_N,Artificial Intelligence might take control of peop...,1,3,157,1,158,,3
+2026-04-01T21:11:56.174841+00:00,google/gemini-2.5-flash-lite,demo_big5,69,GAAIS_5_P,I am impressed by what Artificial Intelligence can...,1,4,161,1,162,,4
+2026-04-01T21:11:56.578876+00:00,google/gemini-2.5-flash-lite,demo_big5,69,GAAIS_7_P,Artificial Intelligence can have positive impacts ...,1,5,163,1,164,,5
+2026-04-01T21:11:56.893678+00:00,google/gemini-2.5-flash-lite,demo_big5,69,GAAIS_17_P,Artificial Intelligence is exciting....,1,4,156,1,157,,4
+2026-04-01T21:11:57.290776+00:00,google/gemini-2.5-flash-lite,demo_big5,69,R_GAAIS_3_N,I find Artificial Intelligence sinister....,1,4,157,1,158,,4
+2026-04-01T21:11:57.636351+00:00,google/gemini-2.5-flash-lite,demo_big5,69,R_GAAIS_8_N,Artificial Intelligence might take control of peop...,1,5,159,1,160,,5
+2026-04-01T21:11:58.110469+00:00,google/gemini-2.5-flash-lite,demo_big5,70,GAAIS_5_P,I am impressed by what Artificial Intelligence can...,1,5,163,1,164,,5
+2026-04-01T21:11:58.633438+00:00,google/gemini-2.5-flash-lite,demo_big5,70,GAAIS_7_P,Artificial Intelligence can have positive impacts ...,1,5,165,1,166,,5
+2026-04-01T21:11:58.998358+00:00,google/gemini-2.5-flash-lite,demo_big5,70,GAAIS_17_P,Artificial Intelligence is exciting....,1,5,158,1,159,,5
+2026-04-01T21:11:59.374604+00:00,google/gemini-2.5-flash-lite,demo_big5,70,R_GAAIS_3_N,I find Artificial Intelligence sinister....,1,5,159,1,160,,5
+2026-04-01T21:11:59.723015+00:00,google/gemini-2.5-flash-lite,demo_big5,70,R_GAAIS_8_N,Artificial Intelligence might take control of peop...,1,5,161,1,162,,5
+2026-04-01T21:12:00.117677+00:00,google/gemini-2.5-flash-lite,demo_big5,71,GAAIS_5_P,I am impressed by what Artificial Intelligence can...,1,5,159,1,160,,5
+2026-04-01T21:12:00.520111+00:00,google/gemini-2.5-flash-lite,demo_big5,71,GAAIS_7_P,Artificial Intelligence can have positive impacts ...,1,4,161,1,162,,4
+2026-04-01T21:12:01.002163+00:00,google/gemini-2.5-flash-lite,demo_big5,71,GAAIS_17_P,Artificial Intelligence is exciting....,1,5,154,1,155,,5
+2026-04-01T21:12:01.455326+00:00,google/gemini-2.5-flash-lite,demo_big5,71,R_GAAIS_3_N,I find Artificial Intelligence sinister....,1,4,155,1,156,,4
+2026-04-01T21:12:01.848722+00:00,google/gemini-2.5-flash-lite,demo_big5,71,R_GAAIS_8_N,Artificial Intelligence might take control of peop...,1,4,157,1,158,,4
+2026-04-01T21:12:02.241773+00:00,google/gemini-2.5-flash-lite,demo_big5,72,GAAIS_5_P,I am impressed by what Artificial Intelligence can...,1,5,161,1,162,,5
+2026-04-01T21:12:02.647428+00:00,google/gemini-2.5-flash-lite,demo_big5,72,GAAIS_7_P,Artificial Intelligence can have positive impacts ...,1,5,163,1,164,,5
+2026-04-01T21:12:03.023436+00:00,google/gemini-2.5-flash-lite,demo_big5,72,GAAIS_17_P,Artificial Intelligence is exciting....,1,5,156,1,157,,5
+2026-04-01T21:12:03.510878+00:00,google/gemini-2.5-flash-lite,demo_big5,72,R_GAAIS_3_N,I find Artificial Intelligence sinister....,1,2,157,1,158,,2
+2026-04-01T21:12:03.901275+00:00,google/gemini-2.5-flash-lite,demo_big5,72,R_GAAIS_8_N,Artificial Intelligence might take control of peop...,1,3,159,1,160,,3
+2026-04-01T21:12:04.325520+00:00,google/gemini-2.5-flash-lite,demo_big5,73,GAAIS_5_P,I am impressed by what Artificial Intelligence can...,1,5,160,1,161,,5
+2026-04-01T21:12:05.300131+00:00,google/gemini-2.5-flash-lite,demo_big5,73,GAAIS_7_P,Artificial Intelligence can have positive impacts ...,1,4,162,1,163,,4
+2026-04-01T21:12:05.654640+00:00,google/gemini-2.5-flash-lite,demo_big5,73,GAAIS_17_P,Artificial Intelligence is exciting....,1,5,155,1,156,,5
+2026-04-01T21:12:06.536059+00:00,google/gemini-2.5-flash-lite,demo_big5,73,R_GAAIS_3_N,I find Artificial Intelligence sinister....,1,3,156,1,157,,3
+2026-04-01T21:12:06.897665+00:00,google/gemini-2.5-flash-lite,demo_big5,73,R_GAAIS_8_N,Artificial Intelligence might take control of peop...,1,4,158,1,159,,4
+2026-04-01T21:12:07.344463+00:00,google/gemini-2.5-flash-lite,demo_big5,74,GAAIS_5_P,I am impressed by what Artificial Intelligence can...,1,4,161,1,162,,4
+2026-04-01T21:12:08.167631+00:00,google/gemini-2.5-flash-lite,demo_big5,74,GAAIS_7_P,Artificial Intelligence can have positive impacts ...,1,4,163,1,164,,4
+2026-04-01T21:12:08.874060+00:00,google/gemini-2.5-flash-lite,demo_big5,74,GAAIS_17_P,Artificial Intelligence is exciting....,1,4,156,1,157,,4
+2026-04-01T21:12:09.340823+00:00,google/gemini-2.5-flash-lite,demo_big5,74,R_GAAIS_3_N,I find Artificial Intelligence sinister....,1,3,157,1,158,,3
+2026-04-01T21:12:09.663892+00:00,google/gemini-2.5-flash-lite,demo_big5,74,R_GAAIS_8_N,Artificial Intelligence might take control of peop...,1,3,159,1,160,,3
+2026-04-01T21:12:10.011973+00:00,google/gemini-2.5-flash-lite,demo_big5,75,GAAIS_5_P,I am impressed by what Artificial Intelligence can...,1,4,160,1,161,,4
+2026-04-01T21:12:10.396305+00:00,google/gemini-2.5-flash-lite,demo_big5,75,GAAIS_7_P,Artificial Intelligence can have positive impacts ...,1,4,162,1,163,,4
+2026-04-01T21:12:10.704389+00:00,google/gemini-2.5-flash-lite,demo_big5,75,GAAIS_17_P,Artificial Intelligence is exciting....,1,4,155,1,156,,4
+2026-04-01T21:12:11.565806+00:00,google/gemini-2.5-flash-lite,demo_big5,75,R_GAAIS_3_N,I find Artificial Intelligence sinister....,1,4,156,1,157,,4
+2026-04-01T21:12:12.025302+00:00,google/gemini-2.5-flash-lite,demo_big5,75,R_GAAIS_8_N,Artificial Intelligence might take control of peop...,1,4,158,1,159,,4
+2026-04-01T21:12:12.352513+00:00,google/gemini-2.5-flash-lite,demo_big5,76,GAAIS_5_P,I am impressed by what Artificial Intelligence can...,1,4,161,1,162,,4
+2026-04-01T21:12:12.686170+00:00,google/gemini-2.5-flash-lite,demo_big5,76,GAAIS_7_P,Artificial Intelligence can have positive impacts ...,1,4,163,1,164,,4
+2026-04-01T21:12:13.342929+00:00,google/gemini-2.5-flash-lite,demo_big5,76,GAAIS_17_P,Artificial Intelligence is exciting....,1,5,156,1,157,,5
+2026-04-01T21:12:13.730541+00:00,google/gemini-2.5-flash-lite,demo_big5,76,R_GAAIS_3_N,I find Artificial Intelligence sinister....,1,4,157,1,158,,4
+2026-04-01T21:12:14.146956+00:00,google/gemini-2.5-flash-lite,demo_big5,76,R_GAAIS_8_N,Artificial Intelligence might take control of peop...,1,4,159,1,160,,4
+2026-04-01T21:12:14.528375+00:00,google/gemini-2.5-flash-lite,demo_big5,77,GAAIS_5_P,I am impressed by what Artificial Intelligence can...,1,5,159,1,160,,5
+2026-04-01T21:12:14.899080+00:00,google/gemini-2.5-flash-lite,demo_big5,77,GAAIS_7_P,Artificial Intelligence can have positive impacts ...,1,5,161,1,162,,5
+2026-04-01T21:12:15.338107+00:00,google/gemini-2.5-flash-lite,demo_big5,77,GAAIS_17_P,Artificial Intelligence is exciting....,1,5,154,1,155,,5
+2026-04-01T21:12:15.684544+00:00,google/gemini-2.5-flash-lite,demo_big5,77,R_GAAIS_3_N,I find Artificial Intelligence sinister....,1,4,155,1,156,,4
+2026-04-01T21:12:16.195513+00:00,google/gemini-2.5-flash-lite,demo_big5,77,R_GAAIS_8_N,Artificial Intelligence might take control of peop...,1,5,157,1,158,,5
+2026-04-01T21:12:16.929830+00:00,google/gemini-2.5-flash-lite,demo_big5,78,GAAIS_5_P,I am impressed by what Artificial Intelligence can...,1,4,160,1,161,,4
+2026-04-01T21:12:17.359552+00:00,google/gemini-2.5-flash-lite,demo_big5,78,GAAIS_7_P,Artificial Intelligence can have positive impacts ...,1,4,162,1,163,,4
+2026-04-01T21:12:17.721360+00:00,google/gemini-2.5-flash-lite,demo_big5,78,GAAIS_17_P,Artificial Intelligence is exciting....,1,5,155,1,156,,5
+2026-04-01T21:12:18.109689+00:00,google/gemini-2.5-flash-lite,demo_big5,78,R_GAAIS_3_N,I find Artificial Intelligence sinister....,1,4,156,1,157,,4
+2026-04-01T21:12:18.534800+00:00,google/gemini-2.5-flash-lite,demo_big5,78,R_GAAIS_8_N,Artificial Intelligence might take control of peop...,1,5,158,1,159,,5
+2026-04-01T21:12:18.969472+00:00,google/gemini-2.5-flash-lite,demo_big5,79,GAAIS_5_P,I am impressed by what Artificial Intelligence can...,1,5,160,1,161,,5
+2026-04-01T21:12:19.304965+00:00,google/gemini-2.5-flash-lite,demo_big5,79,GAAIS_7_P,Artificial Intelligence can have positive impacts ...,1,4,162,1,163,,4
+2026-04-01T21:12:19.703010+00:00,google/gemini-2.5-flash-lite,demo_big5,79,GAAIS_17_P,Artificial Intelligence is exciting....,1,5,155,1,156,,5
+2026-04-01T21:12:20.103760+00:00,google/gemini-2.5-flash-lite,demo_big5,79,R_GAAIS_3_N,I find Artificial Intelligence sinister....,1,5,156,1,157,,5
+2026-04-01T21:12:20.564468+00:00,google/gemini-2.5-flash-lite,demo_big5,79,R_GAAIS_8_N,Artificial Intelligence might take control of peop...,1,5,158,1,159,,5
+2026-04-01T21:12:20.996089+00:00,google/gemini-2.5-flash-lite,demo_big5,80,GAAIS_5_P,I am impressed by what Artificial Intelligence can...,1,5,160,1,161,,5
+2026-04-01T21:12:21.385299+00:00,google/gemini-2.5-flash-lite,demo_big5,80,GAAIS_7_P,Artificial Intelligence can have positive impacts ...,1,5,162,1,163,,5
+2026-04-01T21:12:21.764746+00:00,google/gemini-2.5-flash-lite,demo_big5,80,GAAIS_17_P,Artificial Intelligence is exciting....,1,4,155,1,156,,4
+2026-04-01T21:12:22.095605+00:00,google/gemini-2.5-flash-lite,demo_big5,80,R_GAAIS_3_N,I find Artificial Intelligence sinister....,1,2,156,1,157,,2
+2026-04-01T21:12:22.489304+00:00,google/gemini-2.5-flash-lite,demo_big5,80,R_GAAIS_8_N,Artificial Intelligence might take control of peop...,1,3,158,1,159,,3
+2026-04-01T21:12:22.860435+00:00,google/gemini-2.5-flash-lite,demo_big5,81,GAAIS_5_P,I am impressed by what Artificial Intelligence can...,1,5,160,1,161,,5
+2026-04-01T21:12:23.753691+00:00,google/gemini-2.5-flash-lite,demo_big5,81,GAAIS_7_P,Artificial Intelligence can have positive impacts ...,1,4,162,1,163,,4
+2026-04-01T21:12:24.269404+00:00,google/gemini-2.5-flash-lite,demo_big5,81,GAAIS_17_P,Artificial Intelligence is exciting....,1,5,155,1,156,,5
+2026-04-01T21:12:24.834530+00:00,google/gemini-2.5-flash-lite,demo_big5,81,R_GAAIS_3_N,I find Artificial Intelligence sinister....,1,4,156,1,157,,4
+2026-04-01T21:12:25.300016+00:00,google/gemini-2.5-flash-lite,demo_big5,81,R_GAAIS_8_N,Artificial Intelligence might take control of peop...,1,5,158,1,159,,5
+2026-04-01T21:12:25.673320+00:00,google/gemini-2.5-flash-lite,demo_big5,82,GAAIS_5_P,I am impressed by what Artificial Intelligence can...,1,5,160,1,161,,5
+2026-04-01T21:12:26.049185+00:00,google/gemini-2.5-flash-lite,demo_big5,82,GAAIS_7_P,Artificial Intelligence can have positive impacts ...,1,5,162,1,163,,5
+2026-04-01T21:12:26.512627+00:00,google/gemini-2.5-flash-lite,demo_big5,82,GAAIS_17_P,Artificial Intelligence is exciting....,1,5,155,1,156,,5
+2026-04-01T21:12:26.821473+00:00,google/gemini-2.5-flash-lite,demo_big5,82,R_GAAIS_3_N,I find Artificial Intelligence sinister....,1,2,156,1,157,,2
+2026-04-01T21:12:27.167253+00:00,google/gemini-2.5-flash-lite,demo_big5,82,R_GAAIS_8_N,Artificial Intelligence might take control of peop...,1,2,158,1,159,,2
+2026-04-01T21:12:27.999173+00:00,google/gemini-2.5-flash-lite,demo_big5,83,GAAIS_5_P,I am impressed by what Artificial Intelligence can...,1,5,161,1,162,,5
+2026-04-01T21:12:28.818154+00:00,google/gemini-2.5-flash-lite,demo_big5,83,GAAIS_7_P,Artificial Intelligence can have positive impacts ...,1,5,163,1,164,,5
+2026-04-01T21:12:29.263697+00:00,google/gemini-2.5-flash-lite,demo_big5,83,GAAIS_17_P,Artificial Intelligence is exciting....,1,5,156,1,157,,5
+2026-04-01T21:12:30.829684+00:00,google/gemini-2.5-flash-lite,demo_big5,83,R_GAAIS_3_N,I find Artificial Intelligence sinister....,1,2,157,1,158,,2
+2026-04-01T21:12:31.184324+00:00,google/gemini-2.5-flash-lite,demo_big5,83,R_GAAIS_8_N,Artificial Intelligence might take control of peop...,1,2,159,1,160,,2
+2026-04-01T21:12:32.696864+00:00,google/gemini-2.5-flash-lite,demo_big5,84,GAAIS_5_P,I am impressed by what Artificial Intelligence can...,1,5,161,1,162,,5
+2026-04-01T21:12:33.078913+00:00,google/gemini-2.5-flash-lite,demo_big5,84,GAAIS_7_P,Artificial Intelligence can have positive impacts ...,1,5,163,1,164,,5
+2026-04-01T21:12:33.939188+00:00,google/gemini-2.5-flash-lite,demo_big5,84,GAAIS_17_P,Artificial Intelligence is exciting....,1,5,156,1,157,,5
+2026-04-01T21:12:34.436810+00:00,google/gemini-2.5-flash-lite,demo_big5,84,R_GAAIS_3_N,I find Artificial Intelligence sinister....,1,2,157,1,158,,2
+2026-04-01T21:12:35.041356+00:00,google/gemini-2.5-flash-lite,demo_big5,84,R_GAAIS_8_N,Artificial Intelligence might take control of peop...,1,2,159,1,160,,2
+2026-04-01T21:12:35.512454+00:00,google/gemini-2.5-flash-lite,demo_big5,85,GAAIS_5_P,I am impressed by what Artificial Intelligence can...,1,5,161,1,162,,5
+2026-04-01T21:12:35.868964+00:00,google/gemini-2.5-flash-lite,demo_big5,85,GAAIS_7_P,Artificial Intelligence can have positive impacts ...,1,5,163,1,164,,5
+2026-04-01T21:12:39.516631+00:00,google/gemini-2.5-flash-lite,demo_big5,85,GAAIS_17_P,Artificial Intelligence is exciting....,1,5,156,1,157,,5
+2026-04-01T21:12:39.877828+00:00,google/gemini-2.5-flash-lite,demo_big5,85,R_GAAIS_3_N,I find Artificial Intelligence sinister....,1,1,157,1,158,,1
+2026-04-01T21:12:40.292430+00:00,google/gemini-2.5-flash-lite,demo_big5,85,R_GAAIS_8_N,Artificial Intelligence might take control of peop...,1,3,159,1,160,,3
+2026-04-01T21:12:41.116684+00:00,google/gemini-2.5-flash-lite,demo_big5,86,GAAIS_5_P,I am impressed by what Artificial Intelligence can...,1,4,160,1,161,,4
+2026-04-01T21:12:42.109660+00:00,google/gemini-2.5-flash-lite,demo_big5,86,GAAIS_7_P,Artificial Intelligence can have positive impacts ...,1,5,162,1,163,,5
+2026-04-01T21:12:42.450485+00:00,google/gemini-2.5-flash-lite,demo_big5,86,GAAIS_17_P,Artificial Intelligence is exciting....,1,5,155,1,156,,5
+2026-04-01T21:12:42.805305+00:00,google/gemini-2.5-flash-lite,demo_big5,86,R_GAAIS_3_N,I find Artificial Intelligence sinister....,1,4,156,1,157,,4
+2026-04-01T21:12:43.142139+00:00,google/gemini-2.5-flash-lite,demo_big5,86,R_GAAIS_8_N,Artificial Intelligence might take control of peop...,1,4,158,1,159,,4
+2026-04-01T21:12:43.494915+00:00,google/gemini-2.5-flash-lite,demo_big5,87,GAAIS_5_P,I am impressed by what Artificial Intelligence can...,1,5,160,1,161,,5
+2026-04-01T21:12:44.343928+00:00,google/gemini-2.5-flash-lite,demo_big5,87,GAAIS_7_P,Artificial Intelligence can have positive impacts ...,1,5,162,1,163,,5
+2026-04-01T21:12:44.676465+00:00,google/gemini-2.5-flash-lite,demo_big5,87,GAAIS_17_P,Artificial Intelligence is exciting....,1,5,155,1,156,,5
+2026-04-01T21:12:45.041219+00:00,google/gemini-2.5-flash-lite,demo_big5,87,R_GAAIS_3_N,I find Artificial Intelligence sinister....,1,1,156,1,157,,1
+2026-04-01T21:12:45.376269+00:00,google/gemini-2.5-flash-lite,demo_big5,87,R_GAAIS_8_N,Artificial Intelligence might take control of peop...,1,2,158,1,159,,2
+2026-04-01T21:12:46.564086+00:00,google/gemini-2.5-flash-lite,demo_big5,88,GAAIS_5_P,I am impressed by what Artificial Intelligence can...,1,5,163,1,164,,5
+2026-04-01T21:12:46.912406+00:00,google/gemini-2.5-flash-lite,demo_big5,88,GAAIS_7_P,Artificial Intelligence can have positive impacts ...,1,5,165,1,166,,5
+2026-04-01T21:12:47.321409+00:00,google/gemini-2.5-flash-lite,demo_big5,88,GAAIS_17_P,Artificial Intelligence is exciting....,1,5,158,1,159,,5
+2026-04-01T21:12:47.668261+00:00,google/gemini-2.5-flash-lite,demo_big5,88,R_GAAIS_3_N,I find Artificial Intelligence sinister....,1,2,159,1,160,,2
+2026-04-01T21:12:48.021851+00:00,google/gemini-2.5-flash-lite,demo_big5,88,R_GAAIS_8_N,Artificial Intelligence might take control of peop...,1,3,161,1,162,,3
+2026-04-01T21:13:19.524489+00:00,google/gemini-2.5-flash-lite,demo_big5,89,GAAIS_5_P,I am impressed by what Artificial Intelligence can...,1,5,162,1,163,,5
+2026-04-01T21:13:19.995501+00:00,google/gemini-2.5-flash-lite,demo_big5,89,GAAIS_7_P,Artificial Intelligence can have positive impacts ...,1,5,164,1,165,,5
+2026-04-01T21:13:20.318997+00:00,google/gemini-2.5-flash-lite,demo_big5,89,GAAIS_17_P,Artificial Intelligence is exciting....,1,5,157,1,158,,5
+2026-04-01T21:13:20.693223+00:00,google/gemini-2.5-flash-lite,demo_big5,89,R_GAAIS_3_N,I find Artificial Intelligence sinister....,1,2,158,1,159,,2
+2026-04-01T21:13:21.110638+00:00,google/gemini-2.5-flash-lite,demo_big5,89,R_GAAIS_8_N,Artificial Intelligence might take control of peop...,1,3,160,1,161,,3
+2026-04-01T21:13:21.493735+00:00,google/gemini-2.5-flash-lite,demo_big5,90,GAAIS_5_P,I am impressed by what Artificial Intelligence can...,1,5,162,1,163,,5
+2026-04-01T21:13:21.839168+00:00,google/gemini-2.5-flash-lite,demo_big5,90,GAAIS_7_P,Artificial Intelligence can have positive impacts ...,1,4,164,1,165,,4
+2026-04-01T21:13:22.165422+00:00,google/gemini-2.5-flash-lite,demo_big5,90,GAAIS_17_P,Artificial Intelligence is exciting....,1,5,157,1,158,,5
+2026-04-01T21:13:23.002303+00:00,google/gemini-2.5-flash-lite,demo_big5,90,R_GAAIS_3_N,I find Artificial Intelligence sinister....,1,3,158,1,159,,3
+2026-04-01T21:13:23.392788+00:00,google/gemini-2.5-flash-lite,demo_big5,90,R_GAAIS_8_N,Artificial Intelligence might take control of peop...,1,3,160,1,161,,3
+2026-04-01T21:13:23.820461+00:00,google/gemini-2.5-flash-lite,demo_big5,91,GAAIS_5_P,I am impressed by what Artificial Intelligence can...,1,4,160,1,161,,4
+2026-04-01T21:13:24.330863+00:00,google/gemini-2.5-flash-lite,demo_big5,91,GAAIS_7_P,Artificial Intelligence can have positive impacts ...,1,4,162,1,163,,4
+2026-04-01T21:13:24.705343+00:00,google/gemini-2.5-flash-lite,demo_big5,91,GAAIS_17_P,Artificial Intelligence is exciting....,1,4,155,1,156,,4
+2026-04-01T21:13:25.607140+00:00,google/gemini-2.5-flash-lite,demo_big5,91,R_GAAIS_3_N,I find Artificial Intelligence sinister....,1,3,156,1,157,,3
+2026-04-01T21:13:25.945306+00:00,google/gemini-2.5-flash-lite,demo_big5,91,R_GAAIS_8_N,Artificial Intelligence might take control of peop...,1,3,158,1,159,,3
+2026-04-01T21:13:26.278531+00:00,google/gemini-2.5-flash-lite,demo_big5,92,GAAIS_5_P,I am impressed by what Artificial Intelligence can...,1,4,161,1,162,,4
+2026-04-01T21:13:26.632658+00:00,google/gemini-2.5-flash-lite,demo_big5,92,GAAIS_7_P,Artificial Intelligence can have positive impacts ...,1,4,163,1,164,,4
+2026-04-01T21:13:26.992136+00:00,google/gemini-2.5-flash-lite,demo_big5,92,GAAIS_17_P,Artificial Intelligence is exciting....,1,4,156,1,157,,4
+2026-04-01T21:13:27.444531+00:00,google/gemini-2.5-flash-lite,demo_big5,92,R_GAAIS_3_N,I find Artificial Intelligence sinister....,1,4,157,1,158,,4
+2026-04-01T21:13:27.818031+00:00,google/gemini-2.5-flash-lite,demo_big5,92,R_GAAIS_8_N,Artificial Intelligence might take control of peop...,1,4,159,1,160,,4
+2026-04-01T21:13:28.174684+00:00,google/gemini-2.5-flash-lite,demo_big5,93,GAAIS_5_P,I am impressed by what Artificial Intelligence can...,1,5,159,1,160,,5
+2026-04-01T21:13:28.515720+00:00,google/gemini-2.5-flash-lite,demo_big5,93,GAAIS_7_P,Artificial Intelligence can have positive impacts ...,1,4,161,1,162,,4
+2026-04-01T21:13:28.887219+00:00,google/gemini-2.5-flash-lite,demo_big5,93,GAAIS_17_P,Artificial Intelligence is exciting....,1,5,154,1,155,,5
+2026-04-01T21:13:29.507345+00:00,google/gemini-2.5-flash-lite,demo_big5,93,R_GAAIS_3_N,I find Artificial Intelligence sinister....,1,4,155,1,156,,4
+2026-04-01T21:13:29.862086+00:00,google/gemini-2.5-flash-lite,demo_big5,93,R_GAAIS_8_N,Artificial Intelligence might take control of peop...,1,4,157,1,158,,4
+2026-04-01T21:13:30.205284+00:00,google/gemini-2.5-flash-lite,demo_big5,94,GAAIS_5_P,I am impressed by what Artificial Intelligence can...,1,4,163,1,164,,4
+2026-04-01T21:13:30.560287+00:00,google/gemini-2.5-flash-lite,demo_big5,94,GAAIS_7_P,Artificial Intelligence can have positive impacts ...,1,4,165,1,166,,4
+2026-04-01T21:13:30.963252+00:00,google/gemini-2.5-flash-lite,demo_big5,94,GAAIS_17_P,Artificial Intelligence is exciting....,1,5,158,1,159,,5
+2026-04-01T21:13:31.603304+00:00,google/gemini-2.5-flash-lite,demo_big5,94,R_GAAIS_3_N,I find Artificial Intelligence sinister....,1,5,159,1,160,,5
+2026-04-01T21:13:31.952465+00:00,google/gemini-2.5-flash-lite,demo_big5,94,R_GAAIS_8_N,Artificial Intelligence might take control of peop...,1,5,161,1,162,,5
+2026-04-01T21:13:32.299739+00:00,google/gemini-2.5-flash-lite,demo_big5,95,GAAIS_5_P,I am impressed by what Artificial Intelligence can...,1,4,161,1,162,,4
+2026-04-01T21:13:33.195269+00:00,google/gemini-2.5-flash-lite,demo_big5,95,GAAIS_7_P,Artificial Intelligence can have positive impacts ...,1,4,163,1,164,,4
+2026-04-01T21:13:33.545953+00:00,google/gemini-2.5-flash-lite,demo_big5,95,GAAIS_17_P,Artificial Intelligence is exciting....,1,5,156,1,157,,5
+2026-04-01T21:13:33.876369+00:00,google/gemini-2.5-flash-lite,demo_big5,95,R_GAAIS_3_N,I find Artificial Intelligence sinister....,1,3,157,1,158,,3
+2026-04-01T21:13:34.312731+00:00,google/gemini-2.5-flash-lite,demo_big5,95,R_GAAIS_8_N,Artificial Intelligence might take control of peop...,1,3,159,1,160,,3
+2026-04-01T21:13:34.675128+00:00,google/gemini-2.5-flash-lite,demo_big5,96,GAAIS_5_P,I am impressed by what Artificial Intelligence can...,1,5,163,1,164,,5
+2026-04-01T21:13:35.049309+00:00,google/gemini-2.5-flash-lite,demo_big5,96,GAAIS_7_P,Artificial Intelligence can have positive impacts ...,1,5,165,1,166,,5
+2026-04-01T21:13:35.363703+00:00,google/gemini-2.5-flash-lite,demo_big5,96,GAAIS_17_P,Artificial Intelligence is exciting....,1,5,158,1,159,,5
+2026-04-01T21:13:35.709799+00:00,google/gemini-2.5-flash-lite,demo_big5,96,R_GAAIS_3_N,I find Artificial Intelligence sinister....,1,2,159,1,160,,2
+2026-04-01T21:13:36.142313+00:00,google/gemini-2.5-flash-lite,demo_big5,96,R_GAAIS_8_N,Artificial Intelligence might take control of peop...,1,2,161,1,162,,2
+2026-04-01T21:13:36.500904+00:00,google/gemini-2.5-flash-lite,demo_big5,97,GAAIS_5_P,I am impressed by what Artificial Intelligence can...,1,5,161,1,162,,5
+2026-04-01T21:13:36.914401+00:00,google/gemini-2.5-flash-lite,demo_big5,97,GAAIS_7_P,Artificial Intelligence can have positive impacts ...,1,5,163,1,164,,5
+2026-04-01T21:13:37.295887+00:00,google/gemini-2.5-flash-lite,demo_big5,97,GAAIS_17_P,Artificial Intelligence is exciting....,1,5,156,1,157,,5
+2026-04-01T21:13:38.143598+00:00,google/gemini-2.5-flash-lite,demo_big5,97,R_GAAIS_3_N,I find Artificial Intelligence sinister....,1,4,157,1,158,,4
+2026-04-01T21:13:39.004110+00:00,google/gemini-2.5-flash-lite,demo_big5,97,R_GAAIS_8_N,Artificial Intelligence might take control of peop...,1,4,159,1,160,,4
+2026-04-01T21:13:39.322491+00:00,google/gemini-2.5-flash-lite,demo_big5,98,GAAIS_5_P,I am impressed by what Artificial Intelligence can...,1,4,160,1,161,,4
+2026-04-01T21:13:39.660673+00:00,google/gemini-2.5-flash-lite,demo_big5,98,GAAIS_7_P,Artificial Intelligence can have positive impacts ...,1,4,162,1,163,,4
+2026-04-01T21:13:40.462357+00:00,google/gemini-2.5-flash-lite,demo_big5,98,GAAIS_17_P,Artificial Intelligence is exciting....,1,4,155,1,156,,4
+2026-04-01T21:13:40.829749+00:00,google/gemini-2.5-flash-lite,demo_big5,98,R_GAAIS_3_N,I find Artificial Intelligence sinister....,1,3,156,1,157,,3
+2026-04-01T21:13:41.163748+00:00,google/gemini-2.5-flash-lite,demo_big5,98,R_GAAIS_8_N,Artificial Intelligence might take control of peop...,1,2,158,1,159,,2
+2026-04-01T21:13:41.482969+00:00,google/gemini-2.5-flash-lite,demo_big5,99,GAAIS_5_P,I am impressed by what Artificial Intelligence can...,1,5,159,1,160,,5
+2026-04-01T21:14:12.854605+00:00,google/gemini-2.5-flash-lite,demo_big5,99,GAAIS_7_P,Artificial Intelligence can have positive impacts ...,1,4,161,1,162,,4
+2026-04-01T21:14:13.226128+00:00,google/gemini-2.5-flash-lite,demo_big5,99,GAAIS_17_P,Artificial Intelligence is exciting....,1,4,154,1,155,,4
+2026-04-01T21:14:13.622375+00:00,google/gemini-2.5-flash-lite,demo_big5,99,R_GAAIS_3_N,I find Artificial Intelligence sinister....,1,3,155,1,156,,3
+2026-04-01T21:14:45.106745+00:00,google/gemini-2.5-flash-lite,demo_big5,99,R_GAAIS_8_N,Artificial Intelligence might take control of peop...,1,2,157,1,158,,2
+2026-04-01T21:14:45.435243+00:00,google/gemini-2.5-flash-lite,demo_big5,100,GAAIS_5_P,I am impressed by what Artificial Intelligence can...,1,5,162,1,163,,5
+2026-04-01T21:14:45.846247+00:00,google/gemini-2.5-flash-lite,demo_big5,100,GAAIS_7_P,Artificial Intelligence can have positive impacts ...,1,5,164,1,165,,5
+2026-04-01T21:14:46.231175+00:00,google/gemini-2.5-flash-lite,demo_big5,100,GAAIS_17_P,Artificial Intelligence is exciting....,1,5,157,1,158,,5
+2026-04-01T21:14:46.606567+00:00,google/gemini-2.5-flash-lite,demo_big5,100,R_GAAIS_3_N,I find Artificial Intelligence sinister....,1,3,158,1,159,,3
+2026-04-01T21:14:47.058475+00:00,google/gemini-2.5-flash-lite,demo_big5,100,R_GAAIS_8_N,Artificial Intelligence might take control of peop...,1,2,160,1,161,,2
