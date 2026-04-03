@@ -9,7 +9,6 @@
 3. Query one or more LLMs with `scripts/01_generate_synthetic_GSS.py`.
 4. Use the resulting CSV files for evaluations with JSD and homogenisation `scripts/02-evaluations_results.py`.
 
-The analysis covers 52 survey questions spanning culture-war issues (abortion, immigration, civil liberties) and non-culture-war domains (institutional confidence, economic outlook, social trust).
 
 ## Repository Structure
 
